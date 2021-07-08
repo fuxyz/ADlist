@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hBKiBHZ802bVJMh8jVJ2qA
+! Checksum: hUTKGWXEfnF5lb83q8IIew
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202107082110
-! Last Modified: 2021年07月08日 21:10
+! Version: 202107090250
+! Last Modified: 2021年07月09日 02:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -12122,6 +12122,7 @@ _popunder+$popup
 ###adrightrail
 ###adriver_middle
 ###adriver_top
+###adrotate_leaderboard_hm
 ###adrotator
 ###adrow
 ###adrow-house
@@ -30647,6 +30648,7 @@ _popunder+$popup
 ##.widget_adswidget3-quick-adsense
 ##.widget_adswidget4-quick-adsense
 ##.widget_adv_location
+##.widget_adv_text
 ##.widget_advads_ad_widget
 ##.widget_advert
 ##.widget_advert_content
@@ -53233,7 +53235,6 @@ cargurus.com##.bannerDiv
 sastudy.co.za##.bannerHolder728
 mumbrella.com.au##.bannerSide
 tribuna.com##.banner__annotation
-sputniknews.com##.banner__content
 tass.com##.banner__wrapper
 caclubindia.com##.banner_border
 news.am##.banner_click
@@ -57926,6 +57927,9 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||887251.com^
+||joannalaura.com^
+||vainews.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/d/*-*-*.ap|$script,third-party
@@ -65442,8 +65446,10 @@ _yad_jsonp_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 ||ssp.21ic.com^
+||pstatp.com/origin/pgc-image/bb2ebb31f0964de3b36ba5f5b6fcc521
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+youzhidy.com##IFRAME[src^="data"]
 21ic.com##.couplet_ad2
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -70494,8 +70500,7 @@ eyuyao.com##div[id^="x_ad_"]
 oschina.net##div[name="detail_show_footer"]
 oschina.net##div[name="floatAdbox"]
 oschina.net##div[name^="index_banner_"]
-mp4er.com##div[onclick*=".exing101.com"]
-mp4er.com##div[onclick*=".exing113.com"]
+mp4er.com##div[onclick*="exing"]
 mp4er.com##div[onclick*="exvip23.com"]
 jsr9.com##div[onclick*="location"]
 nfmovies.com##div[onclick="openurl()"]
