@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: IOBTSzlIWyEvJQxmi8axXw
+! Checksum: /0IBKO3kvjjc7gASKbb+cA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202107101452
-! Last Modified: 2021年07月10日 14:52
+! Version: 202107102102
+! Last Modified: 2021年07月10日 21:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -5435,7 +5435,6 @@ tieba.baidu.com##.tuijian-wrap
 /google-adsense-
 /google-adsense.
 /google-adverts-
-/google-adwords
 /google-afc-
 /google-afc.
 /google-dfp-
@@ -24604,8 +24603,8 @@ _popunder+$popup
 ##.catalog_ads
 ##.catalyst-ads
 ##.cate_right_ad
-##.category-ad
-##.category-ads
+##.category-ad:not(html):not(body)
+##.category-ads:not(html):not(body)
 ##.category-advertorial
 ##.category-top-ads
 ##.categoryMosaic-advertising
@@ -30954,6 +30953,7 @@ _popunder+$popup
 ##[href^="https://join3.bannedsextapes.com"]
 ##[href^="https://mylead.global/stl/"] > img
 ##[href^="https://mysbitl.com"]
+##[href^="https://pulsetrack.biz/"]
 ##[href^="https://r.kraken.com/"]
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
@@ -51403,6 +51403,7 @@ menstennisforums.com#@#.top_ads
 ||idlebrain.com^*/main-
 ||idlebrain.com^*/sky-
 ||idlebrain.com^*/square-
+||ignimgs.com/ign/pogoadk.js$script,domain=ign.com
 ||iheart.com^*/getLiveRadioAdConfig
 ||imgcarry.com/includes/js/layer.js
 ||imgshots.com/includes/js/layer.js
@@ -77839,10 +77840,10 @@ fqsousou.com,kengso.com#@#.user-share
 /google-analyticator/*
 /google-analytics-$~image
 /google-analytics.$~image
-/google-analytics/*$domain=~webapps.stackexchange.com
+/google-analytics/*$domain=~stackexchange.com|~superuser.com
 /google-nielsen-analytics.
 /google-tag-manager.
-/google-tag-manager/*
+/google-tag-manager/*$domain=~stackexchange.com|~superuser.com
 /google-tracking/*
 /google.analytics.
 /google/analytics.js
@@ -80960,6 +80961,7 @@ fqsousou.com,kengso.com#@#.user-share
 ://stats.*/index.js
 ://stats.*/script.js
 ://stats.*/stats.aspx
+://temptation.*/temptation.js
 ://track.*/collect
 ://track.*/visitor/
 ://tracker.*/pageview
@@ -102356,6 +102358,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
+@@||starbucks.ca/weblx/static/optimizely.$script
+@@||starbucks.com/weblx/static/optimizely.$script
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.wikia.nocookie.net^*/tracking-opt-in.min.js$script,domain=fandom.com
 @@||tapinfluence.com/tap.js$script,domain=titus2homemaker.com

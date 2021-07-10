@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: HPVWmuYyf3PHDRwauF/pug
+! Checksum: GL+SY2R7cF0L56j2R/5qRQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202107101452
-! Last Modified: 2021年07月10日 14:52
+! Version: 202107102102
+! Last Modified: 2021年07月10日 21:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23560,10 +23560,10 @@ weibo.com##.apps_PCD_reco_detail_right
 /google-analyticator/*
 /google-analytics-$~image
 /google-analytics.$~image
-/google-analytics/*$domain=~webapps.stackexchange.com
+/google-analytics/*$domain=~stackexchange.com|~superuser.com
 /google-nielsen-analytics.
 /google-tag-manager.
-/google-tag-manager/*
+/google-tag-manager/*$domain=~stackexchange.com|~superuser.com
 /google-tracking/*
 /google.analytics.
 /google/analytics.js
@@ -26681,6 +26681,7 @@ weibo.com##.apps_PCD_reco_detail_right
 ://stats.*/index.js
 ://stats.*/script.js
 ://stats.*/stats.aspx
+://temptation.*/temptation.js
 ://track.*/collect
 ://track.*/visitor/
 ://tracker.*/pageview
@@ -48077,6 +48078,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 @@||online.tivo.com/assets/tve/common/js/vendor/jsnlog/$script,~third-party
 @@||realtor.com/rentals/api/optimizely.js$script,~third-party
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
+@@||starbucks.ca/weblx/static/optimizely.$script
+@@||starbucks.com/weblx/static/optimizely.$script
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.wikia.nocookie.net^*/tracking-opt-in.min.js$script,domain=fandom.com
 @@||tapinfluence.com/tap.js$script,domain=titus2homemaker.com
