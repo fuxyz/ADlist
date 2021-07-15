@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZLjpeaPehPIK3VyZptZDUA
+! Checksum: eym6fTUS6bGDwnMYC2FxhQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202107151013
-! Last Modified: 2021年07月15日 10:13
+! Version: 202107151455
+! Last Modified: 2021年07月15日 14:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -27349,6 +27349,7 @@ _mongo_stats/
 ||acint.net^$third-party
 ||acq.io^$third-party
 ||acsbap.com^$third-party
+||acstat.com^$third-party
 ||active-trk7.com^$third-party
 ||activeconversion.com^$third-party
 ||activemeter.com^$third-party
@@ -31477,6 +31478,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||faststart.ru^$third-party
 ||ftrack.ru^$third-party
 ||gdeslon.ru^$third-party
+||get4click.ru^$third-party
 ||giraff.io^$third-party
 ||gnezdo.ru^$third-party
 ||gostats.ru^$third-party
@@ -33957,7 +33959,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.redditmedia.com^
 ||supportmetrics.apple.com^
 ||tracking.miui.com^
-||xp.apple.com^
+||xp.apple.com^$~ping
 ||yandexadexchange.net^
 /^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
 ||convsgmp.taboola.com^
