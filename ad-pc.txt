@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gxyPRNadCmZBlHHej8boWg
+! Checksum: Ftq0kLoKU+gy2hd10+qK/Q
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202107161416
-! Last Modified: 2021年07月16日 14:16
+! Version: 202107162019
+! Last Modified: 2021年07月16日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -24908,6 +24908,7 @@ _popunder+$popup
 ##.container_ad
 ##.container_ad_v
 ##.container_ads_in_article
+##.container_publicidad
 ##.container_row_ad
 ##.container_serendipity_plugin_google_adsense
 ##.contains-ad
@@ -32415,6 +32416,7 @@ auctionstealer.com#@#.ad-border
 job.inshokuten.com#@#.ad-box
 members.portalbuzz.com#@#.ad-btn
 assetbar.com,jazzradio.com,o2.pl#@#.ad-button
+storebyweb.com#@#.ad-carousel
 bahtsold.com#@#.ad-cat
 livedoorblogstyle.jp#@#.ad-center
 job.inshokuten.com#@#.ad-content
@@ -48053,6 +48055,7 @@ menstennisforums.com#@#.top_ads
 ||simplyjmp.com^$popup
 ||singlesexdates.com^$popup
 ||sistacked.com^$popup
+||sixft-apart.com^$popup
 ||slashstar.net^$popup
 ||slikslik.com^$popup
 ||slimsk.pro^$popup
@@ -51288,6 +51291,7 @@ menstennisforums.com#@#.top_ads
 ||dg-premium.com/wp-content/themes/dg-premium/img/siemens.svg
 ||dhakatribune.com/dynamics/dhakaadvs/
 ||diglloyd.com/js2/pub-wide2-ck.js
+||directory.romania-insider.com^$subdocument
 ||dj1symwmxvldi.cloudfront.net/r/$image,domain=coderwall.com
 ||dmxleo.dailymotion.com^
 ||dnsleaktest.com/assets/img/cute-box-image.png
@@ -53728,6 +53732,7 @@ ownedcore.com##.iv-note
 psypost.org##.jeg_midbar
 goldprice.org,silverprice.org##.jmb-ads
 thejewishnews.com##.jn-article_medium-banner
+romania-insider.com##.job-item
 careerone.com.au##.job-search-tower-ad
 marinelink.com,maritimepropulsion.com,yachtingjournal.com##.jq-banner
 demonslayermanga.com,readjujutsukaisen.com##.js-a-container
@@ -53844,7 +53849,6 @@ scanwith.com##.middle-banner
 tradetrucks.com.au##.middle-banner-list
 ibtimes.co.uk##.middle-leaderboard
 stripes.com##.min-h90
-techpowerup.com##.mnnusjsddc
 investopedia.com##.mntl-leaderboard-spacer
 islamicfinder.org##.mobile-cards
 pcmacstore.com##.mobileHide
@@ -53890,7 +53894,6 @@ designtaxi.com##.news-covers > .masonry-brick.nt
 moddb.com##.nextmediaboxtop
 democraticunderground.com##.nhome-mediumrectangle-container
 hulkshare.com##.nhsBotBan
-techpowerup.com##.nkuztfvdxwe
 fiercetelecom.com,fiercevideo.com##.node--type-embed-promo
 ferrarichat.com##.node_sponsor
 cookingforengineers.com##.nothing
@@ -54482,7 +54485,7 @@ probuilds.net##a[class^="dl-blitz-"]
 msn.com##a[href*=".booking.com/"]
 beforeitsnews.com,in5d.com##a[href*=".hop.clickbank.net"]
 limetorrents.info##a[href*=".php"]
-techpowerup.com##a[href*=".tpu"][target*="_blank"]
+techpowerup.com##a[href*=".thx"][target*="_blank"]
 whatismyreferer.com##a[href*="/?offer_id="]
 itweb.co.za##a[href*="/adclick.php?"]
 igorslab.de,landline.media,sundayworld.co.za,theroanokestar.com,visualcapitalist.com##a[href*="/linkout/"]
@@ -55508,7 +55511,7 @@ pornhub.com,pornhubthbh7ap3u.onion#?#:-abp-properties(height: 300px; width: 315p
 pornhub.com,pornhubthbh7ap3u.onion,youporn.com#?#:-abp-properties(float: right; margin-top: 30px; width: 50%;)
 youporn.com#?#aside:-abp-has(a.ad-remove)
 !-----------------------Allowlists to fix broken sites------------------------!
-@@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|zdnet.com
+@@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|techrepublic.com|zdnet.com
 @@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||4channel.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||abcnews.com/assets/js/prebid.min.js$~third-party
@@ -57891,6 +57894,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||jinrongwang.net^
 ||yditweb.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -58575,7 +58579,6 @@ ubmcmm.baidustatic.com
 ||bxgz.cc^
 ||bxjpl.cn^
 ||bydonline.com^
-||bzbsecs.cn^
 ||c.91wan.com^$third-party
 ||cadsips.com^
 ||caiyifz.com^$third-party
@@ -58595,7 +58598,6 @@ ubmcmm.baidustatic.com
 ||cczuxie.com^
 ||cdhhbyy.cn^
 ||cdlinli.com^
-||cdn-t.xyz^
 ||cdnjsp.wang^
 ||cdyqc.com^
 ||ceo8000.net^
@@ -58652,7 +58654,6 @@ ubmcmm.baidustatic.com
 ||coolfenxi.com^
 ||cpc.cc^$third-party
 ||cpm360.com^$third-party
-||cpms.cc^
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
 ||cpv6.com^
@@ -58695,7 +58696,6 @@ ubmcmm.baidustatic.com
 ||d15cjcet1djbmv.cloudfront.net^
 ||d1ad.com^$third-party
 ||d8360.com^$third-party
-||d8ekco.com^
 ||dadjia.com^
 ||dafapai.com^
 ||dagonghuzhu.com^
@@ -58744,7 +58744,6 @@ ubmcmm.baidustatic.com
 ||dlkjgjmy.com^
 ||dlpifu.com^
 ||dlrijiaele.com^
-||dlswzw.cn^
 ||dlzjdesign.com^
 ||dmqapp.com^
 ||dmtrck.com^$third-party
@@ -58795,7 +58794,6 @@ ubmcmm.baidustatic.com
 ||eduad.baidu.com^
 ||eduzzjy.com^
 ||eeyy.com^$third-party
-||egjq.com.cn^
 ||egooad.com^$third-party
 ||einsuran.com.cn^
 ||eiv.baidu.com^
@@ -61995,7 +61993,6 @@ _yad_jsonp_
 ||chinaqking.com/images/qkw/jobApply1.jpg
 ||chinasexq.com/js/tpgg
 ||chinaso.com/iframe336/
-||chinataxservice.cn/static/jquery.1.1.4.min.jxh.js
 ||chinatimes.com/Scripts/bennerad.
 ||chinatruck.org/index.php?m=poster&
 ||chinaxinge.com/gif3/
@@ -72264,7 +72261,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||datas.tianqistatic.com^
 ||daxishi.com^$third-party
 ||dd1.diymianmo.com^
-||df666.pzhttaax.cn^
 ||df888.eastday.com^
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
@@ -73308,13 +73304,11 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||askfsh.cn^
 ||atomicfile.cn^
 ||autobedo.com.cn^
-||awqsaged.cn^
 ||awtks.com^
 ||awyys.com^
 ||axizb.cn^
 ||axuns.com^
 ||b2b5.net^
-||b83pmp.cn^
 ||babalink.net^
 ||babalink.top^
 ||bahu.xyz^
@@ -73343,8 +73337,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||beizhoujt.cn^
 ||bentengcn.com^
 ||betohomeall.com^
-||bfbb.xyz^
-||bgcse.cn^
 ||bgtrtv.top^
 ||bhyddc.com^
 ||bianxianwu.com^
@@ -73392,11 +73384,9 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||bostonceltics.com.cn^
 ||bowei666.xyz^
 ||boweineng.cn^
-||bpdffh.cn^
 ||bqhnj.cn^
 ||bridline.cn^
 ||brysj.vip^
-||bsjgqhe.cn^
 ||btbalex.cn^
 ||bugcreator.cn^
 ||bulankk.com^
@@ -73408,7 +73398,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||bx9000.top^
 ||bxwxorg.com/ui/vue/element.
 ||c2fsd.xyz^
-||cahdfzg.cn^
 ||caichenguang.cn^
 ||caiji.wiki^
 ||caiwanhui.top^
@@ -73433,7 +73422,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||cehbg.com^
 ||ceiyo.com^
 ||cepegas.com^
-||ceyiuy.com^
 ||cf89.gold^
 ||cfdanet.com^
 ||cfhijdsb.cn^
@@ -73451,7 +73439,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||china-waters.com.cn^
 ||chinaairs.cn^
 ||chinachooses.com^
-||chinaqirun.cn^
 ||chinaweian.com^
 ||chinawms.cn^
 ||chinaxingyin.com^
@@ -73503,7 +73490,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||cornplus.cn^
 ||coroplastsheet.cn^
 ||couas.com^
-||coyvzui.cn^
 ||cpcc.xyz^
 ||cqbaitong.cn^
 ||cqdjhj.cn^
@@ -73530,7 +73516,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||czlhgz.com^
 ||czlongle.cn^
 ||czxjx.cn^
-||d36gyu.cn^
 ||dabizi.net/images/pcad.png
 ||dacedsfa.cn^
 ||dachadu.cn^
@@ -73551,7 +73536,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||dasheducation.cn^
 ||daskm.com^
 ||datazhan.com^
-||daylskg.cn^
 ||dbxnvh.cn^
 ||dceni.com^
 ||dd-lightingshow.com^
@@ -73575,19 +73559,16 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||diangezan.me^
 ||dianshihuanping.cn^
 ||dibyc.com^
-||dilqdiw.cn^
 ||dirbfm.cn^
 ||djvalve.com.cn^
 ||dkjdnq.cn^
 ||dl12349.net^
 ||dldsrs.com^
-||dlsdkw.cn^
 ||dlyukun.cn^
 ||dmpsj.cn^
 ||dnfkong.com^
 ||dnjszp.cn^
 ||dodolive.cn^
-||dodomo.info^
 ||dofkfhv.cn^
 ||doujl.cn^
 ||doulaihai.top^
@@ -73605,7 +73586,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||duanwenxue.com/functions/
 ||duluoweiyu.com^
 ||dushuge.net^
-||duwowvo.cn^
 ||duyousxtd.com^
 ||dvzk66.cn^
 ||dxcssc.cn^
@@ -73620,7 +73600,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||ealcrrm.cn^
 ||ebuysolar.com^
 ||echuanglm1.com^
-||ecuwa.cn^
 ||edajin.com^
 ||ediun.com^
 ||edumsys.com^
@@ -73635,8 +73614,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||emgwq.com^
 ||enjuk.com^
 ||enjuw.com^
-||enq5ur.cn^
-||epcqyac.cn^
 ||erhfnv.cn^
 ||erkesi.cn^
 ||esure.wang^
@@ -73645,7 +73622,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||evzimlox.cn^
 ||ew740.cn^
 ||exusr.com^
-||ez2kyh.cn^
 ||ezfashion.com.cn^
 ||f1t5pb.cn^
 ||f4hn9v.com^
@@ -73657,7 +73633,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fashionabacus.com^
 ||fbguxd.cn^
 ||fbxsw.com/js/gg
-||fcgcjw.cn^
 ||fchio.com^
 ||fcrdb.com^
 ||fcuit.com^
@@ -73689,7 +73664,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fjshxzyyxgs.cn^
 ||fjylcy.com^
 ||fkkse.com^
-||fkm2wv.cn^
 ||flbmfc.com^
 ||flctbg.com^
 ||flddsri.cn^
@@ -73704,7 +73678,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fqsgj.com^
 ||fqzds.com^
 ||friend17.net^
-||frjxdv.cn^
 ||fskj100.cn^
 ||fstaw.com^
 ||fsxzbs.cn^
@@ -73719,17 +73692,13 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fwnetrb.cn^
 ||fwyang.com^
 ||fxfhjs.com^
-||fxfvttu.cn^
 ||fy4zb.cn^
 ||fyjyhm.com^
 ||fyvvm.com^
 ||fyzyf.com^
 ||fzdfwy.com^
 ||g1mm3d.cn^
-||g1psz5.cn^
 ||g3ao2q.cn^
-||g8waw1.cn^
-||gadhx.cn^
 ||gagkf.top^
 ||gaihunuo.cn^
 ||galaxyns.com^
@@ -73737,7 +73706,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||gbeik.com^
 ||gbzumh.cn^
 ||gcaog.com^
-||gcctqal.cn^
 ||gdfc0563.com^
 ||gdlbdzkj.com^
 ||gdlvbiaokeji.cn^
@@ -78332,6 +78300,7 @@ fqsousou.com,kengso.com#@#.user-share
 /log/analytics
 /log/browser/event
 /log/collect/*
+/log/counter?
 /log/error?
 /log/event?
 /log/exposed?
@@ -78618,6 +78587,7 @@ fqsousou.com,kengso.com#@#.user-share
 /mpl/mpulse.
 /mpulse.js
 /mpulse.min.js
+/msa-vowels/1/OP/*
 /msftaudience.
 /mstartracking/*
 /mstat/*
@@ -102171,6 +102141,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ||mercadolibre.com/tracks^
 ||pixel.europapress.net^
 ||rvv.emol.com^
+||stats.gruporeforma.com^
 ||statsmp2.emol.com^
 ||t-pan.triodos.com^
 ||t13.cl/hit/

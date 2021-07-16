@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ICiBgDyDGc6GivPqhCMcgA
+! Checksum: BZCT7H58ePZ5EvMnSv/R4Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202107161416
-! Last Modified: 2021年07月16日 14:16
+! Version: 202107162019
+! Last Modified: 2021年07月16日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1426,6 +1426,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||jinrongwang.net^
 ||yditweb.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -2110,7 +2111,6 @@ ubmcmm.baidustatic.com
 ||bxgz.cc^
 ||bxjpl.cn^
 ||bydonline.com^
-||bzbsecs.cn^
 ||c.91wan.com^$third-party
 ||cadsips.com^
 ||caiyifz.com^$third-party
@@ -2130,7 +2130,6 @@ ubmcmm.baidustatic.com
 ||cczuxie.com^
 ||cdhhbyy.cn^
 ||cdlinli.com^
-||cdn-t.xyz^
 ||cdnjsp.wang^
 ||cdyqc.com^
 ||ceo8000.net^
@@ -2187,7 +2186,6 @@ ubmcmm.baidustatic.com
 ||coolfenxi.com^
 ||cpc.cc^$third-party
 ||cpm360.com^$third-party
-||cpms.cc^
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
 ||cpv6.com^
@@ -2230,7 +2228,6 @@ ubmcmm.baidustatic.com
 ||d15cjcet1djbmv.cloudfront.net^
 ||d1ad.com^$third-party
 ||d8360.com^$third-party
-||d8ekco.com^
 ||dadjia.com^
 ||dafapai.com^
 ||dagonghuzhu.com^
@@ -2279,7 +2276,6 @@ ubmcmm.baidustatic.com
 ||dlkjgjmy.com^
 ||dlpifu.com^
 ||dlrijiaele.com^
-||dlswzw.cn^
 ||dlzjdesign.com^
 ||dmqapp.com^
 ||dmtrck.com^$third-party
@@ -2330,7 +2326,6 @@ ubmcmm.baidustatic.com
 ||eduad.baidu.com^
 ||eduzzjy.com^
 ||eeyy.com^$third-party
-||egjq.com.cn^
 ||egooad.com^$third-party
 ||einsuran.com.cn^
 ||eiv.baidu.com^
@@ -5530,7 +5525,6 @@ _yad_jsonp_
 ||chinaqking.com/images/qkw/jobApply1.jpg
 ||chinasexq.com/js/tpgg
 ||chinaso.com/iframe336/
-||chinataxservice.cn/static/jquery.1.1.4.min.jxh.js
 ||chinatimes.com/Scripts/bennerad.
 ||chinatruck.org/index.php?m=poster&
 ||chinaxinge.com/gif3/
@@ -15799,7 +15793,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||datas.tianqistatic.com^
 ||daxishi.com^$third-party
 ||dd1.diymianmo.com^
-||df666.pzhttaax.cn^
 ||df888.eastday.com^
 ||dm*.ppzuowen.com^
 ||dm*.yxlady.com^
@@ -16843,13 +16836,11 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||askfsh.cn^
 ||atomicfile.cn^
 ||autobedo.com.cn^
-||awqsaged.cn^
 ||awtks.com^
 ||awyys.com^
 ||axizb.cn^
 ||axuns.com^
 ||b2b5.net^
-||b83pmp.cn^
 ||babalink.net^
 ||babalink.top^
 ||bahu.xyz^
@@ -16878,8 +16869,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||beizhoujt.cn^
 ||bentengcn.com^
 ||betohomeall.com^
-||bfbb.xyz^
-||bgcse.cn^
 ||bgtrtv.top^
 ||bhyddc.com^
 ||bianxianwu.com^
@@ -16927,11 +16916,9 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||bostonceltics.com.cn^
 ||bowei666.xyz^
 ||boweineng.cn^
-||bpdffh.cn^
 ||bqhnj.cn^
 ||bridline.cn^
 ||brysj.vip^
-||bsjgqhe.cn^
 ||btbalex.cn^
 ||bugcreator.cn^
 ||bulankk.com^
@@ -16943,7 +16930,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||bx9000.top^
 ||bxwxorg.com/ui/vue/element.
 ||c2fsd.xyz^
-||cahdfzg.cn^
 ||caichenguang.cn^
 ||caiji.wiki^
 ||caiwanhui.top^
@@ -16968,7 +16954,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||cehbg.com^
 ||ceiyo.com^
 ||cepegas.com^
-||ceyiuy.com^
 ||cf89.gold^
 ||cfdanet.com^
 ||cfhijdsb.cn^
@@ -16986,7 +16971,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||china-waters.com.cn^
 ||chinaairs.cn^
 ||chinachooses.com^
-||chinaqirun.cn^
 ||chinaweian.com^
 ||chinawms.cn^
 ||chinaxingyin.com^
@@ -17038,7 +17022,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||cornplus.cn^
 ||coroplastsheet.cn^
 ||couas.com^
-||coyvzui.cn^
 ||cpcc.xyz^
 ||cqbaitong.cn^
 ||cqdjhj.cn^
@@ -17065,7 +17048,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||czlhgz.com^
 ||czlongle.cn^
 ||czxjx.cn^
-||d36gyu.cn^
 ||dabizi.net/images/pcad.png
 ||dacedsfa.cn^
 ||dachadu.cn^
@@ -17086,7 +17068,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||dasheducation.cn^
 ||daskm.com^
 ||datazhan.com^
-||daylskg.cn^
 ||dbxnvh.cn^
 ||dceni.com^
 ||dd-lightingshow.com^
@@ -17110,19 +17091,16 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||diangezan.me^
 ||dianshihuanping.cn^
 ||dibyc.com^
-||dilqdiw.cn^
 ||dirbfm.cn^
 ||djvalve.com.cn^
 ||dkjdnq.cn^
 ||dl12349.net^
 ||dldsrs.com^
-||dlsdkw.cn^
 ||dlyukun.cn^
 ||dmpsj.cn^
 ||dnfkong.com^
 ||dnjszp.cn^
 ||dodolive.cn^
-||dodomo.info^
 ||dofkfhv.cn^
 ||doujl.cn^
 ||doulaihai.top^
@@ -17140,7 +17118,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||duanwenxue.com/functions/
 ||duluoweiyu.com^
 ||dushuge.net^
-||duwowvo.cn^
 ||duyousxtd.com^
 ||dvzk66.cn^
 ||dxcssc.cn^
@@ -17155,7 +17132,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||ealcrrm.cn^
 ||ebuysolar.com^
 ||echuanglm1.com^
-||ecuwa.cn^
 ||edajin.com^
 ||ediun.com^
 ||edumsys.com^
@@ -17170,8 +17146,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||emgwq.com^
 ||enjuk.com^
 ||enjuw.com^
-||enq5ur.cn^
-||epcqyac.cn^
 ||erhfnv.cn^
 ||erkesi.cn^
 ||esure.wang^
@@ -17180,7 +17154,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||evzimlox.cn^
 ||ew740.cn^
 ||exusr.com^
-||ez2kyh.cn^
 ||ezfashion.com.cn^
 ||f1t5pb.cn^
 ||f4hn9v.com^
@@ -17192,7 +17165,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fashionabacus.com^
 ||fbguxd.cn^
 ||fbxsw.com/js/gg
-||fcgcjw.cn^
 ||fchio.com^
 ||fcrdb.com^
 ||fcuit.com^
@@ -17224,7 +17196,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fjshxzyyxgs.cn^
 ||fjylcy.com^
 ||fkkse.com^
-||fkm2wv.cn^
 ||flbmfc.com^
 ||flctbg.com^
 ||flddsri.cn^
@@ -17239,7 +17210,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fqsgj.com^
 ||fqzds.com^
 ||friend17.net^
-||frjxdv.cn^
 ||fskj100.cn^
 ||fstaw.com^
 ||fsxzbs.cn^
@@ -17254,17 +17224,13 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||fwnetrb.cn^
 ||fwyang.com^
 ||fxfhjs.com^
-||fxfvttu.cn^
 ||fy4zb.cn^
 ||fyjyhm.com^
 ||fyvvm.com^
 ||fyzyf.com^
 ||fzdfwy.com^
 ||g1mm3d.cn^
-||g1psz5.cn^
 ||g3ao2q.cn^
-||g8waw1.cn^
-||gadhx.cn^
 ||gagkf.top^
 ||gaihunuo.cn^
 ||galaxyns.com^
@@ -17272,7 +17238,6 @@ piaotian5.net##script + div[style="padding:15px;"]
 ||gbeik.com^
 ||gbzumh.cn^
 ||gcaog.com^
-||gcctqal.cn^
 ||gdfc0563.com^
 ||gdlbdzkj.com^
 ||gdlvbiaokeji.cn^
