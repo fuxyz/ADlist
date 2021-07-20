@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Kh4PBlqS+034Wx1i1BIPig
+! Checksum: jVTSEM28iMDdoeALecg9eg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202107201415
-! Last Modified: 2021年07月20日 14:15
+! Version: 202107202019
+! Last Modified: 2021年07月20日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -19686,6 +19686,7 @@ _popunder+$popup
 ##.ad-slot-container
 ##.ad-slot-container-1
 ##.ad-slot-full-width
+##.ad-slot-placeholder
 ##.ad-slot-sidebar
 ##.ad-slot-sidebar-b
 ##.ad-slot-tall
@@ -33882,6 +33883,7 @@ menstennisforums.com#@#.top_ads
 ||alternativeprofitablegate.com^
 ||althoutafrick.info^
 ||altowriestwispy.com^
+||altronopubacc.com^
 ||alwayspainfully.com^
 ||alwqfajh.com^
 ||alwsbnvialll.com^
@@ -42333,6 +42335,7 @@ menstennisforums.com#@#.top_ads
 ||teemprofaneglitter.com^
 ||teennostrils.com^
 ||teenstiffen.com^
+||teenymetropolitan.com^
 ||teeplyinsidere.club^
 ||tefrequesth.top^
 ||tefumiji.xyz^
@@ -43738,6 +43741,7 @@ menstennisforums.com#@#.top_ads
 ||yieldx.com^
 ||yim3eyv5.top^
 ||yincreate.top^
+||yiopse.com^
 ||yirishedspe.info^
 ||yiuilserianaus.club^
 ||yjaobumyovp.com^
@@ -54547,9 +54551,9 @@ facebook.com##a[aria-label="Advertiser link"]
 bernama.com##a[class^="banner_photo_"]
 probuilds.net##a[class^="dl-blitz-"]
 3dnatives.com##a[data-bid][target="_blank"]
+techpowerup.com##a[href*=".bmp"][target*="_blank"]
 msn.com##a[href*=".booking.com/"]
 beforeitsnews.com,in5d.com##a[href*=".hop.clickbank.net"]
-techpowerup.com##a[href*=".nop"][target*="_blank"]
 limetorrents.info##a[href*=".php"]
 whatismyreferer.com##a[href*="/?offer_id="]
 itweb.co.za##a[href*="/adclick.php?"]
@@ -55046,6 +55050,7 @@ redtube.com###popsByTrafficJunky
 thejavmost.com###poster
 imagepost.com###potd
 fapxl.com,javtitan.com,thejavmost.com###preroll
+javseen.tv###previewBox
 youporngay.com###producer
 foxtube.com###pub-container
 celebjihad.com###pud
@@ -55108,7 +55113,7 @@ pornhub.com,pornhubthbh7ap3u.onion##.ad-link + table
 xtube.com##.adContainer
 xxxfuel.com##.adcontainer
 sex3.com##.add-box
-adultbox.eu,bangyoulater.com,beemtube.com,djs-teens.net,femdom-fetish-tube.com,free-celebrity-tube.com,glarysoft.com,gosexy.mobi,hdporn.in,mobilepornmovies.com,onlyhot.biz,pichunter.com,pornshaft.com,porntalk.com,ratemypeach.com,thisav.com##.ads
+adultbox.eu,bangyoulater.com,beemtube.com,djs-teens.net,femdom-fetish-tube.com,free-celebrity-tube.com,glarysoft.com,gosexy.mobi,hdporn.in,javseen.tv,mobilepornmovies.com,onlyhot.biz,pichunter.com,pornshaft.com,porntalk.com,ratemypeach.com,thisav.com##.ads
 mobilepornmovies.com##.ads-mobile
 anyporn.com,cartoon-sex.tv,cutepornvideos.com,lustypuppy.com,pervertslut.com,tubedupe.com,webanddesigners.com##.adv
 katestube.com##.adv-aside
@@ -56026,6 +56031,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 @@||ingrossoprofumitester.it/img/ad-profumeria-$image,~third-party
 @@||jmedj.co.jp/files/$image,~third-party
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
+@@||kmsv.jp/images/ad/$image,~third-party
 @@||koshien-live.net/99/adtag.xml$domain=sportsbull.jp
 @@||krotoszyn.pl/uploads/pub/ads_files/$image,~third-party
 @@||labymod.net/affiliate/$~third-party
@@ -85655,6 +85661,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||24option.com/?oftc=$image,third-party
 ||360buyimg.com^*/unit/log/*/log.js
 ||3crowd.com^*/3c1px.gif
+||3p-geo.yahoo.com^
 ||3qsdn.com/watchtime?
 ||51network.com^$third-party
 ||5251.net/stat.jsp?
@@ -85873,6 +85880,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.wildtangent.com^
 ||analytics.witglobal.net^
 ||analytics.worldtable.co^
+||analytics.yahoo.com^
 ||analytics.yext-static.com^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
@@ -88931,6 +88939,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.footballdb.com^
 ||analytics.getshogun.com^
 ||analytics.ghostery.com^$subdocument,domain=www.ghostery.com
+||analytics.global.sky.com^
 ||analytics.kaggle.io^
 ||analytics.kraken.com^
 ||analytics.mouthshut.com^
@@ -91304,6 +91313,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yellowpages.com/proxy/envoy/
 ||yellowpages.com/proxy/turn_tags/
 ||yelp.*/spice?
+||yimg.com/aaq/wf/wf-darla-
 ||yimg.com/nq/ued/assets/flash/wsclient_
 ||yimg.com^*/yabcs.js
 ||yimg.com^*/ywa.js
