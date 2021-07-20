@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: yNGkejbyCh0ylATuHuAydw
+! Checksum: TEI/Lpr/huy8kYchrIWQ3w
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202107200844
-! Last Modified: 2021年07月20日 08:44
+! Version: 202107201415
+! Last Modified: 2021年07月20日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -585,6 +585,8 @@ xz6d.com
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
 -880-80-4.jpg
+/fdjdjghrut_tt.js
+/fsjghgwyegh_f.js
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -1850,7 +1852,7 @@ _xiuno_com_ad/
 ~ix8.la##div[class^="ADTOPLB_"]
 ##div[class^="ps_"][value="20"]
 ##div[id^="ad_thread"]
-##div[id^="photo-header-title-content-text-dallor"]
+##DIV[id^="photo-header-title-content-text-dall"]
 ##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
@@ -9415,6 +9417,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||34iq.com/index
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -16966,6 +16969,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=tianxiabachang.c
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
 ||xxia.xyz^
+||oorui.cn^
 ||xintengfeiyang.info^
 ||r8sr4j.cn^
 bxwx3.org###addiv3

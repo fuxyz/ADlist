@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +dqcvcw12ATZGjlAksnBbQ
+! Checksum: QQysOUS3ZGf+D1iBFc5DPw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202107200844
-! Last Modified: 2021年07月20日 08:44
+! Version: 202107201415
+! Last Modified: 2021年07月20日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -138,6 +138,8 @@ xz6d.com
 !-----------------------General advert blocking filters-----------------------!
 -1688-wp-media/ads/
 -880-80-4.jpg
+/fdjdjghrut_tt.js
+/fsjghgwyegh_f.js
 -90mh-gg.
 .bid/ads/
 .blog/ads/
@@ -1403,7 +1405,7 @@ _xiuno_com_ad/
 ~ix8.la##div[class^="ADTOPLB_"]
 ##div[class^="ps_"][value="20"]
 ##div[id^="ad_thread"]
-##div[id^="photo-header-title-content-text-dallor"]
+##DIV[id^="photo-header-title-content-text-dall"]
 ##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
@@ -8968,6 +8970,7 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||34iq.com/index
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -16519,6 +16522,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=tianxiabachang.c
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
 ||xxia.xyz^
+||oorui.cn^
 ||xintengfeiyang.info^
 ||r8sr4j.cn^
 bxwx3.org###addiv3
@@ -23983,6 +23987,7 @@ weibo.com##.apps_PCD_reco_detail_right
 /Log?*&adID=
 /Log?act=$image
 /log?action=
+/log?count=
 /log?data=
 /log?documentUrl=
 /Log?entry=
@@ -34614,124 +34619,29 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.footballdb.com^
 ||analytics.getshogun.com^
 ||analytics.ghostery.com^$subdocument,domain=www.ghostery.com
-||analytics.global.sky.com^
-||analytics.gorillanation.com^
-||analytics.hindustantimes.com^
-||analytics.ifood.tv^
-||analytics.iraiser.eu^
-||analytics.islamicfinder.org^
 ||analytics.kaggle.io^
 ||analytics.kraken.com^
-||analytics.linktr.ee^
-||analytics.localytics.com^
-||analytics.meaww.com^
-||analytics.mindjolt.com^
 ||analytics.mouthshut.com^
 ||analytics.nike.com^
 ||analytics.ovh.com^
 ||analytics.plex.tv^
-||analytics.posttv.com^
 ||analytics.productreview.com.au^
 ||analytics.realestate.com.au^
 ||analytics.schoolwires.com^
-||analytics.shorte.st^
-||analytics.sketchup.com^
-||analytics.skyscanner.net^
 ||analytics.slashdotmedia.com^
-||analytics.smallpdf.com^
-||analytics.sportybet.com^
 ||analytics.synedat.com^
-||analytics.teespring.com^
-||analytics.thegedsection.com^
-||analytics.thenest.com^
-||analytics.theneweuropean.co.uk^
-||analytics.thenewslens.com^
-||analytics.thetab.com^
-||analytics.tradedoubler.com^
-||analytics.twentytwowords.com^
 ||analytics.twitter.com^
-||analytics.upworthy.com^
-||analytics.us.archive.org^
-||analytics.yahoo.com^
-||analytics.zg-api.com^
 ||analyzer52.fc2.com^
-||androidcentral.com/sites/androidcentral.com/files/gap/
-||androidcommunity.com/ws/?js
 ||androidfilehost.com/libs/otf/stats.otf.php?
-||androidtv.news/ezoic/
-||angelfire.com/cgi-bin/count.cgi
-||anntaylor.com/webassets/*/page_code.js
 ||anon-stats.eff.org^
-||anp.se/track?
-||answers.com/resources/tac.html
-||any.gs/track/
-||aol.ca/track/
-||aol.co.uk/track/
-||aol.com/articles/traffic/
-||aol.com/beacons/
-||aol.com/master/?
-||aol.com/metrics/
-||aol.com/track/
-||apartments.com^*/al.gif?
-||api.tinypic.com/api.php?action=track
-||api.tumblr.com/*/share/stats
+||apartments.com/clientvisit/al.gif?
 ||apkpure.com/analytics_
-||apnews.com/logger
 ||appanalysis.banggood.com^
-||apphit.com/js/count.js
-||apple.com^*/spacer2.gif?
-||applifier.com/users/tracking?
-||appspot.com/tracking/
-||archive.org^*/analytics.js
-||arcpublishing.com^*/datapoint/save
-||armystudyguide.com/hqxapi/it?
-||arstechnica.co.uk/services/incr.php?stats$xmlhttprequest
-||arstechnica.com/dragons/breath.gif
+||archive.org/includes/analytics.js
 ||arstechnica.com/keys/arstechnica.com/p.js
-||arstechnica.com/services/incr.php?stats$xmlhttprequest
-||arstechnica.com^*.gif?id=
-||art.co.uk/asp/robot/
-||art.com/asp/robot/
-||art.com/asp/UTERecording.asp
-||asianblast.com/statx/
-||ask.com/servlets/ulog?
-||askmen.com/tracking/
-||associatedcontent.com/action_cookie
-||astrology.com/visits/
-||atax.gamermetrics.com^
-||athenatmpbeacon.theglobeandmail.ca^
-||atlantafalcons.com/wp-content/*/metrics.js
-||atlantis.com/_scripts/tsedge/pagemarker.gif?
-||atlas.astrology.com^
 ||atrack.allposters.com^
-||atrack.art.com^
 ||ats.alot.com^
-||att.com/libraries/
-||att.com/scripts/satellite/prod/
-||attachmate.com*/pv.aspx?
-||audible.com^*/uedata/
-||audit.macworld.co.uk^
-||audit.pcadvisor.co.uk^
-||audiusa.com/us/brand/en.usertracking_javascript.js
-||auriq.com/asp/aq_tag.
-||autoblog.com/traffic/
-||autobytel.com/content/shared/markerfile.bin
-||autocar.co.uk/file?
-||autopartswarehouse.com/thirdparty/tracker?
-||autosite.com/scripts/markerfile.bin?
-||autotrack.ebay.$ping
-||autotrader.co.uk/page-tracking/
-||autotrader.co.za/log/
-||autozone.com^*/analytics.js
-||avg.com^*/stats.js
-||avira.com/site/datatracking?
-||avitop.com^*/hitlist.asp
-||aviva.co.uk/metrics/
-||avstop.com^*/poll.gif?
-||azfamily.com/images/pixel.gif
-||azureedge.net/prod/1.0/fp.min.js$domain=mercurynews.com
-||azurewebsites.net/raine/$domain=www.accuweather.com
-||b.gemini.yahoo.com^
+||avitop.com/aviation/hitlist.asp
 ||b.imwx.com^
 ||b.myspace.com^
 ||baidu.com/ecom?
@@ -34771,7 +34681,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon.www.theguardian.com^
 ||beam-ws.giraffe360.com^
 ||beam.giraffe360.com^
-||beap-bc.yahoo.com^
 ||beeg.com/logo.gif?
 ||bench.uc.cn^
 ||bermudasun.bm/stats/
@@ -35332,7 +35241,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gamerdeals.net/aggbug.aspx
 ||gamesgames.com/WebAnalysis/
 ||gamezone.com/?act=
-||ganon.yahoo.com^
 ||gardenweb.com^*/iv_footer.js
 ||gardenweb.com^*/iv_header.js
 ||gc.newsweek.com^
@@ -35601,6 +35509,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ixquick.*/elp?
 ||ixquick.*/pelp?
 ||ixs1.net/s/
+||jac.yahoosandbox.com^
 ||jakpost.net/jptracker/
 ||jal.co.jp/common_rn/js/rtam.js
 ||jaludo.com/pm.php?
@@ -35655,7 +35564,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||letitbit.net/atercattus/letitbit/counter/?
 ||letitbit.net/counter/
 ||lexus.com/lexus-share/js/campaign_tracking.js
-||lh.secure.yahoo.com^
 ||life.com/sm-stat/
 ||lightstep.medium.systems^*/reports
 ||likes.com/api/track_pv
@@ -35671,7 +35579,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||linkedin.com/platform-telemetry/
 ||linkedin.com/sensorCollect/
 ||linkpuls.idg.no^
-||linktr.ee/api/$ping
+||linktr.ee/events
 ||linuxtoday.com/hqxapi/
 ||lipsy.co.uk/_assets/images/skin/tracking/
 ||list.ru/counter?
@@ -35731,8 +35639,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||madthumbs.com/tlog.php
 ||mail.com/monitor/count?
 ||mail.ru/counter?
-||mail.yahoo.com/d/log
-||mail.yahoo.com/dc/rs?log=
 ||mailing.enews.extremetech.com^$image
 ||mailings.gmx.net/action/view/$image
 ||malibubright.com/krtrk/
@@ -36021,9 +35927,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pbsrc.com/common/pixel.png
 ||pci3oo5mg4mn-a.akamaihd.net^
 ||pckeeper.com^*/pixels/
-||pclick.europe.yahoo.com^
-||pclick.internal.yahoo.com^
-||pclick.yahoo.com^
 ||pcmag.com/eu/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||pcmag.com/mst/
 ||pcmag.com^*/analytics.js
@@ -36288,7 +36191,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sdc.com/sdcdata.js
 ||search.ch/audit/
 ||search.usa.gov/javascripts/stats.js
-||search.yahoo.com/ra/click?
 ||searchenginejournal.com/xcs0MhRsfxHG.js
 ||searchenginewatch.com/utils/article_track/
 ||seatgeek.com/sixpack/participate?
@@ -36588,7 +36490,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stickpage.com/counter.php
 ||stocktwits.com/spaceape-web.gif?
 ||stomp.com.sg/site/servlet/tracker
-||store.yahoo.net^*/ywa.js
 ||storenvy.com/tracking/
 ||streamta.pe/stat/
 ||streetdirectory.com/tracking/
@@ -37081,33 +36982,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||xoxo5-eng.spankbang.com^
 ||xstats.evoload.io^
 ||xtrack.capetown.gov.za^
-||yahoo.com/__perf_log_
-||yahoo.com/_td_api/beacon/
-||yahoo.com/b?
 ||yahoo.com/beacon/
-||yahoo.com/neo/stat
-||yahoo.com/neo/ygbeacon/
-||yahoo.com/neo/ymstat
-||yahoo.com/p.gif;
-||yahoo.com/p?
-||yahoo.com/perf.gif?
-||yahoo.com/serv?s
-||yahoo.com/sig=$image
-||yahoo.com/track/
-||yahoo.com/vasterror/imp/
-||yahoo.com/yhs/b?
-||yahoo.com/yi?bv=
-||yahoo.com^*/pageview/
-||yahoo.com^*/rt.gif?
-||yahoo.com^*/ultLog?
 ||yahoo.net/pixel.gif
-||yahoo.net^*/hittail.js
-||yahooapis.com/get/Valueclick/CapAnywhere.getAnnotationCallback?
-||yahoodns.net/pixel.gif
 ||yandex.*/clck/$~ping
 ||yandex.*/count/
 ||yandex.com/clck/
-||ybinst2.ec.yimg.com/ec/*&Type=Event.CPT&$domain=search.yahoo.com
 ||yellowpages.co.in/trac/
 ||yellowpages.com/images/li.gif?
 ||yellowpages.com/proxy/envoy/
