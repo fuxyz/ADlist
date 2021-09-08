@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9UZg40QweolAWvMwszXlNA
+! Checksum: FhoPC/ogxNM9BiagWad1kg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202109080840
-! Last Modified: 2021年09月08日 08:40
+! Version: 202109081415
+! Last Modified: 2021年09月08日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -6975,7 +6975,6 @@ _yad_jsonp_
 ||kancloud.cn/ad/
 ||kanguba.com/file/js/main.asp
 ||kanjiantu.com/images/*.gif
-||kanjiantu.com/images/2020/*.gif
 ||kanjuwo.com/js/6
 ||kanjuwo.com/js/8
 ||kankanmi.com/js/zjgg
@@ -16656,12 +16655,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
 ||cxyldc.com^
-||xahydp.cn^
-||fqigyr.xyz^
+||f8ij9.life^
 ||wuxiap.xyz^
-||qingyiso.cn^
-||lihailin.vip^
-||pijiagui.cn^
+||jiangjinghe.top^
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
 ###content > div[style="padding:10px!important;border-radius:10px;background-color:green;"]
 ###downdiv > .downcode
@@ -34521,6 +34517,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||marktplaats.net/cnt/
 ||npo.nl/divolte/tt/web-event?$domain=zapp.nl
 ||sp.dpgmedia.net^
+||stat.24liveplus.com^
 ||statistics.rbi-nl.com^
 ||ugent.be/js/log.js
 ||counter.zone.ee^$third-party
@@ -34943,7 +34940,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||about.me/track?
 ||academia.edu/record_hit
 ||accuterm.com/data/stat.js
-||acronymfinder.com/~/st/af.js
+||acronymfinder.com/~/tr.ashx
 ||activate.latimes.com/pc/caltimes/?pulse2001=
 ||active.com/ig.track.js
 ||adc-js.nine.com.au^
@@ -45894,6 +45891,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||googleoptimize.com/optimize.js$script,domain=tentree.ca
 @@||googletagmanager.com/gtm.js$domain=ads.spotify.com
 @@||gstatic.com^*/firebase-performance-standalone.js$script,domain=flightradar24.com
+@@||healthgateway.gov.bc.ca/snowplow.js$~third-party
 @@||humaninterest.com/api/analytics/$script,~third-party
 @@||kbctouch.kbc.be^*/dynatrace-$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/adobeAnalytics-searchComponent.js$xmlhttprequest,domain=lenovo.com
