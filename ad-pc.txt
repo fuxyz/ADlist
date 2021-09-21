@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qSdVnGzqa6zAK7LpkSLv9A
+! Checksum: nKapH6i6pdy0VsaqN8KRpQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202109212020
-! Last Modified: 2021年09月21日 20:20
+! Version: 202109220214
+! Last Modified: 2021年09月22日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -22113,6 +22113,7 @@ _800x80_
 ##.adv_x_1
 ##.adv_x_2
 ##.advads-5
+##.advads-close-button
 ##.advads-sticky
 ##.advads-widget
 ##.advads_ad_widget-11
@@ -30887,6 +30888,7 @@ _800x80_
 ##a[href^="https://bestcond1tions.com/"]
 ##a[href^="https://betway.com/"][href*="&a="]
 ##a[href^="https://blackorange.go2cloud.org/"]
+##a[href^="https://bluedelivery.pro/"]
 ##a[href^="https://bngpt.com/"]
 ##a[href^="https://bnsjb1ab1e.com/"]
 ##a[href^="https://bs.serving-sys.com"]
@@ -30919,6 +30921,7 @@ _800x80_
 ##a[href^="https://fakelay.com/"]
 ##a[href^="https://farm.plista.com/pets"]
 ##a[href^="https://fast-redirecting.com/"]
+##a[href^="https://fertilitycommand.com/"]
 ##a[href^="https://fileboom.me/pr/"]
 ##a[href^="https://financeads.net/tc.php?"]
 ##a[href^="https://fleshlight.sjv.io/"]
@@ -31002,6 +31005,7 @@ _800x80_
 ##a[href^="https://prf.hn/click/"][href*="/adref:"] > img
 ##a[href^="https://prf.hn/click/"][href*="/camref:"] > img
 ##a[href^="https://prf.hn/click/"][href*="/creativeref:"] > img
+##a[href^="https://promo-bc.com/"]
 ##a[href^="https://pubads.g.doubleclick.net/"]
 ##a[href^="https://reachtrgt.com/"]
 ##a[href^="https://redsittalvetoft.pro/"]
@@ -32443,7 +32447,6 @@ tf2r.com#@#.adverts
 ||ad-server.co.za^
 ||ad-serverparc.nl^
 ||ad-srv.net^
-||ad-stir.com^
 ||ad-vice.biz^
 ||ad-vortex.com^
 ||ad-wheel.com^
@@ -32480,8 +32483,6 @@ tf2r.com#@#.adverts
 ||adbutler.com^
 ||adbuyer.com^
 ||adcade.com^
-||adcalm.com^
-||adcash.com^
 ||adcastplus.net^
 ||adcde.com^
 ||adcdnx.com^
@@ -32497,7 +32498,6 @@ tf2r.com#@#.adverts
 ||adcmps.com^
 ||adcolo.com^
 ||adcolony.com^
-||adconity.com^
 ||adconjure.com^
 ||adcrax.com^
 ||adcron.com^
@@ -32560,7 +32560,6 @@ tf2r.com#@#.adverts
 ||adl-hunter.com^
 ||adlane.info^
 ||adlook.net^
-||adm.shinobi.jp^
 ||admenhost.com^
 ||admez.com^
 ||admob.com^
@@ -32709,7 +32708,6 @@ tf2r.com#@#.adverts
 ||adsvolum.com^
 ||adsvolume.com^
 ||adswam.com^
-||adswizz.com^
 ||adsxyz.com^
 ||adsyst.biz^
 ||adt328.com^
@@ -32717,8 +32715,6 @@ tf2r.com#@#.adverts
 ||adtags.mobi^
 ||adtaily.com^
 ||adtaily.pl^
-||adthrive.com^
-||adthurst.com^
 ||adtival.com^
 ||adtng.com^
 ||adtoadd.com^
@@ -32739,7 +32735,6 @@ tf2r.com#@#.adverts
 ||adulatoryraisegetaway.com^
 ||adult-adv.com^
 ||adultadvertising.net^
-||adultadworld.com^
 ||adultcamchatfree.com^
 ||adultcamfree.com^
 ||adultcamliveweb.com^
@@ -32778,7 +32773,6 @@ tf2r.com#@#.adverts
 ||adyoulike.com^
 ||adz.co.zw^
 ||adzchoice.com^
-||adzerk.net^
 ||adzfun.info^
 ||adzfun.me^
 ||adzhits.com^
@@ -32967,7 +32961,7 @@ tf2r.com#@#.adverts
 ||alespeonor.com^
 ||alfatraffic.com^
 ||algovid.com^
-||ali-crm.ru^y
+||ali-crm.ru^
 ||aliadvert.ru^
 ||aliencesuffe.top^
 ||alifafdlnjeruif.com^
@@ -33292,6 +33286,7 @@ tf2r.com#@#.adverts
 ||asuydisi.com^
 ||aswfs.xyz^
 ||asxemfnwbrmpdp.com^
+||asxvawth.com^
 ||atadserver.com^
 ||ataijeeg.net^
 ||atas.io^
@@ -33323,7 +33318,6 @@ tf2r.com#@#.adverts
 ||attackscabbagevengeance.com^
 ||attentionsauditoriummall.com^
 ||attenuatecripple.com^
-||atwola.com^
 ||au2m8.com^
 ||auberginecorny.com
 ||auberginises.xyz^
@@ -33781,12 +33775,10 @@ tf2r.com#@#.adverts
 ||bidhead.net^
 ||bidiology.com^
 ||bidrughu.com^
-||bidsxchange.com^
 ||bidsystem.com^
 ||bidtheatre.com^
 ||bidvance.com^
 ||bidverdrd.com^
-||bidvertiser.com^
 ||biemedia.com^
 ||bigappboi.com^
 ||bigbolz.com^
@@ -34022,7 +34014,6 @@ tf2r.com#@#.adverts
 ||breakfastsinew.com^
 ||breakingdeductrates.com^
 ||breakingrubber.com^
-||brealtime.com^
 ||breastfeedingdelightedtease.com^
 ||breastfeedingfabricadorable.com^
 ||breated.club^
@@ -34714,6 +34705,7 @@ tf2r.com#@#.adverts
 ||collectorearnammonia.com^
 ||collectrom.com^
 ||collectrum.com^
+||colletsopelu.cam^
 ||colliersads.com^
 ||colonialismresolute.com^
 ||colonistnobilityheroic.com^
@@ -34907,6 +34899,7 @@ tf2r.com#@#.adverts
 ||counterry.club^
 ||countertrck.com^
 ||countilde.online^
+||coupleairplane.com^
 ||couponcashmerelining.com^
 ||couptoug.net^
 ||couragetea.com^
@@ -36451,6 +36444,7 @@ tf2r.com#@#.adverts
 ||fergetson.site^
 ||fermolo.info^
 ||fernthumbjoin.com^
+||fertilitycommand.com^
 ||fertilizeranaemiaupcoming.com^
 ||fertilizermessyshortcut.com^
 ||fessmegilscha.info^
@@ -37480,6 +37474,7 @@ tf2r.com#@#.adverts
 ||heyad.xyz^
 ||hf18yg8q.com^
 ||hfc195b.com^
+||hfmvtjpcd.com^
 ||hfqclrllll.com^
 ||hfwmgail.com^
 ||hg-bn.com^
@@ -37977,7 +37972,6 @@ tf2r.com#@#.adverts
 ||instraffic.com^
 ||instrumentatlasjacket.com^
 ||insumber.com^
-||insurads.com^
 ||inswebt.com^
 ||intangibleconcordant.com^
 ||intellibanners.com^
@@ -38511,6 +38505,7 @@ tf2r.com#@#.adverts
 ||knubbyknit.com^
 ||knujamgz.com^
 ||knutenegros.pro^
+||knxntpsd.com^
 ||koacojus.net^
 ||koaptooh.net^
 ||koertf.com^
@@ -38586,7 +38581,6 @@ tf2r.com#@#.adverts
 ||labeldollars.com^
 ||labloamyaim.icu^
 ||labwarehousepicturesque.com^
-||lacerta.space^
 ||lacingbiron.com^
 ||ladbrokesaffiliates.com.au^
 ||laddergrandma.com^
@@ -39347,6 +39341,7 @@ tf2r.com#@#.adverts
 ||midasatlas.com^
 ||midastouchrt.com^
 ||middleimpetuous.com^
+||midnightimpressionperception.com^
 ||midnightnosebleeddoorway.com^
 ||midootib.net^
 ||midpopedge.com^
@@ -39833,7 +39828,6 @@ tf2r.com#@#.adverts
 ||nemewagro.com^
 ||nenrk.us^
 ||neoamwhdg.com^
-||neobux.com^
 ||neogaeakasher.com^
 ||nepobedimiy2kot11jf.com^
 ||nereserv.com^
@@ -41323,7 +41317,6 @@ tf2r.com#@#.adverts
 ||promoted.com^
 ||promriftahead.com^
 ||pronunciationpreoccupyinconsistency.com^
-||propellerads.com^
 ||propellerclick.com^
 ||propellerpops.com^
 ||propelplus.com^
@@ -42000,7 +41993,6 @@ tf2r.com#@#.adverts
 ||repseudotisiez.xyz^
 ||reptilefightearn.com^
 ||reptilesire.com^
-||republer.com^
 ||requentlyfths.club^
 ||requestion.club^
 ||requiresdetached.com^
@@ -42058,14 +42050,12 @@ tf2r.com#@#.adverts
 ||rev4rtb.com^
 ||revampcdn.com^
 ||revbigo.com^
-||revcontent.com^
 ||revdepo.com^
 ||revelationneighbourly.com^
 ||revengemeantjackpot.com^
 ||revenue.com^
 ||revenuecpmnetwork.com^
 ||revenueenslave.com^
-||revenueflex.com^
 ||revenuehits.com^
 ||revenuemantra.com^
 ||revenuenetwork.com^
@@ -42314,7 +42304,6 @@ tf2r.com#@#.adverts
 ||ruamupr.com^
 ||rubbishmilliondelightful.com^
 ||rubcomplaintdimly.com^
-||rubiconproject.com^
 ||rucegipti.com^
 ||ruefulspanishresolute.com^
 ||rufflycouncil.com^
@@ -45462,7 +45451,9 @@ tf2r.com#@#.adverts
 ||actiondesk.com^$third-party
 ||activedancer.com^$third-party
 ||actpx.com^$third-party
+||ad-mapps.com^$third-party
 ||ad-sponsor.com^$third-party
+||ad-stir.com^$third-party
 ||ad.style^$third-party
 ||ad20.net^$third-party
 ||ad2adnetwork.biz^$third-party
@@ -45490,8 +45481,11 @@ tf2r.com#@#.adverts
 ||adbetclickin.pink^$third-party
 ||adbetnet.com^$third-party
 ||adbit.biz^$third-party
+||adcalm.com^$third-party
+||adcash.com^$third-party
 ||adcell.com^$third-party
 ||adclickafrica.com^$third-party
+||adconity.com^$third-party
 ||adconscious.com^$third-party
 ||addoor.net^$third-party
 ||addroid.com^$third-party
@@ -45583,6 +45577,7 @@ tf2r.com#@#.adverts
 ||adlpartner.com^$third-party
 ||adlux.com^$third-party
 ||adm-vids.info^$third-party
+||adm.shinobi.jp^$third-party
 ||admagnet.net^$third-party
 ||admailtiser.com^$third-party
 ||admamba.com^$third-party
@@ -45703,6 +45698,7 @@ tf2r.com#@#.adverts
 ||adsummos.net^$third-party
 ||adsupermarket.com^$third-party
 ||adsvert.com^$third-party
+||adswizz.com^$third-party
 ||adtarget.com.tr^$third-party
 ||adtdp.com^$third-party
 ||adtear.com^$third-party
@@ -45714,11 +45710,14 @@ tf2r.com#@#.adverts
 ||adtelligent.com^$third-party
 ||adteractive.com^$third-party
 ||adtgs.com^$third-party
+||adthrive.com^$third-party
+||adthurst.com^$third-party
 ||adtival.network^$third-party
 ||adtraction.com^$third-party
 ||adtrix.com^$third-party
 ||adtrue.com^$third-party
 ||adtwirl.com^$third-party
+||adultadworld.com^$third-party
 ||adultimate.net^$third-party
 ||adup-tech.com^$third-party
 ||adurr.com^$third-party
@@ -45805,6 +45804,7 @@ tf2r.com#@#.adverts
 ||adxpub.com^$third-party
 ||adysis.com^$third-party
 ||adzbazar.com^$third-party
+||adzerk.net^$third-party
 ||adzouk.com^$third-party
 ||adzs.nl^$third-party
 ||adzyou.com^$third-party
@@ -45883,6 +45883,7 @@ tf2r.com#@#.adverts
 ||assoc-amazon.fr^$third-party
 ||assoc-amazon.it^$third-party
 ||asterpix.com^$third-party
+||atwola.com^$third-party
 ||auctionnudge.com^$third-party
 ||audience2media.com^$third-party
 ||audiencerun.com^$third-party
@@ -45955,6 +45956,8 @@ tf2r.com#@#.adverts
 ||bidfilter.com^$third-party
 ||bidgear.com^$third-party
 ||bidscape.it^$third-party
+||bidsxchange.com^$third-party
+||bidvertiser.com^$third-party
 ||bigpulpit.com^$third-party
 ||bin-layer.de^$third-party
 ||bingo4affiliates.com^$third-party
@@ -45983,6 +45986,7 @@ tf2r.com#@#.adverts
 ||boostads.net^$third-party
 ||braun634.com^$third-party
 ||breakingfeedz.com^$third-party
+||brealtime.com^$third-party
 ||broadstreetads.com^$third-party
 ||btnibbler.com^$third-party
 ||btpnav.com^$third-party
@@ -46308,6 +46312,7 @@ tf2r.com#@#.adverts
 ||instantbannercreator.com^$third-party
 ||insticator.com^$third-party
 ||instreamvideo.ru^$third-party
+||insurads.com^$third-party
 ||integral-marketing.com^$third-party
 ||intenthq.com^$third-party
 ||intentmedia.net^$third-party
@@ -46441,6 +46446,7 @@ tf2r.com#@#.adverts
 ||nativeads.com^$third-party
 ||nativeroll.tv^$third-party
 ||nativespot.com^$third-party
+||neobux.com^$third-party
 ||neodatagroup.com^$third-party
 ||neoebiz.co.kr^$third-party
 ||neoffic.com^$third-party
@@ -46582,6 +46588,7 @@ tf2r.com#@#.adverts
 ||prf.hn^$third-party
 ||promo-reklama.ru^$third-party
 ||propellente.net^$third-party
+||propellerads.com^$third-party
 ||proper.io^$third-party
 ||pub-fit.com^$third-party
 ||pubdirecte.com^$third-party
@@ -46624,11 +46631,15 @@ tf2r.com#@#.adverts
 ||reflethenfortoft.info^$third-party
 ||registered-spotters-build.com^$third-party
 ||relytec.com^$third-party
+||republer.com^$third-party
+||revcontent.com^$third-party
+||revenueflex.com^$third-party
 ||revenuegiants.com^$third-party
 ||reyden-x.com^$third-party
 ||rhombusads.com^$third-party
 ||roirocket.com^$third-party
 ||rotaban.ru^$third-party
+||rubiconproject.com^$third-party
 ||salvador24.com^$third-party
 ||sape.ru^$third-party
 ||saymedia.com^$third-party
@@ -47305,6 +47316,7 @@ tf2r.com#@#.adverts
 ||bedorm.com^$popup
 ||beklefkiom.com^$popup
 ||belwrite.com^$popup
+||bemachopor.com^$popup
 ||bemobtrcks.com^$popup
 ||bemobtrk.com^$popup
 ||benoopto.com^$popup
@@ -51485,6 +51497,7 @@ designtaxi.com###in-news-link-1
 designtaxi.com###in-news-link-2
 wsj.com###in_ad_col_b
 thefastmode.com###inarticlemodule
+datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###inline-top
 krnb.com###inner-footer
 booklife.com###interstitial
 osbot.org###ipsLayout_footer
@@ -51703,6 +51716,7 @@ saharareporters.com###stage-header
 geekwire.com###startup-resources-sidebar
 newcartestdrive.com###static-asset-placeholder-2
 newcartestdrive.com###static-asset-placeholder-3
+datamation.com,esecurityplanet.com,eweek.com,serverwatch.com,webopedia.com###sticky-bottom
 coincodex.com###sticky-footerCCx4
 fool.com###sticky-wrapper
 afr.com###stickyLeaderboard
@@ -52365,6 +52379,7 @@ w3techs.com##.feat
 mumbrella.com.au##.featureBanner
 ar12gaming.com,geekwire.com##.featured-sponsor
 fandom.com##.featured-video__wrapper
+motor1.com##.featured__apb
 whitepages.ae##.featured_companies_bg_main
 nagpurtoday.in##.film-right-s
 proprofs.com##.firstadd
@@ -54956,6 +54971,7 @@ youporn.com#?#aside:-abp-has(a.ad-remove)
 -90mh-gg.
 .bid/ads/
 .blog/ads/
+/jsui/ads/*
 .cam/ads/
 .cc/ad/
 .cc/js/ads/
@@ -56291,10 +56307,27 @@ _xiuno_com_ad/
 ##script[src="/templates/frontend/frontend-jiucao/js/jquery.lazyload.min.js"] + .footer_app_box
 ##span[title="neteasefooter"]
 ##style + .vdgdo
+##A[href*="/x5092.com"]
+##A[href*="/t4078.com:"]
+##A[href$="/hg6ee.com"]
+##A[href$="/88hjd7.com"]
+##A[href$="/aa8a1j.com"]
+##A[href$="/xh8k.vip"]
+##A[href$="/244017.cc"]
 ##A[href*=".madeqr.com/"] > IMG[src*=".pstatp.com/"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||761f1b3960.com^
+||113o.com^
+||3332219.com^
+||123456img.com^
+||qiyijiazhuangshi.com^
+||3332218.com^
+||3332655.com^
+||78dx8t.com^
+||hangoutairbags.com^
+||kevinhewu.com^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -63937,8 +63970,12 @@ _yad_jsonp_
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||jsdelivr.net/gh/cloud-files/imgs/adamkoo-
+||51cdn.club:453/hf85/960x
+||ae-ap.com/template/web/images/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+3dmgame.com###min_ad_con
 pornbest.org,ptt.sex###links
 pornbest.org,ptt.sex##.btn-group + .row
 szxx.com.cn###A1
@@ -71530,6 +71567,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bxwx00.com|00ksw
 ||tinkshop.cn^
 ||ccymzg.cn^
 ||woxts.cn^
+||hongdejituan.vip^
+||lxlx.shop^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -80132,7 +80171,6 @@ _mongo_stats/
 ://top.*/hit/
 !-----------------Third-party tracking domains-----------------!
 ||adnext.co^
-||advertising.com^
 ||affvantage.com^
 ||altopd.com^
 ||analysis.fi^
@@ -80147,7 +80185,6 @@ _mongo_stats/
 ||bydst.com^
 ||cloudwp.io^
 ||crwdcntrl.net^
-||cxense.com^
 ||cxt.ms^
 ||demdex.net^
 ||districtm.io^
@@ -80212,7 +80249,6 @@ _mongo_stats/
 ||krxd.net^
 ||ldnlyap.com^
 ||liadm.com^
-||lijit.com^
 ||liveyield.com^
 ||lltrck.com^
 ||loloclicks.biz^
@@ -80387,6 +80423,7 @@ _mongo_stats/
 ||advanced-web-analytics.com^$third-party
 ||advangelists.com^$third-party
 ||advconversion.com^$third-party
+||advertising.com^$third-party
 ||adways.com^$third-party
 ||adwstats.com^$third-party
 ||adxadtracker.com^$third-party
@@ -80864,6 +80901,7 @@ _mongo_stats/
 ||customerlabs.co^$third-party
 ||cux.io^$third-party
 ||cvtr.io^$third-party
+||cxense.com^$third-party
 ||cya2.net^$third-party
 ||cybermonitor.com^$third-party
 ||cytoclause.com^$third-party
@@ -81569,6 +81607,7 @@ _mongo_stats/
 ||levexis.com^$third-party
 ||lexity.com^$third-party
 ||lfov.net^$third-party
+||lijit.com^$third-party
 ||linezing.com^$third-party
 ||link-smart.com^$third-party
 ||linkconnector.com^$third-party
@@ -100555,6 +100594,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||to8to.com/to8to_pc/common/modules/bottom_up_slide/
 ||pconline.com.cn/global/footer/index.html
 !------------------------Specific element hiding rules------------------------!
+baidu.com##.bottom-right-dsp-ad-wrap
+epinv.com##A[href="http://www.epinv.com/post/10450.html"]
 finance.sina.com.cn##DIV[class*="game"]
 ssuip.com###mask
 baidu.com##.school-promotion-pop-wrap
