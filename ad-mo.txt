@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iUk5Va6tjINE85BT4mxE2Q
+! Checksum: vpaJSWo7BOVDey/vEH5qfA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202109230846
-! Last Modified: 2021年09月23日 08:46
+! Version: 202109231415
+! Last Modified: 2021年09月23日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -30306,6 +30306,7 @@ _800x80_
 ##[href^="http://stvkr.com/"]
 ##[href^="http://www.star-clicks.com/"]
 ##[href^="https://affect3dnetwork.com/track/"]
+##[href^="https://awbbjmp.com/"]
 ##[href^="https://detachedbates.com/"]
 ##[href^="https://dooloust.net/"]
 ##[href^="https://go.4rabettraff.com/"]
@@ -30324,7 +30325,7 @@ _800x80_
 ##[href^="https://reactads.engine.adglare.net/"]
 ##[href^="https://refpahrwzjlv.top/"]
 ##[href^="https://secure.bmtmicro.com/servlets/"]
-##[href^="https://shiftnetwork.infusionsoft.com/go/"]
+##[href^="https://shiftnetwork.infusionsoft.com/go/"] > img
 ##[href^="https://shrugartisticelder.com"]
 ##[href^="https://stvkr.com/"]
 ##[href^="https://track.fiverr.com/visit/"] > img
@@ -53352,6 +53353,8 @@ qwant.com##div[class^="ProductAdsMicrosoft-"]
 games.dailymail.co.uk##div[class^="RightRail__displayAdRight_"]
 gq.com##div[class^="StickyHeroAdWrapper-"]
 topgear.com##div[class^="TopContainer-"]
+timeout.com##div[class^="_inlineAdWrapper_"]
+timeout.com##div[class^="_sponsoredContainer_"]
 fodors.com##div[class^="ad-placeholder"]
 barandbench.com##div[class^="ad-service-"]
 barandbench.com##div[class^="ad-slot"]
@@ -53383,6 +53386,8 @@ qwant.com##div[data-testid^="snippet"]
 buzzfeednews.com##div[id^="BF_ADX_"]
 weather.com##div[id^="Taboola-main-"]
 kisshentai.net##div[id^="ad"]
+timeout.com##div[id^="ad-promo-"]
+timeout.com##div[id^="ad-side-"]
 azcentral.com,detroitnews.com,freep.com##div[id^="ad-slot-"]
 javacodegeeks.com##div[id^="adngin-"]
 amgreatness.com##div[id^="ag-front-"]
@@ -54016,7 +54021,7 @@ hentaistream.com##.othercontent
 empflix.com##.pInterstitialx
 bigtitslust.com,sortporn.com##.pignr.item
 boundhub.com##.pl2ace
-camvideos.tv,rare-videos.net##.place
+camvideos.tv,jizzoncam.com,rare-videos.net##.place
 vivud.com,zmovs.com##.player-aside-banners
 ok.xxx,pornhat.com,xxxonxxx.com##.player-bn
 blogbugs.org,tallermaintenancar.com,zuzandra.com##.player-right
@@ -56233,6 +56238,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||shijixinrui.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -71484,6 +71490,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
 ||wskei.cn^
+||mcfpsn.xyz^
+||zhipet.cn^
+||zzgyly.cn^
+||jcmagnet.com.cn^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -87756,6 +87766,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
+||api.narrativ.com/favicon.ico
 ||apkpure.com/analytics_
 ||apnews.com/logger
 ||appanalysis.banggood.com^
@@ -88189,6 +88200,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pexa.realestate.com.au^
 ||pf.newegg.com^
 ||phar.gu-web.net^
+||phonearena.com/_track.php
 ||pi.feedsportal.com^
 ||ping.hashnode.com^
 ||ping.hungama.com^

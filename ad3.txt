@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Wmq90nuYd26bqDn6Tat6Gg
+! Checksum: zwQ3tL1XdbDnzOvynkOymA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202109230846
-! Last Modified: 2021年09月23日 08:46
+! Version: 202109231415
+! Last Modified: 2021年09月23日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1488,6 +1488,7 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||shijixinrui.cn^
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
 .cn/s.php?id=$script,third-party
@@ -16739,6 +16740,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
 ||wskei.cn^
+||mcfpsn.xyz^
+||zhipet.cn^
+||zzgyly.cn^
+||jcmagnet.com.cn^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -35283,6 +35288,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
+||api.narrativ.com/favicon.ico
 ||apkpure.com/analytics_
 ||apnews.com/logger
 ||appanalysis.banggood.com^
@@ -35716,6 +35722,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pexa.realestate.com.au^
 ||pf.newegg.com^
 ||phar.gu-web.net^
+||phonearena.com/_track.php
 ||pi.feedsportal.com^
 ||ping.hashnode.com^
 ||ping.hungama.com^
