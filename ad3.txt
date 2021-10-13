@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EVD2/V5htCfJ8+zW9axSaA
+! Checksum: CVkWAC/nSRp83DpveUNYUw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202110130845
-! Last Modified: 2021年10月13日 08:45
+! Version: 202110131415
+! Last Modified: 2021年10月13日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1503,6 +1503,8 @@ _xiuno_com_ad/
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 !----------------------------------Ads-Union----------------------------------!
 -*-*-*-*.panda|$script,third-party
+||immaohao.cn^
+||yueleshenghuo.cn^
 .8ox.cn
 .cc/s.php?id=$script,third-party
 .cn/?ss=$script,third-party
@@ -14839,6 +14841,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||ads.cdn.tvb.com/newskeys/vod.key
 @@.com/adv/$domain=my.ctrip.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
 @@.jpg#$domain=huhupan.com
@@ -16837,6 +16840,14 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||gwaaz.cn^
 ||axfrb.cn^
 ||kidisland.cn^
+||wsabci.com^
+||allengao.top^
+||djss-design.cn^
+||vicustom.cn^
+||gufan.fun^
+||feilan5.cn^
+||sh5208.vip^
+||cehbf.com^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -46295,6 +46306,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||qq.com/qqcom/
 ||qq.com/report.cgi?
 ||qq.com/report/$image,xmlhttprequest
+||qq.com/report|
 ||qq.com/stdlog
 ||qreport.qunar.com^
 ||qzone.qq.com/wspeed.qq.com^
@@ -47417,6 +47429,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||dynamicyield.com/api/$script,domain=zalora.com.hk|zalora.com.tw
 @@||g.csdnimg.cn^*/trackad.js$script,domain=csdn.net
 @@||google-analytics.com/analytics.js$domain=news.gamme.com.tw
+@@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hk.on.cc/js/v4/urchin.js
 @@||tianxun.com^*/js/tracker.js
 @@||tianyancha.com^*/sensorsdata.$script,~third-party
