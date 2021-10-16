@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TVtv7sCL5u+64IArWF6q5g
+! Checksum: tO2wYSNLkuJCfkle0AXp6A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202110161414
-! Last Modified: 2021年10月16日 14:14
+! Version: 202110162019
+! Last Modified: 2021年10月16日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -16823,6 +16823,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||fanghua2.cn^
 ||rng1912.top^
 ||yp333.top^
+||zhihuirenjia.xyz^
+||kanshu5.net/js/index.js
+||tcmsp.cn^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
@@ -47496,9 +47499,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||certona.net^*/resonance.js$domain=zooplus.fi
 @@||d2wzl9lnvjz3bh.cloudfront.net/frosmo.easy.js$domain=lippu.fi
 @@||dynamicyield.com/api/$script,domain=gigantti.fi
-@@||frosmo.com^$xmlhttprequest,domain=kauppahalli24.fi
+@@||frosmo.com/recoApi/$xmlhttprequest,domain=lily.fi|meillakotona.fi|terve.fi
 @@||googletagmanager.com/gtm.js$script,domain=cdon.fi|como.fi|episodi.fi|fum.fi|inferno.fi|rumba.fi|soundi.fi|tilt.fi|veho.fi
-@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|hardware.fi
+@@||high.auriro.net/http/600x400/$image,domain=afterdawn.com|dawn.fi|hardware.fi
 @@||images.sprinklecontent.com^$image,domain=como.fi|episodi.fi|fum.fi|inferno.fi|kaaoszine.fi|rumba.fi|soundi.fi|tilt.fi
 @@||inpref.s3.amazonaws.com/frosmo.easy.js$domain=elisa.fi|kauppahalli24.fi
 @@||inpref.s3.amazonaws.com/sites/$script,domain=kauppahalli24.fi
