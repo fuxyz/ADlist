@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XH1fRzpXgtqp7FWjwshgVg
+! Checksum: 93GWwXdaf8TAnFQw7/bxRQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202110160849
-! Last Modified: 2021年10月16日 08:49
+! Version: 202110161414
+! Last Modified: 2021年10月16日 14:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -32260,6 +32260,7 @@ tf2r.com#@#.adverts
 ||adgorithms.com^
 ||adgoto.com^
 ||adgxptnsiwxjx.com^
+||adhbkatqyzqd.com^
 ||adhealers.com^
 ||adhoc4.net^
 ||adieusyaktop.com^
@@ -33853,6 +33854,7 @@ tf2r.com#@#.adverts
 ||brayerspenta.com^
 ||brazendistil.com^
 ||brazenserialsociety.com^
+||brdletywiuawc.xyz^
 ||brdmin.com^
 ||breadpro.com^
 ||breadstringscrashed.com^
@@ -34871,6 +34873,7 @@ tf2r.com#@#.adverts
 ||criticbrass.com^
 ||criticismvillagegun.com^
 ||crm4d.com^
+||croakflabbyconsume.com^
 ||crocoads.com^
 ||crocodilemounted.com^
 ||crocopop.com^
@@ -35822,6 +35825,7 @@ tf2r.com#@#.adverts
 ||effectiveperformancenetwork.com^
 ||effectpinching.com^
 ||effectwringoverreact.com^
+||efficaciousart.com^
 ||efficiencycypressregarding.com^
 ||efficientapplesimulator.com^
 ||effixtile-inceive.com^
@@ -37185,6 +37189,7 @@ tf2r.com#@#.adverts
 ||greypayoffdiningroom.com^
 ||greystripe.com^
 ||grifictuberal.site^
+||grilledjut.com^
 ||grilydivy.com^
 ||grirault.net^
 ||gritchuw.com^
@@ -37998,6 +38003,7 @@ tf2r.com#@#.adverts
 ||interloquent.xyz^
 ||intermediaryinvoluntaryflippant.com^
 ||intermediarypurchaser.com^
+||intermediatetonightsituation.com^
 ||internewsweb.com^
 ||interst12.com^
 ||interstitial-07.com^
@@ -38435,6 +38441,7 @@ tf2r.com#@#.adverts
 ||kesmdg.com^
 ||ketadeep.com^
 ||ketads.com^
+||ketchupscreech.com^
 ||ketoo.com^
 ||kettinggiantry.com^
 ||kevabila.com^
@@ -45267,6 +45274,7 @@ tf2r.com#@#.adverts
 ||xroynaxvqvouy.com^
 ||xrqrpdxqpm.com^
 ||xsrs.com^
+||xtcfjrwdyga.xyz^
 ||xtmuasvldoiz.com^
 ||xtow.xyz^
 ||xtremeserve.xyz^
@@ -50785,9 +50793,7 @@ tf2r.com#@#.adverts
 ||wsj.net/pb/pb.js
 ||avantisvideo.com/avm/js/video-loader.js$script,third-party
 ||channelexco.com/player/$third-party
-||connatix.com/connatix.player.js$script,third-party
-||connatix.com/connatix.playspace.js$script,third-party
-||connatix.com^*/connatix.player.js$script,third-party
+||connatix.com^$third-party
 ||embed.sendtonews.com^$script,third-party
 ||jwpcdn.com^$script,domain=dexerto.com
 ||live.primis.tech^$third-party
@@ -64069,6 +64075,7 @@ _yad_jsonp_
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+bukaivip.com##IMG[onclick]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -71682,6 +71689,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||shanxige.com^
 ||nq42.com^
 ||lsxc.shop^
+||fanghua2.cn^
+||rng1912.top^
+||yp333.top^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
