@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2XLP46ggpMLfhjfzwQzUTw
+! Checksum: +BZWU0S9EHXHBMcLW8PxpQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202110172019
-! Last Modified: 2021年10月17日 20:19
+! Version: 202110180214
+! Last Modified: 2021年10月18日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -71658,6 +71658,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||a7lrf.xyz^
 ||zhonghuachuanmeikeji.cn^
 ||wangyeshij.top^
+||juechenghuanbao.top^
+||sxhdth.cn^
 ###asdw3
 ###asdw3 + img + :not(div)
 ###chaptername + div > div[style="padding:10px;border-radius:10px;background-color:green;"]
