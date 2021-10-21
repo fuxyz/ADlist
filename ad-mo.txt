@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: p7uG02kAJJp3+CN2u2rEgg
+! Checksum: mQaU7Ef86w1U/dwf0O4hlg
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202110210214
-! Last Modified: 2021年10月21日 02:14
+! Version: 202110210850
+! Last Modified: 2021年10月21日 08:50
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -19321,6 +19321,7 @@ _800x80_
 ##.adRectangleUnit
 ##.adRegionSelector
 ##.adRemove
+##.adRenderer
 ##.adReportsLink
 ##.adResponsive
 ##.adResult
@@ -49390,6 +49391,8 @@ tf2r.com#@#.adverts
 ||cooch.tv^$popup,third-party
 ||cpng.be.^$popup
 ||cpng.be^$popup
+||cpng.ch.^$popup
+||cpng.ch^$popup
 ||cpng.click^$popup
 ||cpng.lol.^$popup
 ||cpng.lol^$popup
@@ -52681,7 +52684,7 @@ duckduckgo.com##.highlight_sponsored
 skins.be##.hint
 highwayradio.com##.hiway-widget
 bizarrepedia.com##.holder
-pcgamingwiki.com##.home-search-examples
+pcgamingwiki.com##.home-gamesplanet-promo
 newagebd.net##.homeSlideRightSecTwo
 pbs.org##.home__logo-pond
 geekwire.com##.home_listing
@@ -87234,6 +87237,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vmweb.net/identity.min.js
 ||vo.msecnd.net/api/beYableJSv2.js
 ||vooxe.com/analytics.js
+||vortex.data.microsoft.com^
 ||voxmedia.com/beacon-min.js
 ||vpoweb.com/counter.php?
 ||vs4.com/impr.php?
@@ -87247,7 +87251,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||wco.crownpeak.com^
 ||weather.ca/counter.gif?
 ||web-soft.in/counters/
-||web.vortex.data.microsoft.com^
 ||web1.51.la^
 ||webedia.fr/js/gs.js
 ||weblog.livesport.eu^
@@ -89000,6 +89003,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sp.ydr.com^
 ||sp.yorkdispatch.com^
 ||sp.zanesvilletimesrecorder.com^
+||spade.twitch.tv^
 ||spanids.dictionary.com^
 ||spanids.thesaurus.com^
 ||spanishdict.com/page-view-metadata
