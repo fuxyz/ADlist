@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0v2wQ1M+HGkmhKLdhDBecg
+! Checksum: LCXfvqCynnv7J0109HGwZg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202111150844
-! Last Modified: 2021年11月15日 08:44
+! Version: 202111151416
+! Last Modified: 2021年11月15日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23083,6 +23083,7 @@ weibo.com##.apps_PCD_reco_detail_right
 .php?self=
 .php?stats=
 .php?tracking=
+.pixel.archive.
 .pixel?*&event_
 .pixel?record_
 .PixelNedstatStatistic/
@@ -48223,9 +48224,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|fcbarcelona.cat|fcbarcelona.es|laredoute.es|vtr.com
 @@||amplitude.com/libs/$script,domain=elconfidencial.com
 @@||ampproject.org/v0/amp-analytics-$script,domain=cnnespanol.cnn.com
+@@||api.cxense.com/public/widget/$domain=tn.com.ar
 @@||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
 @@||bancosantander.es/pagos-inmediatos/common/js/modules/tealium.js$~third-party
 @@||c5n.com^*/angulartics-google-analytics.min.js
+@@||cdn.cxense.com/cx.js$domain=tn.com.ar
 @@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
 @@||ecestaticos.com/build/js/common/statistics/engines/deepbieventadapter.$domain=elconfidencial.com
 @@||elconfidencial.com^*/AnalyticsEvent.js
@@ -48239,6 +48242,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||officedepot.com.mx/_ui/shared/js/analyticsmediator.js$~third-party
 @@||playty.com/bower_components/angulartics-google-analytics/dist/angulartics-ga.min.js
 @@||portalbici.es/lib/angulartics-google-analytics/dist/angulartics-ga.min.js
+@@||scdn.cxense.com/cx.cce.js$domain=tn.com.ar
 @@||segundamano.mx^*/tealium.js
 @@||tccrestify-dot-tcc-cloud.appspot.com/tracking/$domain=tcc.com.co
 @@||vodgc.net^*/genoa-event-tracking.min.js
