@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Dpe1IJMwVnQEGcBU612JXg
+! Checksum: YJe2yh5j2mEwoU9vVlj2ng
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202111230844
-! Last Modified: 2021年11月23日 08:44
+! Version: 202111231415
+! Last Modified: 2021年11月23日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -27482,6 +27482,7 @@ _800x80_
 ##.position-ads
 ##.post--native-ad
 ##.post-ad
+##.post-ad-type
 ##.post-ads
 ##.post-ads-detalhe
 ##.post-ads-detalhe-1
@@ -51710,6 +51711,7 @@ tf2r.com#@#.adverts
 ||realpython.net/tag.js
 ||republicmonitor.com/images/lundy-placeholder.jpeg
 ||richardroeper.com/assets/banner/
+||rma.homedepot.com^
 ||s.radioreference.com/sm/$image
 ||s1.reutersmedia.net/resources/r/$image
 ||saabsunited.com/wp-content/uploads/*banner
@@ -52381,6 +52383,7 @@ scalemates.com###avph
 teamfortress.tv###aw
 convertinmp4.com###b300ib
 convertinmp4.com###b728l
+bing.com###b_pole
 gayvegas.com###background
 wallpapersmania.com###backgroundPopup
 soccerbase.com###ball_splash_holder
@@ -73160,6 +73163,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zkrmeml.cn^
 ||popwang.top^
 ||jcdixdh.cn^
+||zhifoujiaoyu.xyz^
+||cfhy.xyz^
+||dzctkjj.cn^
+||ocznxv.cn^
+||elvfdnj.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -81089,6 +81097,7 @@ fqsousou.com,kengso.com#@#.user-share
 /thbeacon/*
 /thcn_code.
 /thcn_code_
+/thd-new-relic/*
 /thermostat.js
 /thetracker.js
 /third-party-analitycs/*
