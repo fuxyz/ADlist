@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: L18cZTafMszoCKw9fHowQg
+! Checksum: Os5Htlaod4Tt7Bm48U+U5w
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202111241416
-! Last Modified: 2021年11月24日 14:16
+! Version: 202111242021
+! Last Modified: 2021年11月24日 20:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -9275,8 +9275,20 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 ||domp4.cc/Style/*/images/640200.gif
 ||jsdelivr.net/npm/@bootcss/*/assets/img/aliyun
+||py.cn/static/images/advert/
+||py.cn/src/img/pyy/
+||pixabay.com/static/img/publisher/*_ad_
+||jitashe.org/template/jitashe/image/bc/3
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+jitashe.org##.bc_side_250
+jitashe.org##A[href*=".makeding.com/"]
+jitashe.org##A[href*=".taobao.com"]
+pixabay.com##div[class*="sponsoredWithResults"]
+py.cn##.index-advert
+pixabay.com##.carbon-ad
+py.cn##.right-pops
+avgle.com###avyc
 unikoshardware.com##.widget_jnews_popular ~ .uniko-widget
 unikoshardware.com##.elementor-popup-modal
 szxx.com.cn###A1
@@ -15771,6 +15783,7 @@ $webrtc,domain=avgle.com
 ||jads.co^$domain=avgle.com
 ||olmsoneenh.info^$domain=avgle.com
 !#BaiduPromotion
+ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_right > div:-abp-has(.ec-tuiguang)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > div:-abp-has(.ec-tuiguang)
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > [class]:-abp-has(span[data-tuiguang])
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com#?##content_left > [style*="important"]
@@ -17017,6 +17030,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||fitpbc.cn^
 ||baixkw.cn^
 ||cfbnink.cn^
+||xiaolipc.cn^
+||swjrzk.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -21720,6 +21735,8 @@ _box_ad_
 ||mydrivers.com^*/xianshitehui.png
 ||mydrivers.com/m/images/v1/kkjapp_down.gif
 ||ydstatic.com/fanyi/fanyi-ad-place/
+||feedou.com/nzq/style/pc/js/popbig.js
+||feedou.com/nzq/style/pc/js/zt_bottom.js
 !------------------------Specific element hiding rules------------------------!
 360kuai.com###task__modal__container
 360kuai.com##.taskbar
