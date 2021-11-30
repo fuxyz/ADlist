@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Ok0XQR+ShvPP3u0P9CL9mA
+! Checksum: LwAblDTbFbAY59jfSPlGVA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202111300215
-! Last Modified: 2021年11月30日 02:15
+! Version: 202111300847
+! Last Modified: 2021年11月30日 08:47
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -35329,6 +35329,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics-api.librato.com^
 ||metrics-logger.spot.im^
 ||metrics.api.drift.com^
+||metrics.beyondwords.io^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
 ||metrics.getvitals.io^
@@ -36651,6 +36652,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||click.taobao.com^$script
 ||cms.grandcloud.cn^$third-party
 ||cnzz.com/c.php?
+||collector2c.zhihuishu.com^
 ||counter.pixplug.in^
 ||cpro.baidustatic.com^$script,domain=sohu.com
 ||cri.cn/js/a1.js
@@ -38002,6 +38004,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tagger.ope.scmp.com^
 ||tags.aljazeera.com^
 ||tags.news.com.au^$script
+||taiwanplus.com/api/video/startVideo
 ||takealot.com^*/collect
 ||target.nationwide.com^
 ||target.nejm.org^
@@ -48002,6 +48005,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||stats.autohome.com.cn^
 ||stats.yinyuetai.com^
 ||steamchina.com/events/
+||sugar.zhihu.com^
 ||tbskip.taobao.com^$script
 ||tf.360.cn^
 ||tianxun.com/ajax_website_statistics.
