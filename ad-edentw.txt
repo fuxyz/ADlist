@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: LdhnIH09uo0KY4dbFMADIQ
+! Checksum: vHzzdBJH71ZIsP6oj+8lBw
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202112150216
-! Last Modified: 2021年12月15日 02:16
+! Version: 202112160216
+! Last Modified: 2021年12月16日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1659,6 +1659,7 @@ delfi.lt#$#abort-on-property-read __dabd
 @@||googlevideo.com/videoplayback?*&pfa=*$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 @@||googlevideo.com/videoplayback?*yt_live_broadcast&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 @@||googlevideo.com/videoplayback?*yt_premiere_broadcast&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
+@@||youtube.com/shorts^$document
 ! *** Fetched from: https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/nordic.txt ***
 ! MISC
 tivi.fi#$#hide-if-matches-xpath '//div[contains(text(),"Kaupallinen yhteistyö")]/../../..'
