@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rLIMQlu3kUvy5/jDHgm5Vg
+! Checksum: 8ZyccwPB/TZaSFryGqp2IQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202201121417
-! Last Modified: 2022年01月12日 14:17
+! Version: 202201130216
+! Last Modified: 2022年01月13日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -5949,7 +5949,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /resources/ads/*
 /resources/ads_
 /responsive-ad-
-/responsive-ad.
 /responsive-ads.
 /responsive/ad_
 /responsive_ads.
@@ -5970,7 +5969,6 @@ pan.baidu.com##.upload-bar.global-clearfix
 /richoas.
 /right-ad-
 /right_ad.
-/right_ad^
 /right_ad_
 /right_ads.
 /rightad.
@@ -7127,7 +7125,6 @@ _ad_units_
 _ad_url=
 _ad_utils-
 _ad_vertical.
-_ad_video_
 _ad_view=
 _ad_widesky.
 _ad_wrapper.
@@ -51740,6 +51737,7 @@ tf2r.com#@#.adverts
 ||socialmonkee.com/images/
 ||squirrels.getsquirrel.co^
 ||srv.dynamicyield.com^
+||srv.tunefindforfans.com^
 ||srx.com.sg/srx/media/
 ||ssl-images-amazon.com/images/*/DAsf-
 ||ssl-images-amazon.com/images/*/MAsf-
@@ -54843,6 +54841,8 @@ slantmagazine.com##.gray_bg
 slantmagazine.com##.gray_bgBottom
 greatandhra.com##.great_andhra_main_add_rotator1
 mma-core.com##.grec
+greekcitytimes.com##.greek-adlabel
+greekcitytimes.com##.greek-after-content
 curioustic.com##.grey
 topminecraftservers.org##.grey-section
 sportingnews.com##.grid-aside
@@ -59338,6 +59338,7 @@ ubmcmm.baidustatic.com
 ||00xvppy.cn^
 ||012.tw^$third-party
 ||qdopportune.cn^
+||tongdianku.com^
 ||01fen.com^
 ||022aifang.com^
 ||025suyu.com^
@@ -66953,8 +66954,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||xitonghe.com/SkinNew/js/init_g.
+||sciencenet.cn/field/js/news.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+x-mol.com###rightAllJournal
+x-mol.com##.news-white-content-right
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -74774,6 +74779,13 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||ti863.cn^
 ||rctxymu.cn^
 ||qlugsc.cn^
+||bmt4578.xyz^
+||wswh.xyz^
+||ypdzb.cn^
+||diuleilou.top^
+||sfg8mbh.cn^
+||hgxy.info^
+||ruif.xyz^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -84592,6 +84604,7 @@ cgi-bin/counter
 /notifications.googleapis.com/email/t/*
 /notifications/beacon/*
 /open.aspx?
+/open.html?$image
 /page.bsigroup.com/*
 /pixel-prod.
 /pixel?cid=
