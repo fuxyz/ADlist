@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /zdt3cCGYKcOw09bPL1yZA
+! Checksum: SKNM/UdKja87clS0y9oV0g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202201130852
-! Last Modified: 2022年01月13日 08:52
+! Version: 202201131417
+! Last Modified: 2022年01月13日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17173,6 +17173,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels
 ||nbslx.mobi^
 ||wswh.club^
+||jwvjcr.cn^
+||rctxczy.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -29798,6 +29800,7 @@ _mongo_stats/
 ||admother.com^$third-party
 ||adobedtm.com^$third-party,domain=~adobe.com
 ||adobetag.com^$third-party
+||adobetarget.com^$third-party
 ||adoftheyear.com^$third-party
 ||adoric-om.com^$third-party
 ||adpaths.com^$third-party
@@ -38815,6 +38818,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.wwitv.com^
 ||streamstats.prd.dlive.tv^
 ||streamta.pe/stat/
+||streamta.site/stat/
 ||streamtape.com/stat/
 ||strtapeadblock.club/stat/
 ||strtpe.link/stat/
