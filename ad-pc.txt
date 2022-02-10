@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4HxtM0BS6yYT+xLWi1luJQ
+! Checksum: nhq3YMnVOLoB01xRo4yJdw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202202100850
-! Last Modified: 2022年02月10日 08:50
+! Version: 202202101415
+! Last Modified: 2022年02月10日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -29787,6 +29787,7 @@ _800x80_
 ##.top-half-page-ad
 ##.top-header-ad
 ##.top-horiz-ad
+##.top-horizontal-ad
 ##.top-item-ad
 ##.top-large-google-ad
 ##.top-leaderboard-ad
@@ -30014,6 +30015,7 @@ _800x80_
 ##.twp-ad-section
 ##.tx-aa-adverts
 ##.tx_smartadserver_pi1
+##.txt-ad
 ##.txt-ads
 ##.txtAd
 ##.txtAd5
@@ -58895,7 +58897,6 @@ ubmcmm.baidustatic.com
 ###tr_ad8
 ###tr_ad9
 ###tripadvisor-ad
-###video > #ybad
 ###videoADPIC
 ###widget-quan
 ###wp > .V-videoFloat
@@ -59552,6 +59553,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/60hthty.vip"]
 ##img[onclick*="/789htbet.vip"]
 ##img[onclick*="/ayx600.com/"]
+##div[onclick*=".rwnyou.com"]
 ##img[onclick*="/ayx700.com/"]
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
@@ -73472,7 +73474,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||jjkmn.com^$generichide
 @@||jlthjy.com^$generichide
 @@||joyk.com^$generichide
-@@||jrhot.com/data/attachment/*_300_250_
 @@||js.tudouui.com/bin/player2/$object
 @@||jsdelivr.net/combine/npm/$domain=ulifestyle.com.hk
 @@||jsjiami.com^$generichide
@@ -73666,7 +73667,6 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||szhr.com.cn^*ad
 @@||szhr.com^$generichide
 @@||szhr.com^*ad
-@@||taihainet.com^*/thumb_300_250_
 @@||tangdou.com/sample/share/advert?$domain=tangdoucdn.com
 @@||tansuo.cntv.cn^*/tansuo_Advertise.js
 @@||taobao.com/go/app/tmall/login-api.php?
@@ -74799,7 +74799,6 @@ bejson.com##img[src^="data"]
 52bdys.com###ayx
 @@||jsdelivr.net/gh/bde4admin/*/prebid-ads.js$domain=52bdys.com
 52bdys.com##center[style*="background"]
-52bdys.com##div[onclick]
 52bdys.com##div[style^="position: fixed;bottom:"]
 !#Bingfeng.tw
 @@/unadblock/adjs_$domain=bingfeng.tw
@@ -75118,6 +75117,12 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+||ymdxxkj.icu^
+||huyc.info^
+||yaofaweb.xyz^
+||yakel.top^
+||awwlfb.cn^
+||ulxypyg.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -85818,7 +85823,6 @@ _mongo_stats/
 ||analitits.com^$third-party
 ||analitycs.net^$third-party
 ||analoganalytics.com^$third-party
-||analytics-egain.com^$third-party
 ||analyticschecker.com^$third-party
 ||analyticson.com^$third-party
 ||analyticswizard.com^$third-party
@@ -106670,6 +106674,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||gedu.org/js/meiqia_pc_groupmarket.
 ||guozh.net/wp-content/plugins/eazy-ad-unblocker/
 !------------------------Specific element hiding rules------------------------!
+aiqicha.baidu.com##.float-banner
 qingwk.com##.c-footer-banner
 jingyan.baidu.com##.task-panel-entrance
 jingyan.baidu.com##.wgt-cms-banner
