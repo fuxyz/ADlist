@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rYs4oOTk+HsXCf/aZSOH3Q
+! Checksum: mEPG0UE3SPAYsTdxCZ+zxA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202202110854
-! Last Modified: 2022年02月11日 08:54
+! Version: 202202111416
+! Last Modified: 2022年02月11日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -28804,6 +28804,7 @@ _800x80_
 ##.skyscraper-ad
 ##.skyscraper-ad-1
 ##.skyscraper-ad-container
+##.skyscraper.ad
 ##.skyscraperAd
 ##.skyscraper_ad
 ##.skyscraper_bannerAdHome
@@ -28879,6 +28880,7 @@ _800x80_
 ##.smallbutton-adverts
 ##.smallsideadpane
 ##.smallsponsorad
+##.smart-ad
 ##.smartAd
 ##.smart_ads_bom_title
 ##.smartad
@@ -53706,7 +53708,7 @@ streamingrant.com###hb-strip
 castanet.net###hdad
 flashgot.net###head a[target="_blаnk"]
 inventorspot.com,mothering.com,wordfind.com,yokogames.com###header
-directindustry.com,fonearena.com,frontlinesoffreedom.com,stakingrewards.com###header-banner
+directindustry.com,fonearena.com,frontlinesoffreedom.com,stakingrewards.com,winemag.com###header-banner
 dominicantoday.com###header-banners
 bestvpnserver.com,techitout.co.za###header-content
 govevents.com###header-display
@@ -54721,6 +54723,7 @@ digitaltrends.com##.dtads-slot
 googleping.com##.dtext
 yts.mx##.durs-bordered
 daniweb.com##.dw-inject-bsa
+dailydot.com##.dynamic-block
 nomadlist.com##.dynamic-fill
 nytimes.com##.e12j3pa50
 arabtimesonline.com##.e3lan
@@ -56207,7 +56210,7 @@ ebay.com##div[title="ADVERTISEMENT"]
 adblock-tester.com##embed[width="240"]
 imgburn.com##font[face="Arial"][size="1"]
 realitytvworld.com##font[size="1"][color="gray"]
-grammar-monster.com##footer
+dailydot.com,grammar-monster.com##footer
 law.com,topcultured.com##h3
 greatist.com##hl-adsense
 drive.com.au##hr
@@ -59130,6 +59133,7 @@ ubmcmm.baidustatic.com
 ##.widget_ui_asb
 ##.widget_ui_aub
 ##.widget_ui_textasb
+###hthslide[onclick]
 ##.widget_ui_textaub
 ##.wordurl[style="   width: 42%; float:left; text-align: center;"]
 ##.wp > .ad-box
@@ -59473,6 +59477,8 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||mzya5718.xyz^
+||caomeixz10.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -75004,6 +75010,12 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels
+||yikouxian.fun^
+||achu.wang^
+||yikouxian.fun^
+||mncvz.top^
+||awwlrd.cn^
+||weiiimt.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
