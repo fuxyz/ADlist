@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0v/DjCofX1DyKd/udYKq2A
+! Checksum: kdgTzV06Db4Z3U69/OeSvA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202202170845
-! Last Modified: 2022年02月17日 08:45
+! Version: 202202171417
+! Last Modified: 2022年02月17日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1313,7 +1313,6 @@ tieba.baidu.com##.tuijian-wrap
 /ad.min.
 /ad.php3?
 /ad.php?
-/ad.php|
 /ad.popup?
 /ad.premium-
 /ad.redirect.
@@ -1535,6 +1534,7 @@ tieba.baidu.com##.tuijian-wrap
 /ad?currentview=
 /ad?data=
 /ad?iframe_
+/ad?keyword=
 /ad?pos_
 /ad?sponsor=
 /ad?type=
@@ -13179,6 +13179,7 @@ _800x80_
 ###cornerad
 ###cosponsor
 ###cosponsorTab
+###coupangAd
 ###coverADS
 ###coverads
 ###cpad_242306
@@ -26644,6 +26645,7 @@ _800x80_
 ##.list-feature-ad
 ##.list-footer-ad
 ##.listAdvertGenerator
+##.list_bottom_ad
 ##.listad
 ##.listicle--ad-rail
 ##.listing-card-ad
@@ -30222,6 +30224,8 @@ _800x80_
 ##.view_ads_content_bg
 ##.view_ads_top_bg
 ##.view_ads_top_bg_middle
+##.view_bottom_ad
+##.view_center_ad
 ##.view_rig_ad
 ##.views-field-field-ad
 ##.views-field-field-adbox-1
@@ -32592,6 +32596,7 @@ tf2r.com#@#.adverts
 ||951e8b9cd72.com^
 ||96660970b05417.com^
 ||967rett6fzaf.com^
+||96e0993c2f.com^
 ||96e8abd9c4.com^
 ||976b97b6da.com^
 ||97d73lsi.com^
@@ -34798,6 +34803,7 @@ tf2r.com#@#.adverts
 ||c61ec7314ee.com^
 ||c63d72a4022.com^
 ||c7e4d34b2afc3.com^
+||c8f502ed61.com^
 ||c90752b0b5.com^
 ||c9e5089374.com^
 ||c9emgwai66zi.com^
@@ -54221,6 +54227,8 @@ sciencealert.com###rt-header
 pages.ebay.com###rtm_1658
 ebay.com###rtm_html_441
 flaticon.com###s-p
+skylinewebcams.com###s1123
+skylinewebcams.com###s4152
 wsj.com###saving-united-coupon-list
 flatpanelshd.com###sb-site > .hidden-xs.container
 hwhills.com###sb_left_tower
@@ -75350,6 +75358,16 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels
 ||boomj.club^
 ||ljk.ink^
+||k67lxl.space^
+||hndshop.cn^
+||qdftsac.cn^
+||mlqq.store^
+||nmsl.ink^
+||npubvjw.cn^
+||lzls.ltd^
+||mugogfy.cn^
+||jyzag.cn^
+||pqsjb.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
