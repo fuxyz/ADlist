@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9x+qm+ehQdvxXv2dItTNWA
+! Checksum: +oobV5kv3iBJcPQmoEiGEw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202202240214
-! Last Modified: 2022年02月24日 02:14
+! Version: 202202240855
+! Last Modified: 2022年02月24日 08:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17322,6 +17322,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||fuzhuyuan1688.xyz^
+||xingyou25.xyz^
+||qiyu.shop^
+||shuai.love^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -25044,6 +25048,7 @@ m.babytree.com##script + a[class]
 /api/analytics|
 /api/cmp_tracker
 /api/ComScorePageView
+/api/ipv4check?
 /api/log?
 /api/lt/ref?
 /api/metrics$other
@@ -29398,6 +29403,7 @@ m.babytree.com##script + a[class]
 /wpblog.gif?
 /wpengine-analytics/*
 /wprum.
+/wps-visitor-counter/*
 /wpstatistics/*
 /wrapper/metrics/*
 /Wrappers?cmd=
@@ -30071,11 +30077,13 @@ _mongo_stats/
 ||impactcdn.com^
 ||impactradius-event.com^
 ||imrworldwide.com^
+||imzahrwl.xyz^
 ||innerskinresearch.com^
 ||instantfox.co^
 ||irs01.com^
 ||krxd.net^
 ||ldnlyap.com^
+||leadhit.io^
 ||liadm.com^
 ||liveyield.com^
 ||lltrck.com^
@@ -30558,6 +30566,7 @@ _mongo_stats/
 ||callmeasurement.com^$third-party
 ||callrail.com^$third-party
 ||callreports.com^$third-party
+||calltouch.ru^$third-party
 ||calltrackingmetrics.com^$third-party
 ||calltracks.com^$third-party
 ||campaigncog.com^$third-party
@@ -38513,6 +38522,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||acronymfinder.com/~/tr.ashx
 ||activate.latimes.com/pc/caltimes/?pulse2001=
 ||active.com/ig.track.js
+||adblockstreamtape.site/stat/
 ||adc-js.nine.com.au^
 ||adc.9news.com.au^
 ||adc.api.nine.com.au^
