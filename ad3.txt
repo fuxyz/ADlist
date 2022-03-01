@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 20dPOO581TRR/mYP5ZTU9A
+! Checksum: l5li8WJjLAwfkMO9FiOsAg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202203011417
-! Last Modified: 2022年03月01日 14:17
+! Version: 202203012023
+! Last Modified: 2022年03月01日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17359,6 +17359,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||fyesqma.cn^
 ||mwbsvh.cn^
 ||dawwscr.cn^
+||joker6.fun^
+||wangyao.pro^
+||ssdsss.top^
+||lzwnb.site^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -35645,7 +35649,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||asterpix.com/tagcloudview/
 ||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
-||atlassian.net/rest/collectors/
+||atlassian.net/rest/collectors/$third-party
 ||atom-data.io/session/latest/track.html?$third-party
 ||attn.tv^*/dtag.js
 ||attributiontrackingga.googlecode.com^
@@ -35701,6 +35705,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bc0a.com/autopilot/
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
+||beacon.cdnma.com^
 ||beacon.errorception.com^
 ||beacon.flow.io^
 ||beacon.nrholding.net^
@@ -49947,6 +49952,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||1trackapp.com/static/tracking/$script,stylesheet,~third-party
 @@||9cdn.net^*/js/tracking/$script,domain=nine.com.au
 @@||accounts.nintendo.com/account/js/pages/$script,~third-party
+@@||admin.memberspace.com/sites/*/analytics/views$~third-party
 @@||adobedtm.com/*-source.min.js$script,domain=aarp.org|atresplayer.com|backcountry.com|bt.com|dollargeneral.com|kroger.com|personal.natwest.com|verizon.com
 @@||adobedtm.com/*_source.min.js$script,domain=backcountry.com|kroger.com
 @@||adobedtm.com/extensions/$script,domain=apple.com|bravotv.com|foodnetwork.com|verizon.com
@@ -50735,6 +50741,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||gemius.pl/gstream.js
 @@||gminazamosc.pl/wp-content/plugins/wp-google-analytics-events/js/ga-scroll-events.js?
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
+@@||hit.interia.pl/iwa_core$script,~third-party
 @@||iwa.iplsc.com/iwa.js$script
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
 @@||login.ingbank.pl^*/satelliteLib-$script
