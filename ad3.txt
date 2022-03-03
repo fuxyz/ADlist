@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j0NWzkBhFsh+pZd/Z8302g
+! Checksum: Pb8pyHxQparqgLfNEB8zPA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202203030858
-! Last Modified: 2022年03月03日 08:58
+! Version: 202203031417
+! Last Modified: 2022年03月03日 14:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -137,6 +137,7 @@ xz6d.com
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+/huijiad/huijiad.
 -1688-wp-media/ads/
 -880-80-4.jpg
 -90mh-gg.
@@ -5482,7 +5483,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||alixixi.com/adsview/
 ||aliyuncs.com/ad/jd-smoofit-ad.jpg
 ||aliyuncs.com/ghdb.gif
-||aliyuncs.com/huijiad/huijiad.js?
 ||aliyuncs.com/public/v1/js/ad-config.
 ||aliyuncs.com/vss/haotu.js
 ||aliyuncs.com/wjy99re/
@@ -9464,8 +9464,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||bt-tt.com/ad.js
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+huya.com##.room-business-game
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -15582,6 +15584,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ifengimg.com/pdt/cfg/mudu/aplayer.xml$domain=v.ifeng.com
 @@||iis1.deliver.ifeng.com/showcode?$domain=v.ifeng.com
 @@||ikea.cn^*/img/ads/
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=ulifestyle.com.hk
 @@||imasdk.googleapis.com/js/sdkloader/ima3.js$domain=4gtv.tv|881903.com|ani.gamer.com.tw|appledaily.com|hamivideo.hinet.net|line.me|linetv.tw|litv.tv|mytvsuper.com|nextmedia.com|now.com|tvb.com|udn.com|xuite.net
 @@||img.ads.tvb.com^
 @@||inoreader.com^$genericblock,generichide
@@ -17358,6 +17361,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||liveinpassion.club^
 ||joinbrand.club^
 ||zhaoyiqi.ltd^
+||exhmuxe.cn^
+||dfydnyk.cn^
+||oqrwpru.cn^
+||hgdgdsgh.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
