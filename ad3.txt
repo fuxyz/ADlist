@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KgMMl4hwFCVW0KbHJOPw0A
+! Checksum: q0rQzpfwHpMVWcAioZOijg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202203080216
-! Last Modified: 2022年03月08日 02:16
+! Version: 202203080855
+! Last Modified: 2022年03月08日 08:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17380,6 +17380,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||tolerated.wang^
+||xiaoli.video^
+||m100.site^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -26633,7 +26636,7 @@ m.babytree.com##script + a[class]
 /GomezTracking.
 /google-analyticator/*
 /google-analytics-$~image
-/google-analytics.$~image
+/google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com
 /google-analytics/*$domain=~stackexchange.com|~superuser.com
 /google-nielsen-analytics.
 /google-tag-manager.
@@ -30196,6 +30199,7 @@ _mongo_stats/
 ://top.*/hit/
 !-----------------Third-party tracking domains-----------------!
 ||520886.xyz^
+||8672.site^
 ||a1webstrategy.com^
 ||adnext.co^
 ||adrtx.net^
@@ -32048,7 +32052,7 @@ _mongo_stats/
 ||peruse.ai^$third-party
 ||petametrics.com^$third-party
 ||pghub.io^$third-party
-||pgs.io^$third-party
+||pgs.io^$third-party,domain=~publicgood.com
 ||phenompeople.com^$third-party
 ||phonalytics.com^$third-party
 ||phone-analytics.com^$third-party
@@ -38743,6 +38747,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||acronymfinder.com/~/tr.ashx
 ||activate.latimes.com/pc/caltimes/?pulse2001=
 ||active.com/ig.track.js
+||adblockstreamtape.art/stat/
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
 ||adc-js.nine.com.au^
