@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KGxd4ONtM4jxgQv4ew7D3Q
+! Checksum: CsyYim5grfnk3Qa9C4GUGw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202203091417
-! Last Modified: 2022年03月09日 14:17
+! Version: 202203092023
+! Last Modified: 2022年03月09日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17400,6 +17400,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||unconditionally.wang^
 ||sysjazi.cn^
 ||wknydhz.cn^
+||xingyou65.xyz^
+||fengmian.xyz^
+||zcao.vip^
+||mkk.red^
+||haojun.shop^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -26499,6 +26504,7 @@ m.babytree.com##script + a[class]
 /ga-targets.js
 /ga-track-
 /ga-track.
+/ga-tracker-
 /ga-tracker.
 /ga-tracking-
 /ga-tracking/*
@@ -35787,9 +35793,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||appsolutions.com/hitme?$third-party
 ||appspot.com/analytics/
 ||appspot.com/api/track/
-||appspot.com/collect
 ||appspot.com/display?
-||appspot.com/event
+||appspot.com/event?
 ||appspot.com/stats?
 ||appspot.com/take?
 ||arclk.net/trax?
@@ -39271,6 +39276,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metricsishare.rediff.com^
 ||metro.co.uk/base/rta/
 ||metroweekly.com/tools/blog_add_visitor/
+||mewe.com/ubk4jrxn.js
 ||mi.academy.com/p/js/1.js
 ||miao.baidu.com^
 ||mms.cnn.com^
@@ -49159,6 +49165,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||wl.spotify.com^
 !-----------------International individual tracking systems-----------------!
 ||adtm.chip.de^
+||analytics.daasrv.net^
 ||analytics.deutscher-apotheker-verlag.de^
 ||analytics.moviepilot.de^
 ||arlt.com/analytics/
@@ -50138,7 +50145,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.ipstack.com/check$domain=blockfi.com|withpersona.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||appboycdn.com^*/appboy.min.js$script,domain=bakkt.com
-@@||appspot.com/event/$xmlhttprequest,domain=crab.fit
 @@||appspot.com/static/js/tracker/$script,domain=bugs.avm99963.com
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
 @@||atl-paas.net/analytics/event
