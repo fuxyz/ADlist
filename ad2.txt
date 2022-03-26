@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: BfBTKM0lpb6zuQdKeDQIlw
+! Checksum: 4cAPIsK3Sy7Kz6ENpGYaMg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202203260858
-! Last Modified: 2022年03月26日 08:58
+! Version: 202203261416
+! Last Modified: 2022年03月26日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -138,6 +138,7 @@ xz6d.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/public/imgbed/gg/*
 -880-80-4.jpg
 -90mh-gg.
 .bid/ads/
@@ -7308,7 +7309,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||kikinote.net/iframe
 ||kingkongapp.com^*/web/adv/list?
 ||kingsnug.cn/Uploads/vod/2019-05-25/5ce964f0c66e0.jpg
-||kisssub.*/public/imgbed/gg/
 ||kiwi8.top/media/plugins/jquery_confirm/
 ||kkkkdm.com/js/comic-
 ||kkkkdm.com/mg/show
@@ -7617,7 +7617,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||minixiazai.com/others/all_soft.js
 ||minixiazai.com/statics/js/soft/index.js
 ||miniye.xjts.cn^
-||miobt.com/public/imgbed/gg/
 ||mipcdn.com^*/mip-*ad-
 ||mipengine.baidu.com/common?
 ||missevan.com^$domain=jijidown.com
@@ -9343,6 +9342,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||sinaimg.cn/finance/qihuofarm/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
@@ -17228,6 +17228,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 !#Novels ads union
 ||sniglet.online^
 ||zjdb2b.wang^
+||52jimi.top^
+||dsoizkd.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
