@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: FZZeqkDpM4YLQevmBa+tNA
+! Checksum: roJzTUfC1LhoaCPMp1J+XA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202204022022
-! Last Modified: 2022年04月02日 20:22
+! Version: 202204030905
+! Last Modified: 2022年04月03日 09:05
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -26307,7 +26307,6 @@ _800x80_
 ##.iqadlinebottom
 ##.iqadmarker
 ##.iqadtile_wrapper
-##.is-below-header-ad
 ##.is-mpu
 ##.is-preload-ad
 ##.is-script-ad
@@ -56179,6 +56178,7 @@ flixboss.com##.instream-dynamic
 defenseone.com##.interstitial
 allnurses.com##.ipsAreaBackground
 allnurses.com##.ipsSpacer_both
+si.com##.is-below-header-ad
 alibaba.com##.is-creative
 mydramalist.com##.is-desktop
 twitter.com##.is-promoted
@@ -60937,6 +60937,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||d40.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -73148,6 +73149,7 @@ wigcw.cn##a[href*=".gwents.com"]
 acglala.me##a[href*=".h-ero.games"]
 423down.com,ctfile.com##a[href*=".henghost.com"]
 hanjutv2020.com##a[href*=".hujiang.com"]
+libvio.com##a[href*=".jd.com"]
 comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,mvcat.com,mzh.ren,rufengso.net,v.qq.com##a[href*=".jd.com"]
 wmzhe.com##a[href*=".jd.com/"]
 chinanews.com##a[href*=".jiuxianfeng.com"]
@@ -76421,6 +76423,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||pstatp.com/cdn/*/jquery/$script,domain=bxwx11.com
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
+||nxdfg.xyz^
+||preroot.xyz^
+||jnqiangzhi.xyz^
+||kgho.info^
 ||wulongqiyi.com^
 ||shenfagg.com^
 ||huixiangdou.xyz^
