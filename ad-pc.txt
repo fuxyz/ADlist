@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GLymY+vosNfYgRVmsFzMOw
+! Checksum: TGZsUMhcQvq8AGU6D5NX0A
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202204050901
-! Last Modified: 2022年04月05日 09:01
+! Version: 202204051418
+! Last Modified: 2022年04月05日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -57801,7 +57801,7 @@ carls-sims-4-guide.com##hr.post_separator + .windowbg
 avanigo.com##iframe.lazyloaded
 micky.com.au##iframe[height="90"]
 coincodex.com,yourbittorrent.com##iframe[src]
-123-movies.ninja,123movies.net,4anime.biz,4anime.gg,animebee.to,animeheaven.pro,animekisa.in,animekisa.tv,batotoo.com,bravoporn.com,dramacool.pk,dulu.to,filmyzilla.makeup,gogoanime.be,gogoanime.co.in,gogoanime.lol,herogayab.net,mangadna.com,mangceh.cc,messitv.net,miraculous.to,playlist-youtu.be,prmovies.bz,prmovies.li,ssoap2day.to,tamilyogi.best,vanime.co,wat32.tv,watchseries.ninja,webtoonshare.com,yomovies.bz,yomovies.pm,ytmp3.cc##iframe[style*="z-index: 2147483647"]
+123-movies.ninja,123movies.net,4anime.biz,4anime.gg,animebee.to,animeheaven.pro,animekisa.in,animekisa.tv,batotoo.com,bravoporn.com,dramacool.pk,dulu.to,filmyzilla.autos,filmyzilla.makeup,gogoanime.be,gogoanime.co.in,gogoanime.lol,herogayab.net,mangadna.com,mangahere.today,manganatos.com,mangceh.cc,messitv.net,miraculous.to,playlist-youtu.be,prmovies.bz,prmovies.li,putlockers.li,ssoap2day.to,tamilyogi.best,vanime.co,wat32.tv,watchseries.ninja,webtoonshare.com,yomovies.bz,yomovies.pm,ytmp3.cc##iframe[style*="z-index: 2147483647"]
 fansshare.com##iframe[width="300"]
 shoesession.com##iframe[width="732"]
 premiumtimesng.com##img[alt$=" Ad"]
@@ -76707,6 +76707,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||51yw.club^
 ||ytb2017.club^
 ||liangzhuangxiu.top^
+||chenaiwx.xyz^
+||wltt.xyz^
+||yiongminghan.xyz^
+||jirtb.top^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -86842,6 +86846,7 @@ cgi-bin/counter
 .getblueshift.com/q/
 .google-analytics.com/
 .hootsuite.com/trk?
+.informz.net/z/$image
 .innologica.com/t/
 .intercom-mail.com/q/
 .intercom-mail.com/via/$image
@@ -86948,6 +86953,7 @@ cgi-bin/counter
 /t.ifly.southwest.com/*$image
 /t.paypal.com/*$image
 /t.yesware.com/t/*$image
+/T/OFC4/*$image
 /track/open.php?
 /track/open?
 /tracking.fanbridge.com/*

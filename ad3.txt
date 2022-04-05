@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Df2MsBKCSOYTU0nEAPdkNg
+! Checksum: PFRmLfjqB3uHVVsi/DndPg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202204050901
-! Last Modified: 2022年04月05日 09:01
+! Version: 202204051418
+! Last Modified: 2022年04月05日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -17281,6 +17281,10 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||51yw.club^
 ||ytb2017.club^
 ||liangzhuangxiu.top^
+||chenaiwx.xyz^
+||wltt.xyz^
+||yiongminghan.xyz^
+||jirtb.top^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -29666,6 +29670,7 @@ cgi-bin/counter
 .getblueshift.com/q/
 .google-analytics.com/
 .hootsuite.com/trk?
+.informz.net/z/$image
 .innologica.com/t/
 .intercom-mail.com/q/
 .intercom-mail.com/via/$image
@@ -29772,6 +29777,7 @@ cgi-bin/counter
 /t.ifly.southwest.com/*$image
 /t.paypal.com/*$image
 /t.yesware.com/t/*$image
+/T/OFC4/*$image
 /track/open.php?
 /track/open?
 /tracking.fanbridge.com/*
