@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Cm0KzdL093vDv5pU+H5zvw
+! Checksum: rlpFlFeP+vxtrIkho6+Wgw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202204090903
-! Last Modified: 2022年04月09日 09:03
+! Version: 202204092023
+! Last Modified: 2022年04月09日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1802,6 +1802,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||d8962a.xyz^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -17313,6 +17314,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||jiangsm.club^
 ||mayib.xyz^
 ||tianhong.mobi^
+||songshijiazu.cn^
+||bfjl.ink^
 ||hkbmsb.fun^
 ||hotbanner.site^
 ||hqtlw.cn^
