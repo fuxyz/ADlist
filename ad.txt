@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ac1AvSj/9AZZT3y5PpdyUg
+! Checksum: I35EDAhml3aynpHhANUiPQ
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202204141418
-! Last Modified: 2022年04月14日 14:18
+! Version: 202204142029
+! Last Modified: 2022年04月14日 20:29
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -15934,6 +15934,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 @@||ecma.bdimg.com/holmes/*.svg
 @@||eden.international/script/ad_banner/
 @@||eden.org.tw^*/ad_banner/
+@@||doc110.com^*/ad.css?$stylesheet
 @@||edgesuite.net^*/ad.css?
 @@||edmondpoon.com^$generichide
 @@||edu.cn^*/ad.css?$stylesheet
