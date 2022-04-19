@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CsSRGf8uLCVWJdxXxROnGQ
+! Checksum: 3jgRlzl3YFiNk7SY+3n6Uw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202204190917
-! Last Modified: 2022年04月19日 09:17
+! Version: 202204191418
+! Last Modified: 2022年04月19日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -17664,7 +17664,6 @@ _800x80_
 ##.WikiaTopAds
 ##.WiredWidgetsDartAds
 ##.WiredWidgetsGoogleAds
-##.WithAds
 ##.XEad
 ##.YEN_Ads_120
 ##.YEN_Ads_125
@@ -30668,7 +30667,6 @@ _800x80_
 ##.wis_adControl
 ##.with-background-ads
 ##.with-wrapper-ads
-##.withAds
 ##.withBanners__ad
 ##.with_ctecad
 ##.wixAdsdesktopBottomAd
@@ -58029,6 +58027,7 @@ noqreport.com##[src^="https://media.mercola.com/assets/html/"]
 buzzly.art##[src^="https://submissions.buzzly.art/CANDY/"]
 mql5.com##[src^="https://www.mql5.com/fz/"]
 goal.com##[style*="--card-group-item:ad"]
+raspberryexpert.com##[style*="border-bottom: none;"]
 medicalnewstoday.com##[style*="line-height: 0;"]
 shotcut.org##[style="background-color: #fff; padding: 6px; text-align: center"]
 wahm.com##[style="min-height:250px;"]
@@ -61796,6 +61795,7 @@ ubmcmm.baidustatic.com
 ##img[onclick*="/c7.net/"]
 !----------------------------------Ads-Union----------------------------------!
 .8ox.cn
+||23532451.com^
 ||00-gov.cn^
 ||000123456789.site^
 ||0024aaaa.com^
@@ -77351,6 +77351,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||baking.ren^
 ||xtb.ink^
 ||jg88.wang^
+||liulianshangmao.top^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
