@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mrjsGvcUcxtmXNy7G3XBMQ
+! Checksum: g70Ymw8YLrrWIEIJoOi9GA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202204192030
-! Last Modified: 2022年04月19日 20:30
+! Version: 202204200219
+! Last Modified: 2022年04月20日 02:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -585,6 +585,7 @@ xz6d.com
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
 -1688-wp-media/ads/
+/asset/js/gglms.
 -880-80-4.jpg
 -90mh-gg.
 .bid/ads/
@@ -17818,6 +17819,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||jg88.wang^
 ||liulianshangmao.top^
 ||crossed.wang^
+||doklam.wang^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
