@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bXQ+vC9p59Xjhc/abFiZaA
+! Checksum: 7JJZ7UKRY8u8RN0ASsQdZg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202205070907
-! Last Modified: 2022年05月07日 09:07
+! Version: 202205071418
+! Last Modified: 2022年05月07日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -58426,6 +58426,7 @@ twitter.com##a[href*="src=promoted_trend_click"] + div
 unitconversion.org##a[href="../noads.html"]
 1337x.to##a[href="/v-pn2dl-hideip"]
 techporn.ph##a[href][target*="blank"]
+mtaeta.info##a[href][target="_blank"] > img[src^="http://storage2.proboards.com/"]
 rarbg.to,rarbgaccess.org,rarbgmirror.com,rarbgmirror.org,rarbgproxy.com,rarbgproxy.org,rarbgunblock.com,rarbgunblocked.org##a[href][target="_blank"] > button
 flaticon.com##a[href^="//www.flaticon.com/edge/redirect?"]
 linkhub.icu##a[href^="/downloadnow.php?"]
@@ -77883,6 +77884,11 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||loveyour.name^
 ||qijiuwangluo.ltd^
 ||helloc.xyz^
+||selectinstall.cn^
+||jzcan.xyz^
+||weldsystem.online^
+||qhonzpl.cn^
+||3z3sfuj.cn^
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
 ##a[href*=".233787.com/"]
@@ -82888,6 +82894,7 @@ fqsousou.com,kengso.com#@#.user-share
 @@||yimg.com/ss/rapid3.js$domain=style.yahoo.com.tw|tw.answers.yahoo.com
 @@||youku.com/cms/player/userinfo/
 @@||youku.com/cms/playlog/get?
+@@||threatbook.cn/public/asset/js/zhugeIo.
 ||hjfile.cn/analytics/site/TrackEvent.js
 !---------------------------------Temporary-----------------------------------!
 ! EasyPrivacy
