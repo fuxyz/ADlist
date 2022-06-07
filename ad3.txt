@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dpmgwxRIaTuxn0K+5l8mKw
+! Checksum: OHqxh722Q+jZHWD+NNsi+g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206072030
-! Last Modified: 2022年06月07日 20:30
+! Version: 202206080217
+! Last Modified: 2022年06月08日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1836,6 +1836,12 @@ ubmcmm.baidustatic.com
 ||adtbcs.cn^
 ||apohki.cn^
 ||xuebim.top^
+||baiyishaonian.cn^
+||unpkg.com^
+||jb2v9sv.world^
+||jb9vtov.xyz^
+||yanko.cc^
+||kv61xc8.xyz^
 ||taoquan365.net^
 .8ox.cn
 ||00-gov.cn^
@@ -6276,7 +6282,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||cjjjs.com/image/banner/ali
 ||cjjjs.com/script/ad.js
 ||cjn.cn^*/ad/
-||cjw123.com/jx/static/picture/tm.png
+||cjw123.com/jx/static/picture/
 ||cjx111.com/ads/
 ||ck180.net/mitao
 ||ckxxbao.com/templets/default/js/wx.js
@@ -9689,6 +9695,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
+cjw123.com##.copy
 szxx.com.cn###A0
 imydl.com##.banner
 szxx.com.cn###A1
@@ -30717,6 +30724,7 @@ _webiq.
 _wiselog_
 _xiti_js-
 cgi-bin/counter
+||internal-matomo.
 ||meetrics.netbb-
 &mi_ecmp=
 -track-email-open?
@@ -31122,6 +31130,7 @@ _mongo_stats/
 ||cxt.ms^
 ||cybba.solutions^
 ||czx5eyk0exbhwp43ya.biz^
+||datatechonert.com^
 ||demdex.net^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
@@ -31269,6 +31278,7 @@ _mongo_stats/
 ||turboeagle.co^
 ||turbolion.io^
 ||tvpixel.com^
+||tzegilo.com^
 ||ugdturner.com^
 ||v1sts.me^
 ||venusrevival.com^
@@ -31725,7 +31735,7 @@ _mongo_stats/
 ||cdnmaster.com^$third-party
 ||cdnopw.com^$third-party
 ||cedexis.com^$third-party
-||cedexis.net^$third-party
+||cedexis.net^$script,third-party
 ||celebros-analytics.com^$third-party
 ||celebrus.com^$third-party
 ||center.io^$third-party
@@ -37092,6 +37102,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||curated.fieldtest.cc^
 ||custom.search.yahoo.co.jp/images/window/*.gif
 ||customerlobby.com/ctrack-
+||customfingerprints.bablosoft.com^
 ||cws.conviva.com^
 ||d.rcmd.jp^$image
 ||d.shareaholic.com^
@@ -40133,6 +40144,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||flirt4free.com/pixel/
 ||flyasiana.com/ykjEIhcZLYg2zoOOoA/
 ||foodcouture.net/public_html/ra/script.php
+||formula1.com/api/track
 ||foursquare.com/v2/private/logactions
 ||foxsports.com.au/akam/
 ||fp.measure.office.com^
