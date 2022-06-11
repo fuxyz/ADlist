@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 4z1sEQDyL3VU+KMjyqk5wA
+! Checksum: nJU1h8Dy3SEY5vWvkB0wOg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202206110219
-! Last Modified: 2022年06月11日 02:19
+! Version: 202206110911
+! Last Modified: 2022年06月11日 09:11
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1837,6 +1837,7 @@ ubmcmm.baidustatic.com
 ||jrhbhz.com^
 !2306
 !2305
+||opuik.com^
 !2304
 ||awsxc.live^
 !2303
@@ -9707,8 +9708,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||titan007.com/js/indexshow.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+itxueyuan.com##a[href*="guanggaowei"]
 wanmeikk.me##a[href="http://qq.wanmeikk.me/index"]
 szxx.com.cn###A1
 szxx.com.cn###A2
@@ -17487,6 +17490,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=bhshu.net|louzho
 @@||dushu.ru^$script,domain=bhshu.net
 @@||piaotian5www.cdn.bcebos.com^$script,domain=piaotian5.net
 @@||zhaiyd5.com^$script,domain=louzhong8.com|miwens.com
+fttxt.com##a[href*="type"]
 ahzwx.com##script + div[style]
 biqugee.com##div[style="width:976px;"]
 bisowu.cc##.a-row
@@ -17687,11 +17691,15 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=tianyashuku.com|
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
 !2306
+||gguuu.top^
 ||jianjianjiao.top^
 ##a[href*="/jianjianjiao.top"]
 ||lwxqaq.club^
 ||haitaochen.xyz^
 !2305
+||zhflodsix.cn^
+||666video.asia^
+||toutao.pro^
 ||a19cd.xyz^
 ||zhuomengwangluo.com^
 ||yue78.online^
@@ -17700,9 +17708,12 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=tianyashuku.com|
 ||princesses.asia^
 ||uniworldgroup.asia^
 !2304
+||aak7.cn^
 ||merrrrrry.top^
 ||yping.online^
 !2303
+||defenga.top^
+||jiedaibao.gs^
 ||myuosid.cn^
 ||tianyao.site^
 ||edetlmb.cn^
