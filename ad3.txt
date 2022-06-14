@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tuJWx4Jep0pj5dgNwIqgaQ
+! Checksum: eSQv9Je5kQvvFALAByxzFw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202206140219
-! Last Modified: 2022年06月14日 02:19
+! Version: 202206140927
+! Last Modified: 2022年06月14日 09:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1870,6 +1870,7 @@ ubmcmm.baidustatic.com
 ||qbyyvg3.com^
 ||xtp01.com^
 !2302
+||666585.xyz^
 ||666576.xyz^
 ||666577.xyz^
 ||666579.xyz^
@@ -17732,6 +17733,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 @@||zmtt.net^$script,domain=luoqiuzw.com
 !#Novels ads union
 !2306
+||cfqc.me^
+||fetm.xin^
+||tokay.pro^
 ||iceberg.ink^
 ##a[href*="/jianjianjiao.top"]
 ||1kcx.hk^
@@ -17745,7 +17749,9 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||rinn.love^
 ||shoujizhuanqian.store^
 ||yyyyt.ltd^
+||zhongmeigk.hk^
 !2305
+||chaotickets.cn^
 ||2329.ink^
 ||666video.asia^
 ||a19cd.xyz^
@@ -38398,6 +38404,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sunset.com/tia/
 ||survey.interquest.com^
 ||survey.io/log?
+||surveymonkey.com/collect/
 ||surveymonkey.com/resp/api/metrics
 ||surveywall-api.survata.com^$third-party
 ||sv.aq.qq.com^
@@ -50537,6 +50544,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||sqs.quoka.de^
 ||squirrel.cividi.ch^
 ||ss.photospecialist.at^
 ||ss.photospecialist.de^
