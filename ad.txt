@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: JHLnHKl5G764gMtKYy2aMA
+! Checksum: jIL8D7AH3Y1S47L/ScNckg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202206220924
-! Last Modified: 2022年06月22日 09:24
+! Version: 202206221418
+! Last Modified: 2022年06月22日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2314,6 +2314,7 @@ ubmcmm.baidustatic.com
 ||tangkai.ltd^
 ||tklm77.top^
 !2305
+||gfghr.com^
 ##a[href*=".xxgxqscl.com/"]
 ##a[href="https://guapitv.app/"]
 ||app0003.xyz^
@@ -17951,6 +17952,8 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||yundaxue.love^
 ||hlryy.top^
 ||bufan.in^
+||rmt.plus^
+||moxiang.plus^
 ##a[href*="/jianjianjiao.top"]
 ||1kcx.hk^
 ||biercloud.love^
@@ -18040,6 +18043,7 @@ $script,subdocument,third-party,websocket,xmlhttprequest,domain=00ksw.com|01zww.
 ||zhuomengwangluo.com^
 ||zwgege.cn^
 !2304
+||fmgfqwe.xyz^
 ||172872.com^
 ||77tel.com^
 ||aa9q.cn^
