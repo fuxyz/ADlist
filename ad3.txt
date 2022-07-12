@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: I9xA9w7LCYcK1pCerXrhmQ
+! Checksum: lCY7U7gEe5MSqjrae4pq1g
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207120938
-! Last Modified: 2022年07月12日 09:38
+! Version: 202207121418
+! Last Modified: 2022年07月12日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2215,6 +2215,11 @@ ubmcmm.baidustatic.com
 ||ixihet.cn^
 ||v34ffs.site^
 ||fjlpyz.cn^
+||hust.cx^
+||meilmei.xyz^
+||gndunbix.rest^
+||yelmlrq.cn^
+||666683.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -31538,6 +31543,7 @@ _mongo_stats/
 ||decdna.net^$third-party
 ||decibelinsight.net^$third-party
 ||decideinteractive.com^$third-party
+||deep-content.io^$third-party
 ||deep.bi^$third-party
 ||deepattention.com^$third-party
 ||deepchannel.com^$third-party
@@ -40140,6 +40146,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nzpages.co.nz/modules/common/track.js
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
+||okx.com/jsstat/sb?
 ||online-umwandeln.de/analytics.js
 ||ophan.theguardian.com^
 ||optimize-stats.voxmedia.com^
@@ -51556,6 +51563,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||wplogout.com/wp-content/uploads/*Google$image,~third-party
 @@||wsj.net/iweb/static_html_files/cxense-candy.js$script,domain=marketwatch.com
 @@||www.ups.com/WebTracking/processInputRequest
+@@||xeroshoes.co.uk/affiliate/scripts/trackjs.js$~third-party
 @@||xfinity.com^*/Comcast.SelfService.Sitecatalyst.js
 @@||xumo.com/xumocdn/*/beacon?$domain=roku.com
 @@||yimg.com^*/ywa.js$domain=nydailynews.com|travelscream.com|yahoo.com
