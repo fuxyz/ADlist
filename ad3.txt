@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vSynz+OmqUsS702qT7bn3w
+! Checksum: JpwaOh/1F3PVfY2pzHptHg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207131419
-! Last Modified: 2022年07月13日 14:19
+! Version: 202207132028
+! Last Modified: 2022年07月13日 20:28
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2235,6 +2235,12 @@ ubmcmm.baidustatic.com
 ||xn--gov-x68dy61b.shop^
 ||sevenmax.cn^
 ||s9o.co^
+||gnfunbiz.rest^
+||gvofl.com^
+||ldpsfa.com^
+||esajfsd.cn^
+||vueujv.com^
+||akmh043.vip^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -37834,6 +37840,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||snowplow.swm.digital^
 ||soccer.ru/counter/
 ||socialannex.com/c-sale-track/$script
+||solutions.invocacdn.com^
 ||sourceforge.net/tracker/$~xmlhttprequest
 ||southafricahome.com/statsmodulev2/
 ||sp-wukong-tracker.b-cdn.net^
@@ -37942,7 +37949,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||surveymonkey.com/collect/$third-party
 ||surveymonkey.com/resp/api/metrics
 ||surveywall-api.survata.com^$third-party
-||sv.aq.qq.com^
 ||svc.dynamics.com/f/m/$third-party
 ||svc.dynamics.com/t/w$third-party
 ||svnlnk.com/aff/trk.html
