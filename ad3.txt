@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: hzUfQ2f4S3TxfUqFIyhIxg
+! Checksum: eLT/09YhdEupYn/Rx2L0Jw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207150218
-! Last Modified: 2022年07月15日 02:18
+! Version: 202207150945
+! Last Modified: 2022年07月15日 09:45
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2253,6 +2253,9 @@ ubmcmm.baidustatic.com
 ||zygaoshou888.cn^
 ||zygxy.online^
 ||zzycj.com^
+||mywei.love^
+||gfnormal07ae.com^
+||bdzkrl.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -9279,6 +9282,7 @@ ubmcmm.baidustatic.com
 ||cbjs.baidu.com^
 ||cpro.baidu.com^
 ||cpro.baidustatic.com^
+||d3t3z4teexdk2r.cloudfront.net^
 ||d15cjcet1djbmv.cloudfront.net^
 ||d26yfyk0ym2k1u.cloudfront.net^
 ||d32bug9eb0g0bh.cloudfront.net^
@@ -20020,6 +20024,7 @@ brandsales.58.com#@#div[id^="ad_"]
 gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
+@@||210.40.130.91^*/ad.css?$stylesheet
 @@.adserver.$domain=litv.tv
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
@@ -27623,8 +27628,8 @@ m.babytree.com##script + a[class]
 /logaholictracker.
 /logAjaxErr_
 /LogAmpHit?
-/loganalyticsevent?
 /LogAnalysisTracker/*
+/loganalyticsevent?
 /logAutoMicroConversion?
 /logclick.
 /logcollect.
@@ -30441,6 +30446,7 @@ cgi-bin/counter
 /media.sailthru.com/5ik/1k4/9/*.gif
 /newsletter/log/*$image
 /newsletter/read?s=$image
+/newtrackingscript.
 /notifications.googleapis.com/email/t/*
 /notifications/beacon/*
 /open.aspx?
@@ -40090,6 +40096,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||medium.com/_/clientele/reports/performance/
 ||meduza.io/stat/
 ||messari.io/js/wutangtrack.js
+||messenger.com/ajax/bnzai?
 ||messiah.id/api/event
 ||messiah.id/js/script.js
 ||metacrawler.com/pingback
