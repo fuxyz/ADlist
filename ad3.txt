@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: gTAF7T6vohkbGP2qyfvNXg
+! Checksum: bshhORZjWqOWcBzfCWAX2Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207201419
-! Last Modified: 2022年07月20日 14:19
+! Version: 202207202031
+! Last Modified: 2022年07月20日 20:31
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2357,6 +2357,10 @@ ubmcmm.baidustatic.com
 ||cqdalqx.cn^
 ||neno.ink^
 ||rizlhvb.cn^
+||mnuy56.site^
+||p7lvj09f.shop^
+##a[href*="/6298crsyzh.com:"]
+||igtqora.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14369,6 +14373,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||thisav.com/js/bioep.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+zhujiceping.com##aside[id^="custom_html-"]
+zhujiceping.com###footer-widget-box
+zhujiceping.com###text-12
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -31122,6 +31129,7 @@ _mongo_stats/
 ||adinsight.co.kr^$third-party
 ||adinsight.com^$third-party
 ||adinte.jp^$third-party
+||adjust.com^$third-party
 ||adku.co^$third-party
 ||adku.com^$third-party
 ||admantx.com^$third-party
@@ -50322,6 +50330,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||tracking.kussladies.de^
 ||tracking.ladies.de^
 ||tracking.latinaladies.de^
+||tracking.live.wetter.at^
 ||tracking.massierendeladies.de^
 ||tracking.mollyladies.de^
 ||tracking.noen.at^
