@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: r+PmlTKWfiPBnRcgdvdg1w
+! Checksum: 1A3jfyLcGv7yOjIT0cZBuA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202207210921
-! Last Modified: 2022年07月21日 09:21
+! Version: 202207211419
+! Last Modified: 2022年07月21日 14:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2370,6 +2370,11 @@ ubmcmm.baidustatic.com
 ||otneq.today^
 ||l60.xyz^
 ||666729.xyz^
+##a[href*=".nfylife.com/"]
+||nttrr.top^
+||yanyuda.xyz^
+||xmgdgo.cn^
+||aongsond.uno^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -39821,6 +39826,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beam.bankrate.com^
 ||beam.giraffe360.com^
 ||bfp.capitalone.com^
+||bhphotovideo.com/aperture/client/logs
+||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bing.com/fd/ls/GLinkPing.aspx?
 ||bing.com/mouselog
 ||binocule21c.merriam-webster.com^
@@ -51412,6 +51419,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||daan.dev/wp-content/*/caos-supports-google-analytics-$image,~third-party
 @@||dashboard.streetlib.com/_next/static/chunks/pages/$~third-party
 @@||dashboard.unity3d.com/services/analytics/$~third-party
+@@||data.adxcel-ec2.com^$image,domain=laguardia.edu
 @@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|usa.experian.com
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||ddmcdn.com^*/comscore.streaming.$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
