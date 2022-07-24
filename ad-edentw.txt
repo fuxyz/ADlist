@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: CYf1uHkmd4WV4gUzsXgd5g
+! Checksum: Y0wvNWPg7dpxkeBIT8affA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202207230219
-! Last Modified: 2022年07月23日 02:19
+! Version: 202207240943
+! Last Modified: 2022年07月24日 09:43
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -11,6 +11,7 @@
 !
 ! Adblock Warning Removal List
 ! *** antiadblockfilters:antiadblockfilters/antiadblock_arabic.txt ***
+/adb-watch.
 /adb_script/*
 /deadblocker/*
 /mod_ablockdetector/*
@@ -25,6 +26,7 @@
 ##.deadblocker-header-bar
 ##.detected-block-modal
 ##.no-ad-reminder
+kimo.ma##.adb
 myegy.cc,myegy.io,myegy.to##.disclaimer
 4algeria.com###exposeMask
 chahid4u.tk###unblocker
