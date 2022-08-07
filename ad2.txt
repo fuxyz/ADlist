@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ej9nejCIOv7J5Zo67yzjFg
+! Checksum: g5ZYnitYx87QRuguSx4a1Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202208070217
-! Last Modified: 2022年08月07日 02:17
+! Version: 202208070927
+! Last Modified: 2022年08月07日 09:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1602,6 +1602,7 @@ ubmcmm.baidustatic.com
 ##span[title="neteasefooter"]
 ##style + .a-loading
 ##style + .vdgdo
+##div[onclick^="window"][style^="position"]
 ##table[style="border:#7D8C8E solid 1px;height: 30px;text-align: center;"]
 ##.btn[href*=".papa9394.com"]
 ##.btn[href*="/viphktv.com/"]
@@ -2730,6 +2731,13 @@ ubmcmm.baidustatic.com
 ||zygxy.online^
 ||zyl520zh.online^
 ||zzycj.com^
+||iuliglsh.space^
+||xywy.name^
+||qinger.name^
+||qiezijs.cc^
+||mdsop.com^
+||hljcq.xyz^
+||vuliglsf.space^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -23524,6 +23532,7 @@ _box_ad_
 ||php.cn/upload/course/
 ||huanqiucdn.cn/huanqiu/js/www/common/detected_block.
 ||yaozh.com/Public/js/widget/dbAdDownload.
+||kandaju.net/js/js2.
 !------------------------Specific element hiding rules------------------------!
 ghxi.com##div[style="padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: 99999;background-color: #cc4444;color: #fff"]
 manmanbuy.com##.app-activity-download
