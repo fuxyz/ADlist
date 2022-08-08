@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7FOfdn4ZR5Ub7Bh/8A+GAg
+! Checksum: KK47YsPeE9m6JBr4AbGscQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202208080922
-! Last Modified: 2022年08月08日 09:22
+! Version: 202208081421
+! Last Modified: 2022年08月08日 14:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2762,6 +2762,14 @@ ubmcmm.baidustatic.com
 ||fanjin.name^
 ||o06.xyz^
 ||wuliglsg.space^
+||3fddkj.com^
+||xcjwq.world^
+||gujiadayuan.top^
+||mengte.top^
+||eofemms.cn^
+||hsswcei.cn^
+||sfzztox.cn^
+||jiatang.club^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -36604,6 +36612,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect-eu.attraqt.io^
 ||collect.*.miui.com^
 ||collect.cloudsponge.com^
+||collect.igodigital.com/collect.js
 ||collect.iteam-dress.com^
 ||collect.rewardstyle.com^
 ||collect.usefathom.com^
@@ -39379,6 +39388,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||1337x.to/ip3.php
 ||40svintageporn.com/hit
 ||4hds.com/js/camstats.js
+||9gag.com/track/
 ||a-reporting.nytimes.com^
 ||a.electerious.com^
 ||a10.nationalreview.com^
@@ -39564,6 +39574,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||codecademy.com/analytics/
 ||codecguide.com/stats.js
 ||collect.alipay.com^
+||collect.banggood.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
 ||collector.github.com^
@@ -40055,6 +40066,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pumpkin.abine.com^
 ||pushsquare.com/blank.gif
 ||pxl.indeed.com^
+||qm.redbull.com^
 ||quibids.com/marketing/pixels/
 ||quickmeme.com/tracker/
 ||qwant.com/action/
@@ -40113,6 +40125,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sexu.com/api/ttrack
 ||sexybabepics.net/re/?ping
 ||sf-syn.com/conversion_outbound_tracker$subdocument,domain=sourceforge.net
+||shazam.com/services/metrics/
 ||shopeemobile.com/*/tr/
 ||shopmetric.rediff.com^
 ||showstreet.com/log/
