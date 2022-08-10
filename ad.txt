@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +BpILX5yUQvgPSE54AAl8w
+! Checksum: I8it/rru6w3CVPyG95GsPA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202208100920
-! Last Modified: 2022年08月10日 09:20
+! Version: 202208101420
+! Last Modified: 2022年08月10日 14:20
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3244,6 +3244,14 @@ ubmcmm.baidustatic.com
 ||okfzopj.cn^
 ||ruliglso.space^
 ||8feichai.com^
+||cxiwn.xyz^
+||vorlsblf.cyou^
+||qofvpbo.cn^
+||lorlsblh.cyou^
+||razasot.cn^
+||liuxiangxiang.top^
+||yihoo.biz^
+||yswphit.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -14762,6 +14770,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||csx365.com/h
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+vikacg.com##div[id^="home-row-ads"]
+vikacg.com###home-row-lunbo
 pornlulu.com##.container-fluid > .links
 baidu.com,bdimg.com#?#.thread_item_box:-abp-has(>style)
 baidu.com,bdimg.com#?#.l_post:-abp-has(>style)
