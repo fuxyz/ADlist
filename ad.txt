@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XVtlE0pDX6iJMX1lIUFJgA
+! Checksum: VcinB47k+K9BWe2iIEEgXg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202208311000
-! Last Modified: 2022年08月31日 10:00
+! Version: 202208312032
+! Last Modified: 2022年08月31日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3640,6 +3640,14 @@ ubmcmm.baidustatic.com
 ||ahp31.site^
 ||woodmenopsonia.com^
 ||666783.xyz^
+||vi7a.top^
+||jqdldk.cn^
+||1118cctv.ltd^
+||qkkgish.cn^
+||twpfa.cn^
+||kxlidd.ink^
+||94pr.cn^
+||3ek9.cn^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -15137,8 +15145,12 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzsky.cn/images/a_d_
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||mongoosejs.net/docs/images/lagoujika.jpeg
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+xiaolz.cn###zzbuluoled_sx
+xiaolz.cn###masonry2
+xiaolz.cn###masonry
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -20866,6 +20878,7 @@ gohome.com.hk#@#div[id^="div-gpt-ad"]
 !---------------------------------URL Whitelist-------------------------------!
 @@&adurl=http://$domain=360bifen.cc|360bifen.com
 @@.adserver.$domain=litv.tv
+@@||nvidia.cn^*-300x250-
 @@.com/adv/$domain=my.ctrip.com
 @@.com/js/a_d/$domain=cocomanga.com|cocomanhua.com
 @@.gif#$domain=b168.net|cnprint.org|huhupan.com|tgfcer.com|wgun.net
