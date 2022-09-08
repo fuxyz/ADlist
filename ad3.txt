@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: vjy0nnRYY4/G1+qPZKtlDg
+! Checksum: YrMgHp3AGPX3d5VqEgUi9Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202209081442
-! Last Modified: 2022年09月08日 14:42
+! Version: 202209082032
+! Last Modified: 2022年09月08日 20:32
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3351,6 +3351,8 @@ ubmcmm.baidustatic.com
 ||otjkz.xyz^
 ||1lx.co^
 ||amtwcvh.cn^
+||rfigekm.cn^
+||showcoopdc.xyz^
 .8ox.cn
 ##a[href$=".120ydrayy.com"]
 ##a[href*=".1956hl.com/"]
@@ -31188,6 +31190,7 @@ _mongo_stats/
 ||adcontroll.com^
 ||adnext.co^
 ||adrtx.net^
+||adscore.com^
 ||adstk.io^
 ||adultium.com^
 ||affvantage.com^
@@ -31212,6 +31215,7 @@ _mongo_stats/
 ||briskpelican.io^
 ||brontops.com^
 ||brsrvr.com^
+||btloader.com^
 ||bydst.com^
 ||cadsuta.net^
 ||captcha-display.com^
@@ -31226,6 +31230,7 @@ _mongo_stats/
 ||crsspxl.com^
 ||crwdcntrl.net^
 ||cvlb.dev^
+||cxense.com^
 ||cxt.ms^
 ||cybba.solutions^
 ||czx5eyk0exbhwp43ya.biz^
@@ -31238,6 +31243,8 @@ _mongo_stats/
 ||dmpxs.com^
 ||dratingmaject.com^
 ||dttrk.com^
+||dwin1.com^
+||dwin2.com^
 ||e1e.io^
 ||efreecode.com^
 ||egoi.site^
@@ -31325,10 +31332,12 @@ _mongo_stats/
 ||matheranalytics.com^
 ||mcangelus.com^
 ||mdhv.io^
+||micpn.com^
 ||mm-api.agency^
 ||mors22.com^
 ||mrpdata.net^
 ||mt48.net^
+||mxpnl.com^
 ||n0909.com^
 ||native-track.com^
 ||niblewren.co^
@@ -31346,6 +31355,7 @@ _mongo_stats/
 ||p2r14.com^
 ||pdflive.org^
 ||permutive.app^
+||pippio.com^
 ||pix.pub^
 ||pixel-tracker.com^
 ||pixrealm.com^
@@ -31385,6 +31395,7 @@ _mongo_stats/
 ||speedyfox.io^
 ||speedyrhino.co^
 ||spinnaker-js.com^
+||stack-sonar.com^
 ||stat.ovh^
 ||stpmgo.com^
 ||summerhamster.com^
@@ -31419,6 +31430,9 @@ _mongo_stats/
 ||woodpeckerlog.com^
 ||yardianalytics.com^
 ||yottlyscript.com^
+||youborafds01.com^
+||youboranqs01.com^
+||youboranqs02.com^
 ||z0uolej1qnxzub1.info^
 ||zdbb.net^
 ||zenaps.com^
@@ -31541,7 +31555,6 @@ _mongo_stats/
 ||adregain.ru^$third-party
 ||adrizer.com^$third-party
 ||adrta.com^$third-party
-||adscore.com^$third-party
 ||adsensedetective.com^$third-party
 ||adspsp.com^$third-party
 ||adsrvr.org^$third-party
@@ -31808,7 +31821,6 @@ _mongo_stats/
 ||browser-update.org^$third-party
 ||bstn-14-ma.com^$third-party
 ||btbuckets.com^$third-party
-||btloader.com^$third-party
 ||btncdn.com^$third-party
 ||btstatic.com^$third-party
 ||btttag.com^$third-party
@@ -32030,7 +32042,6 @@ _mongo_stats/
 ||customerlabs.co^$third-party
 ||cux.io^$third-party
 ||cvtr.io^$third-party
-||cxense.com^$third-party
 ||cya2.net^$third-party
 ||cybermonitor.com^$third-party
 ||cytoclause.com^$third-party
@@ -32131,8 +32142,6 @@ _mongo_stats/
 ||dtxngr.com^$third-party
 ||durationmedia.net^$third-party
 ||dvnfo.com^$third-party
-||dwin1.com^$third-party
-||dwin2.com^$third-party
 ||dynameex.com^$third-party
 ||dynatrace-managed.com^$third-party
 ||dynatrace.com^$third-party,domain=~dynatracelabs.com
@@ -32858,7 +32867,6 @@ _mongo_stats/
 ||mfadsrvr.com^$third-party
 ||miadates.com^$third-party
 ||mialbj6.com^$third-party
-||micpn.com^$third-party
 ||microanalytics.io^$third-party
 ||midas-i.com^$third-party
 ||mieru-ca.com^$third-party
@@ -32921,7 +32929,6 @@ _mongo_stats/
 ||mvilivestats.com^$third-party
 ||mvtracker.com^$third-party
 ||mxcdn.net^$third-party
-||mxpnl.com^$third-party
 ||mxptint.net^$third-party
 ||myaffiliateprogram.com^$third-party
 ||myaudience.de^$third-party
@@ -33138,7 +33145,6 @@ _mongo_stats/
 ||pingometer.com^$third-party
 ||pinpoll.com^$third-party
 ||pipfire.com^$third-party
-||pippio.com^$third-party
 ||piratepx.com^$third-party
 ||pirsch.io^$third-party
 ||piwik.pro^$third-party,domain=~clearcode.cc|~clearcode.pl|~piwikpro.de
@@ -33581,7 +33587,6 @@ _mongo_stats/
 ||srmdata.com^$third-party
 ||srpx.net^$third-party
 ||ssm.codes^$third-party
-||stack-sonar.com^$third-party
 ||stackadapt.com^$third-party
 ||stadsvc.com^$third-party
 ||star-cntr-5.com^$third-party
@@ -34066,9 +34071,6 @@ _mongo_stats/
 ||yldr.io^$third-party
 ||ymetrica1.com^$third-party
 ||youbora.com^$third-party
-||youborafds01.com^$third-party
-||youboranqs01.com^$third-party
-||youboranqs02.com^$third-party
 ||your-analytics.org^$third-party
 ||your-counter.be^$third-party
 ||youramigo.com^$third-party
@@ -34482,7 +34484,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||aboriginalboats.com^
 ||abruptroad.com^
 ||absentstream.com^
-||absorbingband.com^$third-party
+||absorbingband.com^
 ||absorbingcorn.com^$third-party
 ||absorbingprison.com^$third-party
 ||abstractedamount.com^$third-party
@@ -34543,6 +34545,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arizonapuzzle.com^
 ||aromamirror.com^
 ||aspiringattempt.com^
+||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attractivecap.com^$third-party
 ||audioarctic.com^$third-party
@@ -34570,7 +34573,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||batbuilding.com^
 ||battlebalance.com^
 ||battlehope.com^
-||bawdybalance.com^$third-party
+||bawdybalance.com^
 ||bawdybeast.com^
 ||bawdypets.com^
 ||beadbears.com^
@@ -34718,7 +34721,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||correctchaos.com^
 ||cosmosjackson.com^$third-party
 ||coverapparatus.com^
-||crabbychin.com^$third-party
+||crabbychin.com^
 ||crafthenry.com^
 ||cratecamera.com^
 ||crawlclocks.com^
@@ -34840,7 +34843,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||entertainingeyes.com^
 ||enthusiasticdad.com^
 ||enthusiasticring.com^
-||enviousshape.com^$third-party
+||enviousshape.com^
 ||enviousthread.com^
 ||erraticreaction.com^
 ||evaluateend.com^
@@ -35062,7 +35065,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||longinglettuce.com^
 ||lorenzourban.com^$third-party
 ||loudlunch.com^$third-party
-||lovelydrum.com^$third-party
+||lovelydrum.com^
 ||lowlocket.com^$third-party
 ||lp3tdqle.com^
 ||ludicrousarch.com^
@@ -35235,7 +35238,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||proudprose.com^
 ||psychedelicchess.com^
 ||puffyloss.com^$third-party
-||puffypaste.com^$third-party
+||puffypaste.com^
 ||puffypull.com^$third-party
 ||puffypurpose.com^$third-party
 ||punyplant.com^
@@ -35427,6 +35430,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||somberstructure.com^
 ||sombersurprise.com^$third-party
 ||songssmoke.com^
+||songsterritory.com^
 ||sootheside.com^
 ||sophisticatedstory.com^
 ||sophisticatedstove.com^
@@ -35488,7 +35492,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||steadfastsound.com^$third-party
 ||steadfastsystem.com^
 ||steadycopper.com^
-||steepsquirrel.com^$third-party
+||steepsquirrel.com^
 ||stepplane.com^$third-party
 ||stereoproxy.com^
 ||stereotypedclub.com^
@@ -35610,7 +35614,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||truckstomatoes.com^
 ||tumblebirds.com^
 ||tutorthing.com^
-||typicalairplane.com^$third-party
+||typicalairplane.com^
 ||typicalteeth.com^$third-party
 ||tzwaw.pw^
 ||ubiquitousyard.com^$third-party
@@ -35624,7 +35628,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||unequalbrake.com^$third-party
 ||unevenstring.com^
 ||unifyaddition.com^
-||uninterestedquarter.com^$third-party
+||uninterestedquarter.com^
 ||unknowncrate.com^$third-party
 ||unknowntray.com^
 ||unnaturalcaption.com^
@@ -37266,13 +37270,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.alexa.com^
 ||data.circulate.com^
 ||data.digitalks.az^
-||data.gosquared.com^$third-party
+||data.gosquared.com^
 ||data.imakenews.com^$third-party
 ||data.minute.ly^
 ||data.nexxt.com^
 ||data.queryly.com^
 ||data.woosmap.com^
-||data2.gosquared.com^$third-party
+||data2.gosquared.com^
 ||datadog-service.mvfglobal.com^
 ||daxab.com/logger/
 ||daylogs.com/counter/
@@ -52298,7 +52302,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||centprod.com/nd/assets/js/analytics.js$script,domain=centprod.com
 @@||collectandgo.be^*/utag.sync.js
 @@||d2zv6vzmaqao5e.cloudfront.net/css/foodticket/*_google_analytics.js
-@@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
+@@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|hostingvergelijker.nl|mediamarkt.nl
 @@||marketingautomation.services^$script,domain=leeuwerik.nl
 @@||optimizely.addmilk.nl^$image,domain=simyo.nl
 @@||stock.skoda.be/assets/scripts/analytics/$script,~third-party
