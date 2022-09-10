@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YwHMa8MeyWNEkJPDHn6FEQ
+! Checksum: SgpctSfVBrIvyohIgk3jSQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202209100945
-! Last Modified: 2022年09月10日 09:45
+! Version: 202209101423
+! Last Modified: 2022年09月10日 14:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -49749,6 +49749,7 @@ tf2r.com#@#.adverts
 ||widgets.progrids.com^
 ||widgets.tree.com^
 ||windows.net/banners/$domain=hortidaily.com
+||wistia.com/assets/external/googleAds.js
 ||wowtcgloot.com/share/?d=$third-party
 ||wp.com/assets.sheetmusicplus.com/banner/
 ||wp.com/assets.sheetmusicplus.com/smp/
