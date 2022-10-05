@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Xe2z9S6B99lb06JIxVGczw
+! Checksum: 3N1Sy01Qjqdn5VMJdVeDDg
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202210050229
-! Last Modified: 2022年10月05日 02:29
+! Version: 202210050941
+! Last Modified: 2022年10月05日 09:41
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -8595,7 +8595,6 @@ _800x80_
 ###exoAd
 ###externalAd
 ###extraAdsBlock
-###facebook-ad
 ###fd-ad-mr1
 ###fd-ad-mr2
 ###fd-ad-mr3
@@ -11553,7 +11552,6 @@ _800x80_
 ##.ad-blog2biz
 ##.ad-blogads
 ##.ad-bnr
-##.ad-board
 ##.ad-body
 ##.ad-boombox
 ##.ad-border
@@ -17466,59 +17464,20 @@ _800x80_
 ##.emm-ad
 ##.empire-unit-prefill-container
 ##.empty-ad
-##.end-ad
-##.end-of-article-ads
 ##.endAHolder
-##.endemic_ads
 ##.endti-adlabel
-##.eng_ads
-##.engagement_ad
-##.eniro_ad
-##.ent-ad-leaderboard
-##.enterpriseAd
 ##.entry-ad
 ##.entry-ads
-##.entry-ads-110
-##.entry-body-ad
 ##.entry-bottom-ad
-##.entry-injected-ad
 ##.entry-top-ad
 ##.entryAd
-##.entry_sidebar_ads
 ##.entryad
-##.eol-ads
-##.ep-advertisment-link
-##.epicgame-ads
-##.esp_publicidad
 ##.esv-ads
-##.esv-pub-300x600
-##.et-single-post-ad
-##.etad
 ##.etn-ad-text
 ##.eu-advertisment1
-##.eu-advertisment2
-##.eu-miniadvertisment
-##.event-ads
-##.event-ads-inside
-##.evhl-picArea
-##.evo-ads-widget
-##.ew-ad-placeholder
 ##.ex_pu_iframe
-##.exec-advert-flash
-##.exo-native-widget
-##.exo-native-widget-header
-##.exo1-native-widget
-##.expanding-ad
-##.expertsAd
-##.explainer-ad
-##.explore-ad
-##.ext-ad
 ##.external-ad
 ##.external-add
-##.extnativeaditem
-##.extra-ad
-##.ez-ad
-##.ezAdsWidget
 ##.ezmob-footer
 ##.ezmob-footer-desktop
 ##.ezo_ad
@@ -17528,21 +17487,12 @@ _800x80_
 ##.f-ad
 ##.f-item-ad
 ##.f-item-ad-inhouse
-##.f_Ads
-##.fa-advertising
-##.fa-google-ad
-##.facebook-ad
-##.fblockad
 ##.fbs-ad--ntv-home-wrapper
 ##.fbs-ad--progressive
 ##.fbs-ad--top-wrapper
 ##.fbs-ad--topx-wrapper
 ##.fc_clmb_ad
 ##.fd-ad
-##.fd-display-ad
-##.fd-tile-ad
-##.fdDisplayAdGrid
-##.feat_ads
 ##.featureAd
 ##.feature_ad
 ##.featured-ad
@@ -17555,8 +17505,6 @@ _800x80_
 ##.featured_ad
 ##.featuredadvertising
 ##.feed-ad
-##.feedBottomAd
-##.feeds-adblade
 ##.fh_ad_microbuttons
 ##.field-59-companion-ad
 ##.fig-ad-content
@@ -17570,28 +17518,17 @@ _800x80_
 ##.first_party_ad_wrapper
 ##.first_post_ad
 ##.firstad
-##.fist-advertise-box
 ##.fix_ad
 ##.fixadheight
 ##.fixed-ad-aside
-##.fixed-ad-bottom
-##.fixed-ad-bottom--banner
-##.fixed-ad300-1
 ##.fixed-ads
-##.fixed-ads-header
-##.fixed-automatic-ad-amp
 ##.fixed-sidebar-ad
 ##.fixedAds
 ##.fixedLeftAd
 ##.fixedRightAd
 ##.fixed_ad
 ##.fixed_advert_banner
-##.fixed_bottom_ad
 ##.fjs-ad-hide-empty
-##.fl-ads
-##.fl-adsense
-##.flagads
-##.flash-advertisement
 ##.flashAd
 ##.flash_ad
 ##.flash_advert
@@ -52581,7 +52518,7 @@ sundayworld.co.za##.spnsorhome
 mydramalist.com##.spnsr
 worldtimezone.com##.spon-menu
 xda-developers.com##.spon_banner
-cd1025.com,domainincite.com,europages.co.uk,gamingcloud.com,ijr.com,kpbs.org,phillyvoice.com,speedcafe.com,thegatewaypundit.com,ufile.io,westernjournal.com,wnd.com##.sponsor
+cd1025.com,domainincite.com,europages.co.uk,gamingcloud.com,ijr.com,kpbs.org,phillyvoice.com,speedcafe.com,thefederalistpapers.org,thegatewaypundit.com,ufile.io,westernjournal.com,wnd.com##.sponsor
 jquery.com##.sponsor-line
 newsroom.co.nz##.sponsor-logos2
 cricketireland.ie##.sponsor-strip
@@ -56431,6 +56368,7 @@ ubmcmm.baidustatic.com
 ###lovexin13
 ###lovexin14
 ###lovexin2
+##A[href*="/?channelCode="] > img[src*="hitv.com"]
 ###lt-ad-radio
 ###magneturlpost + .movie + .movie[style="padding:12px; margin-top:15px"]
 ###mainbody:nth-child(5) > .mylist
@@ -59176,6 +59114,10 @@ ubmcmm.baidustatic.com
 ||zipeyrp.cn^
 ||ssio6xepo.cyou^
 ||sdhjqz.com^
+||slsynmlb.fun^
+||ewwgqjn.cn^
+||gisp6piot.cyou^
+||dvmsmm.cn^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
