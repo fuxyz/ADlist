@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 7HKWsmPiE2cMU1AZR4n0aA
+! Checksum: DoiIz6DJ+8K6k3YU17I07A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210140959
-! Last Modified: 2022年10月14日 09:59
+! Version: 202210141448
+! Last Modified: 2022年10月14日 14:48
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3932,6 +3932,7 @@ ubmcmm.baidustatic.com
 ||cupaaki.cyou^
 ||qhiqgrf.cn^
 ||qx3g.top^
+||itrwx.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -31610,6 +31611,7 @@ _mongo_stats/
 ||go-mpulse.net^
 ||googleoptimize.com^
 ||googletagmanager.com^
+||gsght.com^
 ||hdmtools.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
@@ -35047,6 +35049,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||coverapparatus.com^
 ||crabbychin.com^
 ||crafthenry.com^
+||crashchance.com^
 ||cratecamera.com^
 ||crawlclocks.com^
 ||crayoncompetition.com^
@@ -35281,6 +35284,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||haltinggold.com^
 ||hammerhearing.com^$third-party
 ||handleteeth.com^
+||handsomehose.com^
 ||handsomeindustry.com^
 ||handsomelyhealth.com^
 ||handyfield.com^
@@ -38433,6 +38437,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.yola.com^
 ||pixels.afcdn.com^
 ||pixlee.com/assets/fp.js
+||pixlee.com/assets/keen-
 ||pixlee.com/assets/pixlee_events.js
 ||platform.iteratehq.com^
 ||platform.twitter.com/impressions.js
@@ -41270,6 +41275,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spotifycdn.com/cdn/js/retargeting-pixels-
 ||squirrel.malaynahocker.com^
 ||srtb.msn.com^
+||srv.plesk.com^
 ||ss.photospecialist.co.uk^
 ||ssc.api.bbc.com^
 ||st.sawlive.tv^
@@ -41457,6 +41463,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||userfly.com^
 ||usmetric.rediff.com^
 ||usnews.com/static/esi/usn-geo.json
+||vagrantup.com/api/auth/_log
 ||vanityfair.com/user-context?referrer
 ||views.arabnews.com^
 ||vimeo.com/ablincoln/
