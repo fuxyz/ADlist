@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 8Sf4ANcTZ1LimpeHz6UtnA
+! Checksum: h+1gY+4JVsB0kYBhhQhxVg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202210211434
-! Last Modified: 2022年10月21日 14:34
+! Version: 202210212037
+! Last Modified: 2022年10月21日 20:37
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3962,6 +3962,9 @@ ubmcmm.baidustatic.com
 ||jz8b.top^
 ||zcrui.com^
 ||gangtabli.top^
+||sanlida.asia^
+||byrprsi.cn^
+||jsnignsa.xyz^
 /://666(7|8)[0-9]{2}.xyz\//$image,third-party
 /\.(cc|com|top|xyz)\/i\/v$/$third-party,xmlhttprequest
 /\.(com|cn|top)\/(j|K)\/[0-9]{6}$/$script,third-party
@@ -36342,6 +36345,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||2performant.com^$third-party
 ||aghtag.tech^$third-party
 ||agorahtag.tech^$third-party
+||attr-2p.com^$third-party
 ||best-top.ro^$third-party
 ||gtop.ro^$third-party
 ||hit100.ro^$third-party
@@ -38607,6 +38611,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||try.abtasty.com^
 ||ts.tradetracker.net^
 ||turnto.com/event
+||tvpage.com/tvpa.min.js
 ||tvpage.com^*/__tvpa.gif?
 ||twitter.com/jot.html
 ||twitter.com/oct.js
@@ -39940,6 +39945,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||acronymfinder.com/~/tr.ashx
 ||activate.latimes.com/pc/caltimes/?pulse2001=
 ||active.com/ig.track.js
+||activity.fiverr.com^
 ||adblockeronstape.me/stat/
 ||adblockeronstreamtape.me/stat/
 ||adblockeronstreamtape.xyz/stat/
@@ -40134,6 +40140,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.banggood.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
+||collector.fiverr.com^
 ||collector.github.com^
 ||collector.githubapp.com^
 ||collector.megaxh.com^
@@ -40681,6 +40688,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||relay.fiverr.com^
 ||reports.tunein.com^
 ||retargeting.vistaprint.com^
+||reverbnation.com/api/user/app_events
 ||rfk.biglots.com^
 ||roblox.com/report
 ||roblox.com/www/e.png?
