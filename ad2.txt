@@ -1,139 +1,15 @@
 [Adblock Plus 2.0]
-! Checksum: lloK/oRo/EH5uSH9pl8/MA
+! Checksum: 4RqO+yUlyhqcQ9t3QMqGRQ
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202211232028
-! Last Modified: 2022年11月23日 20:28
+! Version: 202211240216
+! Last Modified: 2022年11月24日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ! 乘风 视频广告过滤规则
-v.youku.com##.control-phonewatch,#right-title-ad-banner
-youku.com##+js(aeld,dblclick,ykplayer.switchFullscreen)
-!v.youku.com##+js(nano-stb)
-||atm.youku.com/
-||cibntv.net/youku/$media
-||valipl.cp31.ott.cibntv.net/$media
-|https://js.ykimg.com/youku/dist/js/lib/ikuAdapterNew.js
-||sealine.youku.com/yk/*callback=adpagesdk$script
-iqiyi.com##div[data-adzone],#block-V
-!iqiyi.com##+js(nano-sib)
-iqiyi.com##+js(set, Object.prototype.parseXML, noopFunc)
-!||t7z.cupid.iqiyi.com/show$script,important
-||static.iqiyi.com/js/common/mars_v.js$script
-||iqiyi.com/videos/other/20$xmlhttprequest,object-subrequest
-||iqiyipic.com/image/20*_100000$image
-||ssports.iqiyi.com/json/shop/shopInfo
-show.ssports.com
-||ssports.iqiyi.com/app/$object-subrequest
-qq.com##.mod_ad, .txp_ad
-v.qq.com,sports.qq.com##+js(json-prune,ad,vinfo)
-v.qq.com,sports.qq.com##+js(nano-sib, \u5012\u8ba1\u65f6)
-@@||video.qq.com/fcgi-bin/
-||mark.l.qq.com/fcgi-bin/get_video_mark_all?idlist=
-||gtimg.com/qqlive/
-miaozhen.com
-reachmax.cn
-scorecardresearch.com
-tencentmind.com
-xtgreat.com
-bilibili.com##.gg-floor-module,#slide_ad,#slide_ad+a[data-target-url]
-||api.bilibili.com/x/web-show/res/loc?pf=$~script
-||hdslb.com/bfs/sycp/creative_img/$image
-acfun.cn##.pause-display-container,#ad-comment,#ad-player-view
-||aixifan.com/static/*/appGuide/
-cctv.com###bgAd_div
-cctv.com,ddrk.me##+js(aeld,dblclick,isImmediatePropagationStopped)
-||imall.cctv.com/$subdocument
-||bjcathay.com/
-!||player.cntv.cn/h5vod/$script
-pptv.com##div[id^=afp_],div[id$=-afp],#video-download-game
-||synacast.com
-||de.as.pptv.com^
-||g.pptv.com/game/$subdocument
-@@||tb.mgtv.com/sdk/*/ad-sdk.js$script
-||video.da.mgtv.com/$media
-ys.da.mgtv.com
-||da.mgtv.com/mediafiles/wiad_creative/$image
-@@||js.tv.itc.cn/gg.seed.js
-||css.tv.itc.cn/m/img/player/dlBanner.$image
-||data.vod.itc.cn/*&prod=ad&$media
-||api.my.tv.sohu.com/wm/getads.do?
-||aty.sohu.com/
-||go.sohu.com/
-||tv.sohu.com/upload/csad/admaster/$image
-tv.sohu.com##.x-dl-shake.x-download-panel, #playerBar > div.area ~a
-1905.com##.ad-couplet,#hd-tab-label4,div.bd-tab.video-list:last-child
-||aliyun.com^$domain=1905.com
-||aliyuncs.com^$domain=1905.com
-@@||ark.letv.com/adx?adzone=
-@@||stat.letv.com/$script
-*/letv-gug/$media,object-subrequest
-||letvimg.com/$object,object-subrequest
-||letvimg.com/*_gugwl/$image
-||js.letvcdn.com/*_banner_$script
-||banana.le.com/
-adxvip.com
-behe.com
-biddingx.com
-cr-nielsen.com
-fancyapi.com
-kejet.net
-||jd.com/$domain=le.com
-ulmdb.cn
-yoyi.com.cn
-zhiziyun.com
-le.com##.banner_ad,div.banner_left,div.banner_right,.min_pause_img
-douyu.com##div[class$="-ad"],div[class|=ad],div.no-login
-||douyucdn.cn/adxdsp/$image
-||wan.douyu.com/
-douyu.com,huya.com##a[href^="https://g.wan."]
-huya.com###hy-ad,#hy-ab,#huya-ab
-||g.huya.com/
-||pub.funshion.com
-*/preroll/$media,domain=91porn.com
-||91p20.space^
-||waust.at^
-dililitv.cc,lzvod.net##+js(aeld,dblclick,dp.fullScreen.request)
-||www.dililitv.cc/*.php?ad=$script
-js.dilidd.com
-dililitv.cc,hmtv.me,imeiju.io##+js(acis,Object.defineProperty,location.href)
-dyjihe.com##.tempWrap
-haitur.com,haicaoys.com##.dplayer-web-fullscreen-fix .float-box
-haitur.com##.container:style(max-width:90%!important;width:90%!important)
-haitur.com##.left-content:style(width:77%!important)
-imomoe.*,xiamov.com,xxdm8.com##+js(ra, target, base[target])
-dyjihe.com,haicaoys.com,haitur.com,imomoe.*,kakadm.com,milimili.tv,qiqidongman.com,vodxc.in##+js(ra, target, a[href^="/"])
-||alicdn.com/$image,domain=api.xiaomingming.org
-imomoe.*###adl,#adr
-yatu.tv##.dplayer-web-fullscreen-fix #tburl,#loadtop,[id^=myas],#myds1,#daohang
-yatu.tv##+js(set,document.oncontextmenu,null)
-||tracker.$xhr,websocket,script,ping
-3z9e.cn
-7nsc.cn
-7b6l2j.cn
-anquanzhuomian.com
-ch-hr12333.com
-g1c5.com
-ieeod0.com
-fourier.taobao.com
-v4dwkcv.com
-weizhenwx.com
-youle55.com
-bmbaike.cn
-buzx53.cn
-cqqc3.com
-dacedsfa.cn
-qdwght.com
-quickapp.cn
-xcsci.cn
-xixiqiu.com
-xv5b.com
-xz6d.com
-||www.yatu.tv:88/image/*.gif^$image
-||www.yatu.tv:88/m/images/$image
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
@@ -1574,6 +1450,7 @@ ubmcmm.baidustatic.com
 ||23.234.217.11^
 ||23.234.217.12^
 ##a[href*=".bet365.gdn"]
+##a[href*="/industrialproductsfind.com"]
 ##a[href*="/ksbz1017.com"]
 ##a[href*="/yyds101.com"]
 ##a[href="https://xq97.com"]
@@ -1584,6 +1461,7 @@ ubmcmm.baidustatic.com
 ||035caop.com^
 ||049uing.com^
 ||053tyfg.com^
+||065yuyu.com^
 ||0ftyz.top^
 ||1106yh.com^
 ||1108jiuba2022.xyz^
@@ -1606,6 +1484,7 @@ ubmcmm.baidustatic.com
 ||b4jy.top^
 ||baiduhaoba.com^
 ||bendan.shop^
+||bfsqtsn.cn^
 ||bjzb.xyz^
 ||bqnggnsv.fun^
 ||bvpaovs.cn^
@@ -1643,12 +1522,14 @@ ubmcmm.baidustatic.com
 ||gkofzfi.cn^
 ||glovemall.cn^
 ||gpsncbo.cn^
+||gzzb.xyz^
 ||hbcl.ltd^
 ||hjgrc.xyz^
 ||hxapafn.cn^
 ||i46.xyz^
 ||iatf16949.pw^
 ||iddhui.com^
+||ifautzg.cn^
 ||iftjwuu.cn^
 ||ijkqwopm.xyz^
 ||ikjnwd.xyz^
@@ -1656,6 +1537,7 @@ ubmcmm.baidustatic.com
 ||itjew.xyz^
 ||iuerxw.xyz^
 ||iwqetbj.cn^
+||j41.xyz^
 ||j721s.top^
 ||jiedu.fun^
 ||jknmsdpo.xyz^
@@ -1675,9 +1557,11 @@ ubmcmm.baidustatic.com
 ||kvtlll.top^
 ||kyzx.xyz^
 ||kzngisyd.xyz^
+||lgjxw.xyz^
 ||lihuan.store^
 ||ljlg.xyz^
 ||ljrot.icu^
+||lksdj.com^
 ||love-yy.company^
 ||lpaysfr.cn^
 ||lqnggnsl.fun^
@@ -1709,8 +1593,10 @@ ubmcmm.baidustatic.com
 ||pjjlbjd.cn^
 ||pothouse.cn^
 ||pthezjl.cn^
+||ptijx.xyz^
 ||pyyhkn.com^
 ||q88j2.top^
+||qapsmny.cyou^
 ||qdc7y9x.xyz^
 ||qfgfpi.cn^
 ||qiangqi.shop^
@@ -1718,7 +1604,9 @@ ubmcmm.baidustatic.com
 ||qmpkoiv.cn^
 ||qq2ux.top^
 ||qqnggnsy.fun^
+||querulous-type.com^
 ||qvyzdox.cn^
+||qz15.top^
 ||qzngisyy.xyz^
 ||qzos9ou.xyz^
 ||renxingganwu.com^
@@ -1731,6 +1619,7 @@ ubmcmm.baidustatic.com
 ||rzngisyz.xyz^
 ||s4ls9.top^
 ||sbb8w.top^
+||sganilglb.cyou^
 ||shuaige20221105.xyz^
 ||sjjk.ltd^
 ||sm3nq.cn^
@@ -1738,6 +1627,7 @@ ubmcmm.baidustatic.com
 ||szngisyb.xyz^
 ||t34kk9.top^
 ||tfaftemail.com^
+||tian-ting.ink^
 ||toijr.xyz^
 ||tptp001.buzz^
 ||tqnggnsi.fun^
@@ -1761,6 +1651,7 @@ ubmcmm.baidustatic.com
 ||vjianshen1688.com^
 ||vqdjcy.com^
 ||wapsmne.cyou^
+||weilin.xin^
 ||wfhuzaj.cn^
 ||wgdacc.com^
 ||wglbx.ltd^
@@ -1770,10 +1661,12 @@ ubmcmm.baidustatic.com
 ||wyqaafplm.live^
 ||wzdy.xyz^
 ||wzngisye.xyz^
+||xdaigua.cn^
 ||xf2pf.top^
 ||xhsrw.xyz^
 ||xiaohui.ink^
 ||xinzhanggui.wang^
+||xlhnkpw.cn^
 ||xpdjsd.cn^
 ||xwdsp.com^
 ||y88m2.top^
@@ -1792,23 +1685,6 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||qapsmny.cyou^
-||xlhnkpw.cn^
-||xdaigua.cn^
-||weilin.xin^
-||lgjxw.xyz^
-||j41.xyz^
-##a[href*="/industrialproductsfind.com"]
-||tian-ting.ink^
-||ifautzg.cn^
-||sganilglb.cyou^
-||gzzb.xyz^
-||bfsqtsn.cn^
-||qz15.top^
-||065yuyu.com^
-||lksdj.com^
-||ptijx.xyz^
-||querulous-type.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -14474,9 +14350,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-bnext.com.tw##div[id^="sponsor-"]
-vikacg.com###custom_html-9
-bnext.com.tw##div[data-aid]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -14908,6 +14781,7 @@ free.com.tw###custom_html-11
 hexieshe.cn###custom_html-2
 24kplus.com###custom_html-3
 18avinin.com,sunnylife.tw###custom_html-5
+vikacg.com###custom_html-9
 makaidong.com###cyWallsplugin
 eworldship.com###d1
 eworldship.com###d2
@@ -19419,6 +19293,7 @@ msn.com##div[data--adqjyluqt]
 baidu.com##div[data-ad]
 uc.cn##div[data-ad_url^="http"]
 sina.cn##div[data-adid]
+bnext.com.tw##div[data-aid]
 cqmmgo.com##div[data-id*="_adv_"]
 m.cnbeta.com##div[data-role="content"] > div[style^="text-align:"]
 freejavbt.com##div[data-selector*="ai-insert-"]
@@ -19551,6 +19426,7 @@ secretmine.net##div[id^="secre-"]
 159i.com##div[id^="sidebar"] > :not(form)
 mjzj.com##div[id^="sidebar-top-carouse"]
 douyu.com##div[id^="sign_p_"]
+bnext.com.tw##div[id^="sponsor-"]
 suizhoushi.com##div[id^="sznew_ad"]
 dmh8.me##div[id^="test"]
 freedidi.com,ottawazine.com##div[id^="text-"]
