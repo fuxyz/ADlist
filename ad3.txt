@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rwIldepY0nQYaGs1PziG0g
+! Checksum: 3lsG5q/+BYSEnWVxTK2Qdg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202211280215
-! Last Modified: 2022年11月28日 02:15
+! Version: 202211280908
+! Last Modified: 2022年11月28日 09:08
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1877,6 +1877,11 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||rlllwby.cn^
+||xgvfkge.cn^
+||ocive.xyz^
+||qptnew.com^
+||szzb.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -39124,6 +39129,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||offer.slgnt.eu^
 ||optinproject.com/rt/visit/
 ||osd.oxygem.it^
+||p.a2d.io/plx.js
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
 ||rs.smc.tf^
@@ -39147,6 +39153,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.laredoute.fr^$image
 ||tracking.ecookie.fr^
 ||tracking.kdata.fr^
+||tracking.lqm.io^
 ||tracking.netvigie.com^
 ||trjs.mediafin.be/loader/trmfn-loader.js
 ||trk.adbutter.net^
@@ -39351,6 +39358,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.competitoor.com^
 ||analytics.eikondigital.it^
 ||analytics00.meride.tv^
+||analytics2-3-meride-tv.akamaized.net^
 ||analytics2-meride-tv.akamaized.net^
 ||aruba.it/servlet/counterserver?
 ||audit.shaa.it^
@@ -54075,6 +54083,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||events.reclamefolder.nl^
 ||expert.nl/daix.js
 ||folderz.nl/clickstream/
+||infonu.nl/t.php?
 ||kieskeurig.nl/collect
 ||kieskeurig.nl/track-
 ||klik.nrc.nl/ping?
