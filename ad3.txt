@@ -1,132 +1,15 @@
 [Adblock Plus 2.0]
-! Checksum: PUWzhwmnr6ihxcoUIlXEVQ
+! Checksum: IXv7wfKMdIWNieZLfwc00A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212082025
-! Last Modified: 2022年12月08日 20:25
+! Version: 202212090216
+! Last Modified: 2022年12月09日 02:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ! 乘风 视频广告过滤规则
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-  <title>错误网关 (502)</title>
-  <link href="/static/errors/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
-  <link href="/static/errors/stylesheets/static_error.css?1562925143822" media="screen" rel="stylesheet"
-    type="text/css">
-  <link href="/static/errors/stylesheets/iconfont.css" media="screen" rel="stylesheet" type="text/css">
-</head>
-<body class="ui_basic application">
-  <header class="common-header fixed noborder floating" id="git-header-nav">
-    <div class="ui container">
-      <div class="ui menu">
-        <div class="item gitosc-logo"><a href="/"><img class="ui inline image"
-              src="/static/errors/images/logo.svg?t=158106664"></a></div><a href="/explore" class="item "
-          title="开源项目">开源软件</a><a href="/enterprises" class="item " title="企业版">企业版<sup
-            class="ui red label">特惠</sup></a><a href="/education" class="item " title="高校版">高校版</a><a
-          href="https://blog.gitee.com" class="item " title="博客" target="_blank">博客</a>
-          <a title="持续集成流水线" class="item" id="gitee-go" target="_blank" href="https://gitee.com/features/gitee-go"><img width="30" height="16" class="transform-y-2px" src="/assets/giteego.svg" alt="持续集成流水线"></a>
-        <div class="right menu userbar" id="git-nav-user-bar">
-          <div class="item">
-            <form accept-charset="UTF-8" action="/search" id="projects-search-form" method="get" autocomplete="on">
-              <div class="ui icon left mini fluid input"><input id="search_top-search-input" name="q" placeholder="搜索项目"
-                  type="text"><i class="iconfont icon-search" id="projects-search"></i><input id="group_id"
-                  name="group_id" type="hidden"><input id="project_id" name="project_id" type="hidden"><input id="type"
-                  name="type" type="hidden"></div>
-            </form>
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-  <div class="container error midCenter">
-    <div class="content">
-      <center>
-        <div class="image-box"><img src="/static/errors/images/502.png"></div>
-        <h3>欢迎浏览我们的网站，系统可能正在更新中，请稍候片刻。</h3>
-        <p><a href="/">点击这里</a>返回首页</p>
-      </center>
-    </div>
-  </div>
-  <footer id="git-footer-main" style='margin: 0'>
-    <div class="ui container footer-content">
-      <div class="ui two column grid">
-        <div class="column">
-          <p><a href="/" target="_blank">© Gitee.com</a></p>
-          <div class="ui two column grid" id="footer-left">
-            <div class="column">
-              <div class="ui link list">
-                <div class="item"><a href="/about_us" class="item">关于我们</a></div>
-                <div class="item"><a href="/terms" class="item">使用条款</a></div>
-                <div class="item"><a href="/oschina/git-osc/issues" class="item">意见建议</a></div>
-                <div class="item"><a href="/links.html" class="item">合作伙伴</a></div>
-              </div>
-            </div>
-            <div class="column">
-              <div class="ui link list">
-                <div class="item"><a href="/all-about-git" class="item">Git 大全</a></div>
-                <div class="item"><a href="https://oschina.gitee.io/learn-git-branching" class="item">Git 命令学习</a></div>
-                <div class="item"><a href="https://copycat.gitee.com" class="item">代码克隆检测</a></div>
-                <div class="item"><a href="/appclient" class="item">APP与插件下载</a></div>
-              </div>
-            </div>
-            <div class="column">
-              <div class="ui link list">
-                <div class="item"></div>
-                <div class="item"><a href="/gitee-stars" class="item">Gitee 封面人物</a></div>
-                <div class="item"><a href="/gvp" class="item">GVP 项目</a></div>
-                <div class="item"><a href="https://blog.gitee.com" class="item">Gitee 博客</a></div>
-              </div>
-            </div>
-            <div class="column">
-              <div class="ui link list">
-                <div class="item"><a href="/api/v5/swagger" class="item">OpenAPI</a></div>
-                <div class="item"><a href="/help" class="item">帮助文档</a></div>
-                <div class="item"><a href="/self_services" class="item">在线自助服务</a></div>
-                <div class="item"><a href="/git-osc" class="item">更新日志</a></div>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="column right aligned followus">
-          <div class="qrcode weixin"><img alt="Qrcode-weixin" src="/static/errors/images/qrcode-weixin.jpg">
-            <p class="weixin-text">微信服务号</p>
-          </div>
-          <div class="phone-and-qq column">
-            <div class="ui list official-support-container">
-              <div class="item official-support"><a
-                  href="//qm.qq.com/cgi-bin/qm/qr?k=OUfztMuf7jElTIf78lMuNT_D_lZYOWnd"
-                  class="icon-popup" title="点击加入 Gitee 官方群"><i
-                    class="iconfont icon-logo-qq"></i><span>官方技术交流QQ群：515965326</span></a></div>
-              <div class="item mail-and-zhihu"><a href="mailto: git@oschina.cn"><i
-                    class="iconfont icon-ic-mail"></i><span id="git-footer-email">git#oschina.cn</span></a><a
-                  href="https://www.zhihu.com/org/ma-yun-osc/" target="_blank"><i
-                    class="iconfont icon-zhihu"></i><span>Gitee</span></a></div>
-              <div class="item">企业版售前及售后使用咨询：400-606-0201</div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div class="bottombar">
-      <div class="ui container">
-        <div class="ui grid">
-          <div class="eleven wide column right aligned">
-            <div class="copyright"><a href="http://beian.miit.gov.cn/">粤ICP备12009483号-8</a>深圳市奥思网络科技有限公司版权所有</div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </footer>
-  <script src="/static/errors/javascripts/jquery.min.js"></script>
-  <script src="/static/errors/javascripts/static_error.js" type="text/javascript"></script>
-  <script src="/static/errors/javascripts/letter_avatar.js" type="text/javascript"></script>
-  <script>var email = $("#git-footer-email").text(); $("#git-footer-email").text(email.replace("#", "@"));</script>
-</body>
-</html>
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
@@ -410,6 +293,7 @@
 /floatad2.
 /floatcaopron.js
 /floatingcontent/*$third-party
+/fn666/shouye.php
 /fourapi/api/data/money?date=$xmlhttprequest
 /frm_adv.aspx
 /front/adv/getpmadvlist
@@ -885,6 +769,7 @@ ubmcmm.baidustatic.com
 ###adv_wrap_hh
 ###adx_cggp
 ###app > .publicAllContentBg > .bigBannerBg
+###arBRyGHxuDYU
 ###asdw
 ###asdw2
 ###asdw2 + img
@@ -1408,6 +1293,7 @@ ubmcmm.baidustatic.com
 ##.trad3
 ##.twavt-ads
 ##.txp_ad[data-role="txpad-interact-pause"]
+##.txtguanggao
 ##.uk-width-1-1.adbox
 ##.video-holder > a[target="_blank"] > img[src*=".360buyimg.com"]
 ##.video-item-ads
@@ -1461,6 +1347,7 @@ ubmcmm.baidustatic.com
 ##a[href*=".com?aff="]
 ##a[href*=".com?intr="]
 ~umeng.com##a[href*=".umeng.com"]:not([href="http://www.umeng.com/"]) > img
+##a[href*=".xyz:"] > img[src*=".qlogo.cn"]
 ##a[href*="/?INTR="]
 ##a[href*="/?Intr="]
 ##a[href*="/?aff="][target="_blank"]
@@ -1540,7 +1427,6 @@ ubmcmm.baidustatic.com
 ##div[style^="position"][onclick^="window.open"]
 ##dl#listwoBox
 ##img#adv1
-###arBRyGHxuDYU
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
 ##img[onclick*=".qq.com/doc/"]
@@ -1582,14 +1468,17 @@ ubmcmm.baidustatic.com
 ||23.234.217.11^
 ||23.234.217.12^
 ##a[href$="/tv826.com"]
+##a[href*=".832103.top"]
 ##a[href*=".ax10a.com/"]
 ##a[href*=".bet365.gdn"]
 ##a[href*=".bet927.bet"]
 ##a[href*=".hgty411.bet"]
 ##a[href*="/b6314.com:"]
 ##a[href*="/industrialproductsfind.com"]
+##a[href*="/kk5377.com:"]
 ##a[href*="/ksbz1017.com"]
 ##a[href*="/ky9897.cn"]
+##a[href*="/wns8499608.xyz"]
 ##a[href*="/yyds101.com"]
 ##a[href="https://xq97.com"]
 ##div[onclick*="ky165.cn"]
@@ -1661,6 +1550,7 @@ ubmcmm.baidustatic.com
 ||ceu5.icu^
 ||chengduda.top^
 ||cichiji.top^
+||cjkl.online^
 ||clvkg.xyz^
 ||clw99.mobi^
 ||crleii.xyz^
@@ -1709,6 +1599,7 @@ ubmcmm.baidustatic.com
 ||gdugga.com^
 ||gfqfjau.cn^
 ||gfxjjpo.cn^
+||ggsdogn.cn^
 ||gkcmei.xyz^
 ||gknybkl.cn^
 ||gkofzfi.cn^
@@ -1723,6 +1614,7 @@ ubmcmm.baidustatic.com
 ||h12h.fun^
 ||h6cp.icu^
 ||hbcl.ltd^
+||hhgxbxk.cn^
 ||hjgrc.xyz^
 ||hmgzhqe.cn^
 ||hnws.xyz^
@@ -1732,6 +1624,7 @@ ubmcmm.baidustatic.com
 ||hsypwju.cn^
 ||htkk1.top^
 ||htkk2.top^
+||huilianji.com^
 ||hxapafn.cn^
 ||i46.xyz^
 ||i7x3.fun^
@@ -1764,6 +1657,7 @@ ubmcmm.baidustatic.com
 ||kapsmnd.cyou^
 ||kba8i.icu^
 ||kcmomkn.cn^
+||kdegznb.cn^
 ||kjanfwss.xyz^
 ||kjcvw.xyz^
 ||kjhxw.xyz^
@@ -1778,6 +1672,8 @@ ubmcmm.baidustatic.com
 ||kq7k.icu^
 ||kufmbwm.cn^
 ||kvbgoc.com^
+||kveff.com^
+||kvmaa.com^
 ||kvtlll.top^
 ||kxizloe.cn^
 ||kydb.xyz^
@@ -1824,6 +1720,7 @@ ubmcmm.baidustatic.com
 ||ocive.xyz^
 ||odfykc.cn^
 ||oehhq.xyz^
+||oehwv.xyz^
 ||ofqldv.cn^
 ||oicvvnm.cn^
 ||oivgqnt.cn^
@@ -1854,7 +1751,9 @@ ubmcmm.baidustatic.com
 ||qfgfpi.cn^
 ||qganilgly.cyou^
 ||qiangqi.shop^
+||qibmrq.xyz^
 ||qicewar.cn^
+||qingfeng.homes^
 ||qlzjwgb.cn^
 ||qmpkoiv.cn^
 ||qowg.top^
@@ -1951,6 +1850,7 @@ ubmcmm.baidustatic.com
 ||txnwq.xyz^
 ||tzngisyi.xyz^
 ||u09.xyz^
+||u1885.com^
 ||uav6d52c.cn^
 ||ubln.top^
 ||uibqwl.xyz^
@@ -1981,6 +1881,7 @@ ubmcmm.baidustatic.com
 ||wgpsfdg.cn^
 ||whqxj.xyz^
 ||whrc.xyz^
+||wmgocya.cn^
 ||wocexaa.cn^
 ||wotmvdc.cn^
 ||wpozwh.com^
@@ -2001,6 +1902,7 @@ ubmcmm.baidustatic.com
 ||xlhnkpw.cn^
 ||xpdjsd.cn^
 ||xqcjfcb.cn^
+||xtzx.xyz^
 ||xwdsp.com^
 ||y88m2.top^
 ||yangliu.ink^
@@ -2026,22 +1928,10 @@ ubmcmm.baidustatic.com
 ||zjai.xyz^
 ||zjttaqx.cn^
 ||zjws.xyz^
+||zk6.me^
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
-||ggsdogn.cn^
-||hhgxbxk.cn^
-||qingfeng.homes^
-||qibmrq.xyz^
-||xtzx.xyz^
-##a[href*="/kk5377.com:"]
-##a[href*="/wns8499608.xyz"]
-||oehwv.xyz^
-||cjkl.online^
-##a[href*=".832103.top"]
-||kdegznb.cn^
-||wmgocya.cn^
-||huilianji.com^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -16267,6 +16157,7 @@ hao.360.cn##.cangbao_redbags
 duba.com##.car_ads
 pixabay.com##.carbon-ad
 steamstats.cn##.card-link
+qq.com##.card-wrap[dt-params^="ad_creative_"]
 16888.com##.cardataclass
 htcui.com##.carousel
 byxx.com##.cataAD
@@ -16680,6 +16571,7 @@ sojson.com##.fly-hezuo
 followme.cn##.fm-banner-social
 1fzw.com##.focus-bots
 cnblogs.com##.focus-gg
+qq.com##.focus-item[dt-params^="ad_creative_"]
 zhongkao.com##.focusBox
 sports.qq.com##.focus_con > .item > a[href^="http"]:not([href*=".qq."])
 lzdcctv.cn##.focusmo + table
@@ -21729,7 +21621,9 @@ $image,third-party,domain=258zw.com
 /1.js?ssfrid=$script,third-party
 /121sdw/*$script,third-party
 /145sd*.js?$script,third-party
+/145tdww/*.js
 /168mj*.js?$script,third-party
+/168tjsdsdsiqxxvi93.js
 /1MObaudu.$script,xmlhttprequest
 /1skwwd.
 /1xhtml?$script,third-party
@@ -21768,8 +21662,6 @@ $image,third-party,domain=258zw.com
 /xxgg/pf*.js
 /xxgg/pv.js
 /xxgg/xsggs.js
-/168tjsdsdsiqxxvi93.js
-/145tdww/*.js
 ://*:*/chunyu.html?k=$csp=script-src
 ://*:*/yeyue.html?k=$csp=script-src
 ##[class][onclick="window.location.href='/api/goapp/'"]
