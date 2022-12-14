@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 1zooboDDUtHqvJZWh3ks1w
+! Checksum: wM1KeQZ7kica1nUGdlQkuQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212140216
-! Last Modified: 2022年12月14日 02:16
+! Version: 202212140906
+! Last Modified: 2022年12月14日 09:06
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1991,6 +1991,10 @@ ubmcmm.baidustatic.com
 ||zvxwvny.cn^
 ||zw2b9.cn^
 ||zzngisyq.xyz^
+||mjkyydz.cn^
+||qtnfnrm.cn^
+||czos.xyz^
+||csekct.xyz^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
