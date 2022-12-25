@@ -1,15 +1,21 @@
 [Adblock Plus 2.0]
-! Checksum: rIhHvL2gD5/h6RxPtMvINQ
+! Checksum: T0nlOONAn9i7WQSMLi6b/A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212250906
-! Last Modified: 2022年12月25日 09:06
+! Version: 202212251415
+! Last Modified: 2022年12月25日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ! 乘风 视频广告过滤规则
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
@@ -2167,6 +2173,12 @@ ubmcmm.baidustatic.com
 ||ekhnbwe.cn^
 ||frgeob.xyz^
 ||nwdjlx.xyz^
+||tizf7.top^
+||flan.fun^
+||wkbslub.cn^
+||uwuzpxt.cn^
+||tprwnvk.cn^
+||bnsdk.top^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
