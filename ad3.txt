@@ -1,15 +1,21 @@
 [Adblock Plus 2.0]
-! Checksum: Ad1wlphAxHjBk2OHhfJSlg
+! Checksum: nYEaiZvb2VvsB0nAXpi/qQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202212261416
-! Last Modified: 2022年12月26日 14:16
+! Version: 202212262023
+! Last Modified: 2022年12月26日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ! 乘风 视频广告过滤规则
+<head><title>429 Too Many Requests</title></head>
+<body>
+<center><h1>429 Too Many Requests</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
@@ -2182,6 +2188,7 @@ ubmcmm.baidustatic.com
 ||hqoqbs.xyz^
 ||monzexn.cn^
 ||kxgo.xyz^
+||runn.fun^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -14201,6 +14208,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+speedtest.cn##.index-advertising
+speedtest.cn##.speed-bottom-ads
 yocoolnet.in###mobile_inplayer
 52av.one##.message + center
 szxx.com.cn###A1
@@ -54909,6 +54918,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||hk.on.cc/js/v4/urchin.js
 @@||hm.baidu.com/hm.gif$image,domain=clgod.com
 @@||line-scdn.net^*/torimochi.js$script,domain=web-tw-pay.line.me
+@@||nobook.com/open-interface/official-sensors.git/$script,~third-party
 @@||pv.sohu.com/cityjson$domain=vip.jsjinfu.com
 @@||schlr.cnki.net/detailstatic/js/tracker.js$script,~third-party
 @@||tianxun.com^*/js/tracker.js
