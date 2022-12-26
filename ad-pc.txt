@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DdglfMh28zIbDS3IATlTEw
+! Checksum: dCMdDstUKnFjBJNO/s896w
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202212262023
-! Last Modified: 2022年12月26日 20:23
+! Version: 202212270214
+! Last Modified: 2022年12月27日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -57008,6 +57008,10 @@ ubmcmm.baidustatic.com
 ||monzexn.cn^
 ||kxgo.xyz^
 ||runn.fun^
+##A[href*="/ky0666.cn"]
+||abgxxc.com^
+||vqhifd.xyz^
+||cja-1223.cc^
 .8ox.cn
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
@@ -75732,7 +75736,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||at*.doubanio.com^
 ||b.kouke5.com^
 ||b.unjs.com^
-||b1.027art.com^
+||static.rongkao.com^
 ||b1.51scw.net^
 ||b1.91jucai.com^
 ||b1.b2b168.com^
@@ -109646,9 +109650,3 @@ m.babytree.com##script + a[class]
 ||zhulang.com/zlpv.php
 ||zol.com.cn/cgimp/zc.js
 ! 乘风 视频广告过滤规则
-<head><title>429 Too Many Requests</title></head>
-<body>
-<center><h1>429 Too Many Requests</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
