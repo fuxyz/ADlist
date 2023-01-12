@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: r0xmluSr1JCFq16bOHpuTA
+! Checksum: AOhJD3v2AQ+pu6pmxjPysw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202301120219
-! Last Modified: 2023年01月12日 02:19
+! Version: 202301120907
+! Last Modified: 2023年01月12日 09:07
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -13,6 +13,8 @@
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
+.com:12289/$script,third-party
+.cn/*-*-*.xc$script,third-party
 -1688-wp-media/ads/
 -90mh-gg.
 .bid/ads/
@@ -1610,6 +1612,12 @@ ubmcmm.baidustatic.com
 ||zeipw.xyz^
 ||ztxstudy.club^
 ||zunnnh.xyz^
+||ufynxmf.cn^
+||geiaxbk.cn^
+||mvbtp.xyz^
+||cuwuqo.xyz^
+||vcinwqw.cn^
+||tfbulkidn.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -30302,6 +30310,7 @@ _mongo_stats/
 ||pubtm.com^
 ||push-sdk.net^
 ||pzapi-ij.com^
+||pzapi-kg.com^
 ||pzimff.com^
 ||quantserve.com^
 ||quesid.com^
@@ -39947,6 +39956,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.wayfair.co.uk^
 ||t.wayfair.com^
 ||t.y8.com^
+||t.zulily.com^
 ||t2.hulu.com^
 ||tagger.ope.scmp.com^
 ||tags.aljazeera.com^
