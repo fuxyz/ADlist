@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: o4v6AdImIFmRdKQV9rh+3A
+! Checksum: 5yiQoZ2/BeDTHMeWRPEN5g
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202301140901
-! Last Modified: 2023年01月14日 09:01
+! Version: 202301141414
+! Last Modified: 2023年01月14日 14:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2092,6 +2092,8 @@ ubmcmm.baidustatic.com
 ||koatkm.xyz^
 ||scbt.asia^
 ||laafrce.cn^
+||xh33g.net^
+||xjpphoto.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -18473,7 +18475,8 @@ cangjige.net##.wp[style="height:36px;padding-top:15px;"]
 tui18.com##.wp[style^="width:"]
 start.firefoxchina.cn##.wrap > div[style]:last-child
 99a21.com##.wrap-head-spots
-939394.xyz##.wrap.mb8.mt5 + div[class]:not(.outer)
+939394.xyz##.allBg > DIV[style="display: block;"]
+939394.xyz##.wrap.mb8.mt5 ~ DIV[class]:not(.outer)
 123.com.cn##.wraper_ad
 5yfz.com##.wrapper > p
 image.baidu.com##.wrapper_dot_box.dot_black
