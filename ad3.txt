@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: /ZTeW2OWbaHe4RsgnPwIJg
+! Checksum: qSzrpQqrmLW5b21Qs5FaMA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202303150907
-! Last Modified: 2023年03月15日 09:07
+! Version: 202303151416
+! Last Modified: 2023年03月15日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2508,6 +2508,12 @@ newduba.cn###jq_youxi
 ||godie.cyou^
 ||qjoqos.xyz^
 ||posdhu5.xyz^
+||fangbaba.xyz^
+||seeingcare.com^
+||qiantubao.asia^
+||oroqikj.cn^
+||xfzaimfq.xyz^
+||ruiruiss.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -24251,6 +24257,7 @@ m.babytree.com##script + a[class]
 /analytics-endpoint.
 /analytics-event-
 /analytics-event.
+/analytics-event/*
 /analytics-events-
 /analytics-facade.
 /analytics-gcp.
@@ -36659,6 +36666,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reach-id.orbit.tm-awx.com^
 ||readcube.com/assets/track_
 ||realm.hearst3pcc.com^
+||rebelmouse.com/pharos/
 ||recart.com/tracking/
 ||recipefy.net/analytics.js
 ||recurly.com/js/v1/events
