@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QJLh8pXgdYJrJIxOKs2plw
+! Checksum: GOlpWm1FPv4UpvTQ/dDsBw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202303211415
-! Last Modified: 2023年03月21日 14:15
+! Version: 202303212023
+! Last Modified: 2023年03月21日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3043,6 +3043,7 @@ newduba.cn###jq_youxi
 ||jwujvjo.cn^
 ||jched3.com^
 ||arks.red^
+||hyk9.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
