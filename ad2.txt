@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: fZyEQoELmF3kY3+Jc5+dcQ
+! Checksum: et5Kt0H4J6AAZz/B1P781A
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202303281416
-! Last Modified: 2023年03月28日 14:16
+! Version: 202303282026
+! Last Modified: 2023年03月28日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -2693,6 +2693,8 @@ newduba.cn###jq_youxi
 ||dioak.cyou^
 ||sanwen.icu^
 ||gkustph.cn^
+||kunzhang.name^
+||vulrxr.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -21293,7 +21295,7 @@ t66y.com##.tips
 ###video_playr_side.video_playr_sider.videoplayerside
 theporn.cc##.gg-config
 theporn.cc##.toolbar-gg
-69xx.one,69xx487.xyz,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#div[class]:-abp-has(>a>.q-responsive)
+69xx.one,69xx487.xyz,8mav.cc,theav.xyz,thep178.com,theporn.cc#?#[class]:-abp-has(>a>.q-responsive)
 ##a[href$="/hjdt9.com"]
 ##a[href$="/xha77.com"]
 ||jsdelivr.net/gh/dashange123/
