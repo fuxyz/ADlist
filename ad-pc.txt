@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: RnAfuOhP9JoUS/jTuKYPFg
+! Checksum: SE2jV/cNDKLB6HVTjGxyTw
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202304070856
-! Last Modified: 2023年04月07日 08:56
+! Version: 202304071017
+! Last Modified: 2023年04月07日 10:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -52973,6 +52973,7 @@ supercheats.com###titlebar_banner
 box-core.net,mma-core.com###tlbrd
 technewsworld.com###tnavad
 accuweather.com,phonescoop.com###top
+bookriot.com###top-alt-content
 coingecko.com###top-announcement-header
 cheese.com,fantasypros.com,foodlovers.co.nz,foodnetwork.ca,investorplace.com,kurocore.com,skift.com,thedailywtf.com,theportugalnews.com###top-banner
 independent.co.uk###top-banner-wrapper
@@ -53257,6 +53258,7 @@ queerty.com##.adb-top-lb
 tellymix.co.uk##.adb_top
 wordfind.com##.adbl
 dataversity.net,sakshi.com,songlyrics.com,yallamotor.com##.adblock
+bookriot.com##.adblock-content
 entrepreneur.com,interglot.com,pricespy.co.nz,sourcedigit.com##.adbox
 moviechat.org##.adc
 boards.4channel.org##.adc-resp
@@ -54853,6 +54855,7 @@ gobankingrates.com##.rate-table-header
 mydorpie.com##.rbancont
 forebet.com##.rbannerDiv
 reverso.net##.rcacontent
+bookriot.com##.rcp-wrapper
 just-dice.com##.realcontent
 bettycrocker.com##.recipeAd
 nypost.com,pagesix.com##.recirc
@@ -55878,7 +55881,7 @@ yugatech.com##a[href^="https://yugatech.ph/"]
 tinyurl.is##a[href^="mailto:sportspanel4"]
 kitguru.net##a[id^="href-ad-"]
 tetris.com##a[onclick*="open"]
-gearspace.com,himovies.to,home-barista.com,rarpc.co,shtfplan.com,warecracks.com,washingtontimes.com##a[onclick]
+himovies.to,home-barista.com,rarpc.co,shtfplan.com,warecracks.com,washingtontimes.com##a[onclick]
 onetransistor.eu##a[onclick][target="_blank"]
 earlygame.com,i711.com##a[rel*="sponsored"]
 amishamerica.com##a[rel="nofollow"]
@@ -59743,6 +59746,7 @@ newduba.cn###jq_youxi
 ||rcxysoj.cn^
 ||hhrnxr.xyz^
 ||otwiss.xyz^
+||poopd.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
