@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3EA2JaU210D7ZLiKRw6OzQ
+! Checksum: gs3DPk8wv9YS1isZMqf2lg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304140214
-! Last Modified: 2023年04月14日 02:14
+! Version: 202304140900
+! Last Modified: 2023年04月14日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1707,6 +1707,14 @@ newduba.cn###jq_youxi
 ||zjqs.shop^
 ||znnodl.xyz^
 ||zouqiuyyds.com^
+||kkgytur.cn^
+||clkdus.xyz^
+||tqdpqq.com^
+||vzfizr.xyz^
+||endio.xyz^
+||dqazwsxd.xyz^
+||wcdc5.com^
+||aniauu2.cc^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -29156,6 +29164,7 @@ _mongo_stats/
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
+||icanhazip.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -33425,6 +33434,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thunderingrose.com^
 ||ticketaunt.com^
 ||ticklesign.com^
+||tightpowder.com^
 ||timeterritory.com^
 ||timetwig.com^
 ||tinytendency.com^
@@ -35690,7 +35700,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||luminate.com/track/
 ||lycos.com/hb.js
 ||m.addthisedge.com^
-||m.stripe.com^
+||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
@@ -36586,7 +36596,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
-||trustcommander.net/privacy/$third-party
 ||trustedform.com/trustedform.js?provide_referrer
 ||trustpilot.com/stats/
 ||try.abtasty.com^
@@ -37114,6 +37123,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||onlyfree.de^*/counterservice/
 ||orbidder.otto.de^
 ||ottogroup.media/ogm.nitro.
+||pixel.poptok.com^
 ||plausible.ams.to^
 ||plista.com/getuid?
 ||plista.com/iframeShowItem.php
@@ -53607,7 +53617,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||amazon-adsystem.com/aax2/apstag.js$script,domain=programme-tv.net
 @@||caf.fr^*/smarttag.js$script,~third-party
 @@||cdiscount.com/Js/tracking/cdtmv2.js$script,~third-party
-@@||cdn.trustcommander.net/privacy$script,domain=tf1.fr
 @@||chronopost.fr/tracking-no-cms/resources/js/lib/atinternet/smarttag.prod.$script
 @@||cmp.telerama.fr/js/telerama.min.js$~third-party
 @@||connect.facebook.net^*/fbevents.js$domain=elinoi.com
@@ -53632,7 +53641,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||tag.aticdn.net^*/smarttag.js$domain=gouv.fr|mon.compteczam.fr
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|capital.fr|voici.fr
 @@||trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr
-@@||trustcommander.net/privacy/*/privacy$script,domain=tf1info.fr
 @@||ultimedia.com/api/widget/getwidget/$xmlhttprequest,domain=ouest-france.fr
 @@||vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be
 @@||vuplay.co.uk/stats/adobe/*/VisitorAPI.js$script,domain=radioplus.be
