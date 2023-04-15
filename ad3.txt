@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SBVNT8i7G/LpeqMFRSmFOw
+! Checksum: YaIFq7dStIpA1j61gzKrBA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304150214
-! Last Modified: 2023年04月15日 02:14
+! Version: 202304150902
+! Last Modified: 2023年04月15日 09:02
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1722,6 +1722,16 @@ newduba.cn###jq_youxi
 ||znnodl.xyz^
 ||zouqiuyyds.com^
 ||zoushao.xyz^
+||naned.xyz^
+||weeqmcq.cn^
+||blxfqq.com^
+||yb0a.xyz^
+||08u6q.com^
+||rpajqxo.cn^
+||cnucpaq.xyz^
+||vjhjxh.xyz^
+||cvmesi.xyz^
+||tfonlyuse.shop^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -36593,6 +36603,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||traq.li/tracker/
 ||travel-assets.com/datacapture/
 ||travix.com/log
+||traxex.gannettdigital.com^
 ||trc.pushnami.com^
 ||tree-nation.com/js/track.js
 ||trends.newsmaxwidget.com^
@@ -37943,6 +37954,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||9gag.com/track/
 ||a-reporting.nytimes.com^
 ||a.electerious.com^
+||a.tellonym.me^
 ||a10.nationalreview.com^
 ||aa.avvo.com^
 ||aax-eu-dub.amazon.com^$script
@@ -38585,6 +38597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mangadex.org/p.js
 ||manua.ls/g/collect?
 ||manua.ls/gtag
+||mapcarta.com/logs
 ||mapquest.com/logger
 ||marketing.alibaba.com^
 ||massivecams.com/api/events
@@ -39219,6 +39232,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||walmart.com/client/api/logs
 ||walmart.com/client/api/metrics
 ||walmartimages.com^*/cdn-perf.min.js$domain=walmart.com
+||watchonlinehd123.sbs/cdn-cgi/trace
 ||watchsomuch.to/AD/
 ||wblt.oui.sncf^
 ||wc.yahoodns.net^$image
@@ -52455,6 +52469,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||bnamic.com/referrer/
 ||c-date.it/tracking?
 ||c-date.it^*/tracking2/tr.js
+||c.corriere.it^
 ||catalove.com/bimp/
 ||catalove.com/ntv/
 ||click.tv.repubblica.it^
