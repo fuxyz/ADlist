@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: QOoQ73R0mXbqJ4fg9l5BeQ
+! Checksum: R/RscMMx7KfsU+pK0MOanA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202304180214
-! Last Modified: 2023年04月18日 02:14
+! Version: 202304180900
+! Last Modified: 2023年04月18日 09:00
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -1972,6 +1972,7 @@ newduba.cn###jq_youxi
 ##div[style="position: fixed;top: 60px;right:0;z-index:999;width:250px"]
 ##div[style^="position"][onclick^="window.open"]
 ##dl#listwoBox
+###diads
 ##img#adv1
 ##img[data-link][data-src*="/u/"]:not([data-link*="/i/"])
 ##img[data-src*=".alicdn.com/img/ibank/"][src="/static/images/loadingerror.gif"]
@@ -2214,6 +2215,13 @@ newduba.cn###jq_youxi
 ||zrbabog.cn^
 ||zsblog.vip^
 ||zscgoqt.cn^
+||szsbiw.xyz^
+||rtdxqq.com^
+||peishuning1.cn^
+||lnnjnv.xyz^
+||sisjwol.xyz^
+||moend.xyz^
+||iughyy7919.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
