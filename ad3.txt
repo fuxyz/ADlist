@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YuI0pB37/0HfPjiKVAPJDA
+! Checksum: +jNR/rvwIjlRE4osqfOx4A
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304211415
-! Last Modified: 2023年04月21日 14:15
+! Version: 202304212022
+! Last Modified: 2023年04月21日 20:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -20647,6 +20647,7 @@ smjb.net##div[style*="height: 50%"]
 ||qianrenge.cc/qian/
 ||qishula.com/css/wap.
 ||quge66.com/jdjd/
+||x81zw.co/js/dsnmd.
 ||rmipoz.com/dp.js
 ||rr3r.com/requestData.
 ||shaquevip.oss-cn-zhangjiakou.aliyuncs.com^
@@ -34310,6 +34311,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||letro.jp^$third-party
 ||logly.co.jp^$third-party
 ||macromill.com^$third-party
+||medipartner.jp^$third-party
 ||mobylog.jp^$third-party
 ||moshimo.com^$third-party
 ||msgs.jp^$third-party
