@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: WTpbBQp4uihlc6u9kGvu3A
+! Checksum: YuI0pB37/0HfPjiKVAPJDA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202304210900
-! Last Modified: 2023年04月21日 09:00
+! Version: 202304211415
+! Last Modified: 2023年04月21日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1821,6 +1821,9 @@ newduba.cn###jq_youxi
 ||ncyx.ltd^
 ||heild.xyz^
 ||pedjqkl.xyz^
+||anifk71.cc^
+||aprlitj.cn^
+||zhemu.xyz^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -33017,6 +33020,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||longinglettuce.com^
 ||longingtrees.com^
 ||lorenzourban.com^$third-party
+||losslace.com^
 ||loudlunch.com^$third-party
 ||lovelydrum.com^
 ||lowlocket.com^$third-party
@@ -39289,7 +39293,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.carsales.com.au^
 ||tracking.digitalocean.com^
 ||tracking.engineering.cloud.seek.com.au^
-||tracking.epicgames.com^
 ||tracking.hsn.com^
 ||tracking.shopstyle.co.uk^
 ||tracking.shopstyle.com^
