@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: q50QwHs3Ne+jc0OK0HKQhg
+! Checksum: vY3ANCl6jnDxFN0iMB+ahQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202305030902
-! Last Modified: 2023年05月03日 09:02
+! Version: 202305031415
+! Last Modified: 2023年05月03日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -51979,6 +51979,8 @@ browsershots.org#@#.advert_area
 ||sbfull.com/js/mainpc.js
 ||sciencefocus.com/pricecomparison/$subdocument
 ||scoot.co.uk/delivery.php
+||search.brave.com/serp/v1/static/serp-js/paid/
+||search.brave.com/serp/v1/static/serp-js/shopping/
 ||sedo.cachefly.net^$domain=~sedoparking.com
 ||segmentnext.com/LhfdY3JSwVQ8.js
 ||sermonaudio.com/images/sponsors/
@@ -53465,6 +53467,7 @@ neoseeker.com###section-pagetop
 searchenginejournal.com###sej-pop-wrapper
 analyticsinsight.net###sgpb-popup-dialog-main-div-wrapper
 v3rmillion.net###sharingPlace
+search.brave.com###shopping
 filedropper.com,lifenews.com###sidebar
 whatsondisneyplus.com###sidebar > .widget_text.amy-widget
 tellymix.co.uk###sidebar > div[style]
@@ -57380,7 +57383,6 @@ google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.azyBPe:-abp-has(span.jHLihd) + div
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.azyBPe:-abp-has(span.jHLihd)
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.sbsb_c:-abp-has(span.jHLihd)
-google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[jsaction^="mouseover:"]:-abp-has(a[href^="/aclk?sa="][href$="&adurl="])
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div[data-section-id]:-abp-has(a[href^="/aclk?sa="][href$="&adurl=&placesheetAdFix=1"])
 google.ac,google.ae,google.at,google.be,google.bg,google.by,google.ca,google.ch,google.cl,google.co.id,google.co.il,google.co.in,google.co.jp,google.co.ke,google.co.kr,google.co.nz,google.co.th,google.co.uk,google.co.ve,google.co.za,google.com,google.com.ar,google.com.au,google.com.br,google.com.co,google.com.ec,google.com.eg,google.com.hk,google.com.mx,google.com.my,google.com.pe,google.com.ph,google.com.pk,google.com.py,google.com.sa,google.com.sg,google.com.tr,google.com.tw,google.com.ua,google.com.uy,google.com.vn,google.cz,google.de,google.dk,google.dz,google.ee,google.es,google.fi,google.fr,google.gr,google.hr,google.hu,google.ie,google.it,google.lt,google.lv,google.nl,google.no,google.pl,google.pt,google.ro,google.rs,google.ru,google.se,google.sk#?#div.sh-sr__shop-result-group[data-hveid]:-abp-has(g-scrolling-carousel)
 guru99.com#?#.content2:-abp-has(div[id^="div-gpt-ad"])
@@ -60962,6 +60964,9 @@ newduba.cn###jq_youxi
 ||234mx.club^
 ||diekd.xyz^
 ||wqweiog.xyz^
+||13niao20230422.live^
+||kzjkexn.cn^
+||acbe.club^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -86459,7 +86464,6 @@ _mongo_stats/
 ||ironbeast.io^$third-party
 ||ist-track.com^$third-party
 ||istrack.com^$third-party
-||iterable.com^$third-party
 ||ithinkthereforeiam.net^$third-party
 ||itrac.it^$third-party
 ||itracker360.com^$third-party
@@ -89855,6 +89859,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mastertag.effiliation.com^$third-party
 ||mb-srv.com^$third-party
 ||megavisites.com^$third-party
+||mgtmod01.com^$third-party
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
 ||netvigie.com^$third-party
@@ -91452,6 +91457,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hasbro.com/includes/js/metrics/
 ||haymarket.com/injector/deliver/
 ||hb.vhsrv.com^
+||hcmanager.swifteq.com/hc_events/
 ||hearstmags.com^*/hdm-lib_hearstuser_proxy.html$third-party
 ||heg-cp.com/upm/$third-party
 ||hello.myfonts.net/count/
@@ -91555,6 +91561,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||iraiser.eu/analytics.js
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
+||iterable.com/analytics.js
 ||iubenda.com/write?
 ||iyisayfa.net/inc.php?
 ||jailbaitchan.com/tp/
@@ -110123,6 +110130,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||ecranlarge.com/stat
 ||email.nautiljon.com/oo/$image
 ||events-logs.doctolib.com^
+||flow.kiloutou.fr^
 ||forecast.huffingtonpost.fr^
 ||forecast.lemonde.fr^
 ||franceculture.fr/static/js/xtcore-
@@ -111283,7 +111291,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||lenovo.com/_ui/desktop/common/js/AdobeAnalyticsEvent.js$script,~third-party
 @@||lenovo.com/fea/js/adobeAnalytics/$script,~third-party,xmlhttprequest
 @@||level.travel/tracker/tracker.js$script,~third-party
-@@||links.iterable.com/lists/$domain=clickup.com
 @@||linksynergy.com/minified_logic.js$third-party,xmlhttprequest
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||live.bbc.co.uk^*/comscore.js$~third-party
