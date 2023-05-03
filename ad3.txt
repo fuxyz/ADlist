@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: TmmoZufLOiPKylLGROek7Q
+! Checksum: NKdQXeyjNEg7Z00I6l3Oig
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305031415
-! Last Modified: 2023年05月03日 14:15
+! Version: 202305032023
+! Last Modified: 2023年05月03日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2008,6 +2008,8 @@ newduba.cn###jq_youxi
 ||13niao20230422.live^
 ||kzjkexn.cn^
 ||acbe.club^
+||chenyuzhou1.cn^
+||9wsbf.top^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -29796,7 +29798,6 @@ _mongo_stats/
 ||iplogger.org^$third-party,domain=~iplogger.com
 ||ipmeta.io^$third-party
 ||ipnoid.com^$third-party
-||ippen.space^$third-party
 ||ipro.com^$third-party
 ||iproanalytics.com^$third-party
 ||iprotrk.com^$third-party
@@ -34899,6 +34900,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||invitejs.trustpilot.com^
 ||io.narrative.io/?$third-party
 ||ipapi.tmbi.com^
+||ippen.space/idat
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
 ||ipstatp.com/static_magic/pgc/tech/collect/$third-party
 ||iq.sixaxisllc.com^
