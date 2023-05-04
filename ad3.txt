@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: j+W1xdiagNnvFLu/ruvPeA
+! Checksum: x5WSsHwQ2RM/4scpP0wOJQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305040901
-! Last Modified: 2023年05月04日 09:01
+! Version: 202305041415
+! Last Modified: 2023年05月04日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2016,6 +2016,11 @@ newduba.cn###jq_youxi
 ||poppy.fit^
 ||lcjyll.xyz^
 ||x4csq.top^
+||ifeurcw.cn^
+||nsfdsa.xyz^
+||fangguanjia.xyz^
+||grxwqq.com^
+||yikucdn.com^
 ##.btn[href*="/viphktv.com/"]
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
@@ -28320,6 +28325,7 @@ _mongo_stats/
 ||affvantage.com^
 ||agkn.com^
 ||allvideometrika.com^
+||alpha1trk.com^
 ||altopd.com^
 ||analys.live^
 ||analysis.fi^
@@ -35837,6 +35843,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
 ||tracking.audio.thisisdax.com^
+||tracking.bababam.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
 ||tracking.cerdmann.com^
@@ -53468,6 +53475,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||jscrambler.com^$script,domain=airfrance.fr
 ||l.bfmtv.com^
 ||l.franceculture.fr^
+||l.gentside.com^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-layout/tracking-
 ||lacoccinelle.net/g.js
