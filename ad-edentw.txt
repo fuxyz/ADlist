@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ul8KK7LuoUPWBJKNlNKs1Q
+! Checksum: P2Vz475Ic3D82uavPod0jA
 ! Title: edentwCustom
 ! Expires: 12 hours
-! Version: 202305090902
-! Last Modified: 2023年05月09日 09:02
+! Version: 202305092059
+! Last Modified: 2023年05月09日 20:59
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Adblock Warning Removal List、ABP filters、anti-adblock-killer-filters，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2605,8 +2605,6 @@ zo3x.ml,zo3x.cc,zo3x.com,zo3x.vip#$#abort-current-inline-script document.querySe
 @@||vengefulgrass.com^$script,xmlhttprequest
 ! FDA-2994
 @@||fundingchoicesmessages.google.com^$script,xmlhttprequest,subdocument
-! FDA-3830
-chewy.com#@#[class^="kib-"]:-abp-has(.kib-product-sponsor)
 ! AakList (Anti-Adblock Killer)
 ! ----- Anti-Adblockers ------------------------------------------------------------------------------------------------------------------- !
 ! ----- Generic ----- !
