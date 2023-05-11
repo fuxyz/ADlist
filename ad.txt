@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 14K9c+hWbhaRZ1bwUO3XBA
+! Checksum: pToA8Tgyr2MwrRAsfB7Tiw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202305111415
-! Last Modified: 2023年05月11日 14:15
+! Version: 202305112023
+! Last Modified: 2023年05月11日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -457,12 +457,6 @@ tieba.baidu.com##.j_click_stats, .j_click_stats+*
 tieba.baidu.com##.more_btn_package
 tieba.baidu.com##.tuijian-wrap
 ! 乘风 视频广告过滤规则
-<head><title>502 Bad Gateway</title></head>
-<body>
-<center><h1>502 Bad Gateway</h1></center>
-<hr><center>nginx</center>
-</body>
-</html>
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
@@ -13157,6 +13151,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zztongyun.com/static/js/sh.
 ||zzz4.com/JS_AD/
 ||zzzyk.com/js/
+||right.com.cn/forum/static/image/common/logo1.
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
 szxx.com.cn###A1
