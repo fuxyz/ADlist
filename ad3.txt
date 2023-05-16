@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: xpoCDBGGuW6OD7nmalOt5A
+! Checksum: j0N/RS/WVc8j3QhD0UzQmg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305161415
-! Last Modified: 2023年05月16日 14:15
+! Version: 202305162025
+! Last Modified: 2023年05月16日 20:25
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2161,6 +2161,7 @@ newduba.cn###jq_youxi
 ||pacix.xyz^
 ||radish-cake.xyz^
 ||zldzbr.xyz^
+||iwdvvoc.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -12773,6 +12774,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+qq.com,sogou.com##.daohang-gamecenter
+downza.cn##.down-item-2
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -15190,11 +15193,8 @@ xiazaizhijia.com##.down_list
 7x7n.com##.down_load_1
 7x7n.com##.down_load_2
 dayanzai.me##.down_show_intro_first_box
-downza.cn##.down_soft_bottom
-downza.cn##.down_top
 18183.com##.down_url
 greenxiazai.com##.downbtn > a:last-child
-downza.cn##.downbtn-top
 portablesoft.org##.downcenter
 51xiazai.cn##.downgs
 3dmgame.com##.downl_list + script + div
@@ -15400,7 +15400,7 @@ juxia.com##.game_img_list
 yxlady.com##.game_wrap
 sina.com.cn##.gamead1
 qidian.com##.games-op-wrap
-3987.com,downza.cn,drv5.cn,pcsoft.com.cn,win7w.com##.gaosu
+3987.com,drv5.cn,pcsoft.com.cn,win7w.com##.gaosu
 3h3.com##.gaosu_div
 3h3.com,downxia.com##.gaosu_down_div
 so.com##.garllery_ad
@@ -26158,6 +26158,7 @@ m.babytree.com##script + a[class]
 /piwikapi.js
 /piwikC_
 /piwikTracker.
+/pix-ddc-fp.min.js
 /pix.fcg?
 /pix.fly/*
 /pix.gif?
@@ -28492,6 +28493,7 @@ _mongo_stats/
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
+||iconnode.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -28538,6 +28540,7 @@ _mongo_stats/
 ||mitour.de^
 ||ml-sys.xyz^
 ||mm-api.agency^
+||monicaatron.com^
 ||monu.delivery^
 ||mors22.com^
 ||mrpdata.net^
@@ -29350,6 +29353,7 @@ _mongo_stats/
 ||dropboxfingerprintjs.com^$third-party
 ||dsail-tech.com^$third-party
 ||dsmmadvantage.com^$third-party
+||dsmstats.com^$third-party
 ||dsparking.com^$third-party
 ||dsply.com^$third-party
 ||dtc-v6t.com^$third-party
@@ -29570,6 +29574,7 @@ _mongo_stats/
 ||geistm.com^$third-party
 ||gemius.pl^$third-party
 ||genieesspv.jp^$third-party
+||geniuslinkcdn.com^$third-party
 ||geo-targetly.com^$third-party
 ||geobytes.com^$third-party
 ||geoip-db.com^$third-party
@@ -30279,6 +30284,7 @@ _mongo_stats/
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
 ||pdbu.net^$third-party
+||pdmntn.com^$third-party
 ||pdst.fm^$script,third-party
 ||peerius.com^$third-party
 ||pendo.io^$third-party
@@ -30683,6 +30689,7 @@ _mongo_stats/
 ||smart-digital-solutions.com^$third-party
 ||smart-dmp.com^$third-party
 ||smart-ip.net^$third-party
+||smart-pixl.com^$third-party
 ||smartclip-services.com^$third-party
 ||smartctr.com^$third-party
 ||smarterhq.io^$third-party
@@ -31286,6 +31293,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hrbpark.bid^$third-party
 ||jeeng.com^$third-party
 ||kattepush.com^$third-party
+||letreach.com^$third-party
+||lifterpopup.com^$third-party
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||misrepush.com^$third-party
@@ -31320,7 +31329,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pushible.com^$third-party
 ||pushify.com^$third-party
 ||pushmaster-cdn.xyz^
-||pushnami.com^$third-party
 ||pushowl.com^$third-party
 ||pushprofit.ru^$third-party
 ||pushpushgo.com^$third-party
@@ -34081,6 +34089,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.wipmania.com^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||app.adjust.com^$third-party
+||app.carnow.com/dealers/track_visitor
 ||app.cdn-cs.com/__t.png?
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
@@ -34460,6 +34469,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||covet.pics/beacons
 ||cp.official-coupons.com^
 ||cp.official-deals.co.uk^
+||crall.io/beacon/
 ||creator.zmags.com^
 ||credible.com/api/logs-fe
 ||crm-vwg.com/tracker/
@@ -34581,6 +34591,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||edgesuite.net^*/googleanalyt
 ||edkt.io^*/edgekit.min.js
 ||edrone.me/trace?
+||edw.edmunds.com/edw/edw1x1.gif
 ||eel.transistor.fm^
 ||egmontpublishing.dk/tracking/
 ||ele26126.jscrambler.com^
@@ -34732,6 +34743,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||frog.editorx.com^
 ||fs-client-logger.herokuapp.com^
 ||ftimg.net/js/log.js?
+||ftm.fluencyinc.co^
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
 ||futurecdn.net/bordeaux.js$xmlhttprequest
@@ -34885,6 +34897,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||imp.constantcontact.com^$third-party
 ||imp.pvnsolutions.com^
 ||impdesk.com/smartpix/
+||impel.io/releases/analytics/
 ||impress.vcita.com^
 ||impressionmedia.cz/statistics/
 ||inbound-analytics.pixlee.co^
@@ -35478,6 +35491,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||routeapp.io/route-analytics/
 ||rs.sinajs.cn^
 ||rt.flix360.com^
+||rtc.multiscreensite.com^
 ||rtxpx-a.akamaihd.net^
 ||rum.azion.com^
 ||rum.azioncdn.net^
@@ -35710,6 +35724,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||syteapi.com/et?
 ||t.91syun.com^
 ||t.a3cloud.net^
+||t.adx.opera.com^
 ||t.auditedmedia.org.au^
 ||t.beop.io^
 ||t.bimvid.com^
@@ -35742,6 +35757,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tag.atom.gamedistribution.com^
 ||tag.aumago.com^
 ||tag.brandcdn.com^
+||tag.digops.sincro.io^
 ||tag.elevaate.io^
 ||tag.flagship.io^
 ||tag.imagino.com^
@@ -35972,7 +35988,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||travel-assets.com/datacapture/
 ||travix.com/log
 ||traxex.gannettdigital.com^
-||trc.pushnami.com^
 ||tree-nation.com/js/track.js
 ||trends.newsmaxwidget.com^
 ||trib.al^$image,third-party
@@ -36271,6 +36286,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d3mapax0c3izpi.cloudfront.net/lib/ajax/events.js
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
+||d3oodlxb1rw3kg.cloudfront.net^
+||d3pi0tys5sdysl.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3q7vxy7usqoub.cloudfront.net^
 ||d3qxef4rp70elm.cloudfront.net/m.js
@@ -37093,6 +37110,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.novem.pl^
 ||trc.gpcdn.pl^
 ||wymiana.org/stat/
+||youlead.pl/st?browserid
 ||ad-tracker-api.luizalabs.com^
 ||analytics-coletor-site.ojc.com.br^
 ||analytics.spun.com.br^
