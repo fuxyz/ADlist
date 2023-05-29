@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: +wMK8i3tMpMf+OqUu8SdEQ
+! Checksum: RaYmcgxrHoAE9YxJpdFMjA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202305291415
-! Last Modified: 2023年05月29日 14:15
+! Version: 202305292022
+! Last Modified: 2023年05月29日 20:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2347,6 +2347,8 @@ newduba.cn###jq_youxi
 ||meidd.xyz^
 ||goikbnjksdf.com^
 ||bny3.cn^
+||2medo.top^
+||westover.cn^
 ##[class][onclick*=".ununxsxs.top"]
 ##a[href$=".120ydrayy.com"]
 ##a[href$="/1c626.com"]
@@ -24624,6 +24626,7 @@ m.babytree.com##script + a[class]
 /dmpcollector.js
 /dmpmetrics.
 /dmtracking2.
+/dmu2panalytics/*
 /DNATracking.
 /dni_reporting.js
 /doctracking.
@@ -26269,6 +26272,7 @@ m.babytree.com##script + a[class]
 /php/stats.php?
 /php/stats/*
 /phpmyvisites.js
+/piano-analytics.
 /pic.gif?m=
 /pic.gif?url=
 /piNctTracking.js
@@ -28524,6 +28528,7 @@ _mongo_stats/
 ||bidswitch.net^
 ||bkrtx.com^
 ||bluekai.com^
+||blueoyster.click^
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
 ||bounceexchange.com^
@@ -35023,6 +35028,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hsforms.com^*/counters.gif
 ||hsforms.com^*/timings.gif$image
 ||hspbotdetection.azurewebsites.net^
+||hub.reacti.co/index.js
 ||hubspot.com/analytics/
 ||hubspot.com/cs/loader-v2.js
 ||hubspot.com/tracking/
@@ -35882,6 +35888,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.pswec.com^
 ||t.raptorsmartadvisor.com^
 ||t.rentcafe.com^
+||t.screeb.app^
 ||t.sharethis.com^
 ||t.signalayer.com^
 ||t.skimresources.com^
@@ -53287,6 +53294,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||flow.kiloutou.fr^
 ||forecast.huffingtonpost.fr^
 ||forecast.lemonde.fr^
+||fourchette-et-bikini.fr/core/modules/statistics/
 ||franceculture.fr/static/js/xtcore-
 ||franceinter.fr/vendor/track.js
 ||fsm.lapresse.ca^
