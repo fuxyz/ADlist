@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: d/47yvbkDJt1ko94pcRZ2Q
+! Checksum: 9bC8Nv+jrAcXlzW6PJMMdw
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202306062024
-! Last Modified: 2023年06月06日 20:24
+! Version: 202306070214
+! Last Modified: 2023年06月07日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2149,6 +2149,7 @@ newduba.cn###jq_youxi
 ||bapdkgmvn.xyz^
 ||baucdngb.xyz^
 ||baytfede.xyz^
+||bcb9.cn^
 ||bcivqxd.cn^
 ||bcvxfgy.xyz^
 ||bdrzxp.xyz^
@@ -2183,6 +2184,7 @@ newduba.cn###jq_youxi
 ||brzfqq.com^
 ||bwandlv.top^
 ||bwwlw.cn^
+||bxoiksm.xyz^
 ||c9cc.icu^
 ||cadke.xyz^
 ||campu.ltd^
@@ -2256,6 +2258,7 @@ newduba.cn###jq_youxi
 ||dpaic.xyz^
 ||dqazwsxd.xyz^
 ||drtyujgsg.xyz^
+||dsbt7.com^
 ||dsctnsn.xyz^
 ||dshapv.xyz^
 ||dszhqww.cn^
@@ -2298,6 +2301,7 @@ newduba.cn###jq_youxi
 ||feild.xyz^
 ||ffbjhl.xyz^
 ||fijipic.xyz^
+||fillhr.xyz^
 ||findnam.xyz^
 ||fionamignon.com^
 ||fjnsnt.xyz^
@@ -2356,6 +2360,7 @@ newduba.cn###jq_youxi
 ||hejbd.cn^
 ||heliangjun2.cn^
 ||helid.xyz^
+||heretrail.com^
 ||hffxc.com^
 ||hfhytx.xyz^
 ||hgpdoa.cn^
@@ -2397,6 +2402,7 @@ newduba.cn###jq_youxi
 ||ioiksw.cn^
 ||ipeef.xyz^
 ||iqybys.xyz^
+||isancio.top^
 ||itoken.pro^
 ||iughyy7919.com^
 ||iwandlo.top^
@@ -2591,6 +2597,7 @@ newduba.cn###jq_youxi
 ||pithjpf.cn^
 ||pkkylyx.xyz^
 ||pkynqq.com^
+||pohpll.xyz^
 ||poiqwnekb.com^
 ||poopd.xyz^
 ||poppy.fit^
@@ -2635,6 +2642,7 @@ newduba.cn###jq_youxi
 ||rbbbdj.xyz^
 ||rbrv9.cn^
 ||rbxunao.cn^
+||rcsden.top^
 ||rcxysoj.cn^
 ||rdtjkwy.cn^
 ||readme.red^
@@ -2886,6 +2894,7 @@ newduba.cn###jq_youxi
 ||zhanghao164.xyz^
 ||zhaozongqq.com^
 ||zhemu.xyz^
+||zhengliyqq.com^
 ||zhixin.host^
 ||zhoubo01.cn^
 ||zhouduanyyds.com^
@@ -2906,12 +2915,6 @@ newduba.cn###jq_youxi
 ||ztaan.top^
 ||zvfaxh.xyz^
 ||zxgko.cn^
-||zhengliyqq.com^
-||bcb9.cn^
-||pohpll.xyz^
-||rcsden.top^
-||bxoiksm.xyz^
-||heretrail.com^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -8159,6 +8162,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||19vcd.com/mid/
 ||1fzw.com/content/templates/zjbnew/yxj.js
 ||1ketang.com/Runtime/js/play
+||1ppt.com/ads.
 ||1x6666.com/img/
 ||2008mm.com^*.js
 ||2008xxx.com:888
