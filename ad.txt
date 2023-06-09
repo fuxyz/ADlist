@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: bSd2H0FJKFjfCyFgMsukwg
+! Checksum: 5oDtiBhN+Etz4jYRhhf7cQ
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202306092023
-! Last Modified: 2023年06月09日 20:23
+! Version: 202306100214
+! Last Modified: 2023年06月10日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2088,6 +2088,7 @@ newduba.cn###jq_youxi
 ||92ph.cn^
 ||94evd.xyz^
 ||9603gg.cc^
+||9a6cds03.com^
 ||9fa20230518.live^
 ||9h622.top^
 ||9itan.cc^
@@ -2143,6 +2144,7 @@ newduba.cn###jq_youxi
 ||aup34.xyz^
 ||awdc6.com^
 ||ayynsdp.xyz^
+||azdxypf.cn^
 ||baiduajbcjkabcav.com^
 ||baidudbvjksbvs.com^
 ||baidudsvbshj.com^
@@ -2174,6 +2176,7 @@ newduba.cn###jq_youxi
 ||blxfqq.com^
 ||bny3.cn^
 ||bny6.cn^
+||bny9.cn^
 ||bnz9.cn^
 ||bockd.xyz^
 ||boshao666.com^
@@ -2188,6 +2191,7 @@ newduba.cn###jq_youxi
 ||bwandlv.top^
 ||bwwlw.cn^
 ||bxoiksm.xyz^
+||byjykj.xyz^
 ||c9cc.icu^
 ||cadke.xyz^
 ||campu.ltd^
@@ -2247,6 +2251,7 @@ newduba.cn###jq_youxi
 ||dezstd.xyz^
 ||dfaikhkm.xyz^
 ||dfec2.com^
+||dfjd.xyz^
 ||dgfqqq.com^
 ||dhaxhsa325.com^
 ||dhxrxn.xyz^
@@ -2268,6 +2273,7 @@ newduba.cn###jq_youxi
 ||dszhqww.cn^
 ||dtjhtp.xyz^
 ||dtnhjzl.xyz^
+||dwibjkdsn.com^
 ||dydujb.xyz^
 ||dyhnbgtsl.xyz^
 ||e51d1.icu^
@@ -2317,6 +2323,7 @@ newduba.cn###jq_youxi
 ||flyinsky2009.ltd^
 ||fmild.xyz^
 ||fnnzr.cn^
+||fsnpbh.xyz^
 ||fssxyiq.cn^
 ||fthqzxq.cn^
 ||ftptjj.xyz^
@@ -2419,6 +2426,7 @@ newduba.cn###jq_youxi
 ||j1p6w.xyz^
 ||jbtfmis.xyz^
 ||jbzjegn.cn^
+||jciske.top^
 ||jdamc.top^
 ||jeedi.xyz^
 ||jeidd.xyz^
@@ -2617,6 +2625,7 @@ newduba.cn###jq_youxi
 ||poppy.fit^
 ||poqwnllkm.com^
 ||ppjttn.xyz^
+||pplnjoow.com^
 ||ppshop.club^
 ||pqldzp.xyz^
 ||pqxyqq.com^
@@ -2646,6 +2655,7 @@ newduba.cn###jq_youxi
 ||qooav.top^
 ||qpoiwnelc.com^
 ||qqied.xyz^
+||qsanciy.top^
 ||quancuncq.xyz^
 ||qvcyeknp.xyz^
 ||qwahk.com^
@@ -2709,6 +2719,7 @@ newduba.cn###jq_youxi
 ||sozrrkx.xyz^
 ||srbzw.cn^
 ||srkl.pw^
+||ssancib.top^
 ||stbdepjb.xyz^
 ||svrojrv.cn^
 ||swandlb.top^
@@ -2773,6 +2784,8 @@ newduba.cn###jq_youxi
 ||uz44x.xyz^
 ||uzuarlv.cn^
 ||v0cf.xyz^
+||v88yaat.xyz^
+||v9gfm.xyz^
 ||vdebtqm.xyz^
 ||vel7.xyz^
 ||vezvpd.xyz^
@@ -2882,6 +2895,7 @@ newduba.cn###jq_youxi
 ||yisangyyds.com^
 ||yjgqpfj.cn^
 ||yrszy.com.cn^
+||yszpegh.xyz^
 ||yttc.ren^
 ||yuebog.xyz^
 ||yulingaa.xyz^
@@ -2936,18 +2950,6 @@ newduba.cn###jq_youxi
 ||zvfaxh.xyz^
 ||zxgko.cn^
 ||zzqrr.com^
-||azdxypf.cn^
-||jciske.top^
-||fsnpbh.xyz^
-||pplnjoow.com^
-||yszpegh.xyz^
-||dfjd.xyz^
-||byjykj.xyz^
-||qsanciy.top^
-||ssancib.top^
-||v9gfm.xyz^
-||v88yaat.xyz^
-||bny9.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
