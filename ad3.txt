@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: EYOc7SkNO2TPB5MCMs61Eg
+! Checksum: na8gsyhKQQ/TQWTMenWJJw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307042028
-! Last Modified: 2023年07月04日 20:28
+! Version: 202307050217
+! Last Modified: 2023年07月05日 02:17
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -22255,6 +22255,7 @@ m.babytree.com##script + a[class]
 /analytics/gallup/*
 /analytics/geoip/*
 /analytics/google/*
+/analytics/inboundAnalytics.
 /analytics/initSession
 /analytics/klaviyo_
 /analytics/layer
@@ -23575,6 +23576,7 @@ m.babytree.com##script + a[class]
 /initAdobeAnalytics.
 /inline-pixel.js
 /inpl.measure.
+/insales_counter.js?
 /insights-collector.
 /InsightTrk/*
 /insitemetrics/*
@@ -25046,6 +25048,7 @@ m.babytree.com##script + a[class]
 /tealium-utag-
 /tealiumAnalytics.
 /tealiumTagsData.
+/tenant.min.js
 /thermostat.js
 /thixel.js
 /tiara/tracker/*
@@ -52597,7 +52600,7 @@ arketing.indianadunes.com^
 ||link.metronaut.app^
 ||link.meumulti.com.br^
 ||link.mindsetapp.com^
-||link.mix.com^link.sandboxx.us^
+||link.mix.com^
 ||link.mktg.almosafer.com^
 ||link.mktg.tajawal.com^
 ||link.mobstar.com^
@@ -52612,6 +52615,7 @@ arketing.indianadunes.com^
 ||link.orders.kodakmoments.com^
 ||link.resy.com^
 ||link.ridewithvia.com^
+||link.sandboxx.us^
 ||link.savvy360.com^
 ||link.sayferapp.com^
 ||link.seaflux.tech^
