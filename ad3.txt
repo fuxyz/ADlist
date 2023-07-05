@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zt6imqXrbvrgiGYzqSTJAA
+! Checksum: 3NGyHniCSEIfPBdHNgJ2yw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307050919
-! Last Modified: 2023年07月05日 09:19
+! Version: 202307051418
+! Last Modified: 2023年07月05日 14:18
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -25357,10 +25357,6 @@ m.babytree.com##script + a[class]
 /umt.gif?
 /unbxdAnalytics.
 /unbxdAnalyticsConfig.
-/unica.gif?
-/unica.js
-/unica_$domain=~unica.fi
-/UnicaTag.
 /UniqueUserVisit?
 /Universal-Federated-Analytics.
 /universal-trackers/*
@@ -32817,6 +32813,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||invite.leanlab.co^
 ||invitejs.trustpilot.com^
 ||io.narrative.io/?$third-party
+||ip.lovely-app.com^
 ||ipapi.tmbi.com^
 ||ippen.space/idat
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
@@ -33467,6 +33464,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sparklit.com/counter/
 ||speedtest.dailymotion.com/latencies.js
 ||speedtrap.shopdirect.com^
+||spiral.world/events/
 ||splunkcloud.com/services/collector/
 ||spotpass.com/api/log
 ||spread.ly^*/statistics.php
@@ -34098,6 +34096,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d2cpw6kwpff7n5.cloudfront.net^
 ||d2ef20sk9hi1u3.cloudfront.net^
 ||d2ezz24t9nm0vu.cloudfront.net^
+||d2fj3s7h83rb61.cloudfront.net
 ||d2gbtcuv3w9qyv.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
 ||d2j1fszo1axgmp.cloudfront.net^
@@ -36280,6 +36279,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tongji-res.meizu.com^
 ||top.gg/api/auctions/i
 ||top.wn.com^
+||totalcsgo.com/ctrack/
 ||touch.myntra.com^
 ||toyota.com/analytics/
 ||tr.clickstay.com^
