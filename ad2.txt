@@ -1,15 +1,26 @@
 [Adblock Plus 2.0]
-! Checksum: 8f7KftGvAjI4Kxn1pERkbg
+! Checksum: +GCrAgfephROqznU1BtJ0Q
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202307161416
-! Last Modified: 2023年07月16日 14:16
+! Version: 202307162024
+! Last Modified: 2023年07月16日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
 ! 如有任何疑问、意见或建议，请反馈至：HalfLife吧
 !
 ! 乘风 视频广告过滤规则
+<head>
+    <title> 
+        403 Forbidden
+    </title>
+</head>
+<body>
+    <h1>Forbidden</h1>
+    <hr>
+    <p>Request forbidden by administrative rules.(code:20005-6-31.07)</p>
+</body>
+</html>
 ! EasyList China
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.panda^$script,third-party
@@ -1726,6 +1737,8 @@ newduba.cn###jq_youxi
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zypzzv.xyz^
+##a[href*="/9966699.vip"]
+##a[href*=".f2ocoin.com/"]
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
 ##a[href$="/aa8a1j.com"]
@@ -11654,6 +11667,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+ppys66.com##.container-slide + .container-slide
 16fan.com##.item-newad
 szxx.com.cn###A1
 szxx.com.cn###A2
