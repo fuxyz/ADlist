@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GHG/nubdOqpQpVW0Z4kRqQ
+! Checksum: Xd27MxzLGRfvT6n8nV0RpQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307191415
-! Last Modified: 2023年07月19日 14:15
+! Version: 202307192024
+! Last Modified: 2023年07月19日 20:24
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1430,6 +1430,7 @@ newduba.cn###jq_youxi
 ##.wwads
 ##.wwads-cn
 ##.wzad
+##div[onclick*="/ky"][onclick*="open"]
 ##.xstui-content__acc
 ##.xzbox-gh
 ##.y.mtw[style="padding: 0px 10px;"]
@@ -19520,6 +19521,8 @@ wnacg.com##script + div > a > img
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 eastday.com#@##leftShare
 189.cn#@##linkShare
+yunpan.com#@#.share-wrapper
+yunpan.com#@#.share-new
 gfan.com,gfan.net.cn#@##shareBox
 189.cn,zdzdm.com#@##share_list
 zhihu.com#@#.FollowButton
@@ -24847,6 +24850,7 @@ m.babytree.com##script + a[class]
 /seed.gif?
 /segment/api/*
 /segment/js/*
+/segmentify.js
 /segmentio.js
 /sendLogs?cid
 /sensor.modern.ncl.
@@ -29964,8 +29968,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gorgeousedge.com^
 ||gorgeousground.com^
 ||gracefulsock.com^
-||grandioseguide.com^
 ||grandfatherguitar.com^
+||grandioseguide.com^
 ||grandmotherunit.com^
 ||grayoranges.com^
 ||grayreceipt.com^
@@ -31812,6 +31816,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sayyac.com^$third-party
 ||sayyac.net^$third-party
 ||sitetistik.com^$third-party
+||sortext.com^$third-party
 ||visilabs.net^$third-party
 ||webservis.gen.tr^$third-party
 ||webtemsilcisi.com^$third-party
@@ -36366,6 +36371,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thisiswhyimbroke.com/api/user/gift-guide-thumbnail-homepage/tracking
 ||thisiswhyimbroke.com/api/user/tracking
 ||thriftbooks.com/scripts/sp.js
+||thtk.temu.com^
 ||tiendeo.*/_statsapi/
 ||tiktok.com/captcha/report
 ||tiktok.com/v1/list
