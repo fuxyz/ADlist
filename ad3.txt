@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: aAB7Y7Fjc1cygktu0r0Ltg
+! Checksum: mQGlqqOABUSJ68ktDz3UEA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307221413
-! Last Modified: 2023年07月22日 14:13
+! Version: 202307222021
+! Last Modified: 2023年07月22日 20:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1813,6 +1813,7 @@ newduba.cn###jq_youxi
 ||ossfile001.com^
 ||toastspinner.com^
 ||qwdbsjnql.com^
+||bnfyzszm.icu^
 ||xckj0623.com^
 ||zonyff.xyz^
 ||zxrcfw.com^
@@ -11742,6 +11743,9 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+redian.news##.bottom-0.fixed
+redian.news##.md\:w-\[728px\].mx-auto
+redian.news##._ap_apex_ad[style^="width: 300px"]
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -17476,6 +17480,7 @@ android-doc.com,apk.tw,chaojizhibo.net,chtoen.com,dizhishengcheng.com,doitwell.t
 @@||banma.com/statics/js/??
 @@||battlecats-db.com^$generichide
 @@||bbs.tgfcer.com^$generichide
+@@||redian.news^$generichide
 @@||bcebos.com/static/translation/widget/translate/output/AdBanner/AdBanner.js
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 @@||bdimg.com/static/wkcore/widget/adControl/adControl_
