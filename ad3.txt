@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: dWdPfAhl8yWOwsnvstFmsA
+! Checksum: wF2pRf5NmZMuu7yGj94kcQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307230911
-! Last Modified: 2023年07月23日 09:11
+! Version: 202307231414
+! Last Modified: 2023年07月23日 14:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1589,6 +1589,7 @@ newduba.cn###jq_youxi
 ||194.59.220.161^
 ||23.234.217.11^
 ||23.234.217.12^
+||23.231.151.252^
 ##a[href*=".f2ocoin.com/"]
 ##a[href*=".pcjx365.com/"]
 ##a[href*="/9966699.vip"]
@@ -1826,6 +1827,11 @@ newduba.cn###jq_youxi
 ||tvrshv.xyz^
 ||kasiklz.cc^
 ||kv8899.com^
+||cslbahf.top^
+||cdmjur.xyz^
+||nunxhv.com^
+||dghhot.com^
+||hiqua.xyz^
 ||ziravd.xyz^
 ||zonyff.xyz^
 ||zxrcfw.com^
@@ -25644,6 +25650,7 @@ m.babytree.com##script + a[class]
 /visit_pixel?
 /visit_tracking.
 /VisitCounter.
+/visitinfo.js
 /VisitLog.asmx
 /visitor-event?
 /visitor-js/?
@@ -26396,6 +26403,7 @@ _mongo_stats/
 ||hubty.network^
 ||i218435.net^
 ||ia-dmp.com^
+||iconmediapixel.com^
 ||iconnode.com^
 ||id5-sync.com^
 ||idx.lat^
@@ -33648,6 +33656,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||st.cdnco.us^
 ||st.linkfire.com^
 ||stacksocialcontent.com/event/
+||staging-pt.ispot.tv^
 ||starman.fathomdns.com^
 ||stas.outbrain.com^
 ||stat.absolutist.com^
