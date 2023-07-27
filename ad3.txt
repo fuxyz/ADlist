@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DS/qE00Bilx50uCFZW36hg
+! Checksum: 16WtS0cLwRo0W5ZeeZgK2Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202307272024
-! Last Modified: 2023年07月27日 20:24
+! Version: 202307280214
+! Last Modified: 2023年07月28日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1896,6 +1896,7 @@ newduba.cn###jq_youxi
 ||a9able.com^
 ||uxtruz.xyz^
 ||8861198.com^
+||xiaoy.name^
 ||zifyeldq.top^
 ||ziravd.xyz^
 ||znyjmbh.icu^
@@ -54585,6 +54586,7 @@ arketing.indianadunes.com^
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
+||t.syosetu.org^
 ||track.buyma.com^
 ||tracking.game8.jp^
 ||tracking.gnavi.co.jp^
@@ -55471,6 +55473,7 @@ arketing.indianadunes.com^
 @@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
 @@||linksynergy.com/minified_logic.js$xmlhttprequest
 @@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
+@@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
