@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: b04/qYmAcxaHKK/TX2D9lg
+! Checksum: qoQrp3PPua2gR/sifYfIqA
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202308231414
-! Last Modified: 2023年08月23日 14:14
+! Version: 202308232021
+! Last Modified: 2023年08月23日 20:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -9476,6 +9476,7 @@ _800x80_
 ##.ad-calendar
 ##.ad-call-300x250
 ##.ad-callout
+##.ad-callout-wrapper
 ##.ad-caption
 ##.ad-card
 ##.ad-card-container
@@ -59228,6 +59229,7 @@ greatbritishlife.co.uk##.lp_track_vertical2
 thestreet.com##.m-balloon-header
 si.com##.m-balloon-header--spacer
 politifact.com##.m-billboard
+aol.com##.m-gam__container
 aol.com##.m-healthgrades
 techraptor.net##.m-lg-70
 euronews.com##.m-object--is-branded
@@ -65586,6 +65588,7 @@ newduba.cn###jq_youxi
 ||hegk02a.top^
 ||pnlhnx.xyz^
 ||oqyiapj.cn^
+||zpotkvpy.icu^
 ||zypzzv.xyz^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
