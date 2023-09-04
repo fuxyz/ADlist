@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zkxatMgsnjw++C6DqK+cEg
+! Checksum: sHVkYMKExraxqyf67KOQlw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202309041415
-! Last Modified: 2023年09月04日 14:15
+! Version: 202309042022
+! Last Modified: 2023年09月04日 20:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2366,6 +2366,8 @@ newduba.cn###jq_youxi
 ||dvenkbn.icu^
 ||rrxddl.xyz^
 ||eexlgyn.cn^
+||88lajs1.com^
+||afxncq.com^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -8955,7 +8957,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||jlmhk.com/images/data/
 ||jlpcn.net/img/300p-
 ||jmbbs.cn/sjgg/
-||jmcomic.asia/iframe_
 ||jmhfw.com/index.php?/ajax/get_adv/
 ||jmydm.com/jspage/ftt.js
 ||jnlc.com/www/fund/newsmarket
@@ -17059,27 +17060,14 @@ guailie.com#@#.google-ad
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 ||17ce.com^*_$image
 !#18comic.org
-18comic.org,18comic.vip,18comic1.art,18comic2.art###guide-modal
-18comic.org,18comic.vip,18comic1.art,18comic2.art##.modal-backdrop
-##.thumb-overlay-albums > .col-xs-12[style="display: flex;justify-content: center;"]
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#?#:-abp-has(>script+ins)
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
-18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href*=".taobao.com"]
-18comic.org,18comic.vip,18comic1.art,18comic2.art##a[href^="http"]:not([href*="18comic."]) > img
-jm-comic2.club##a[href^="http"]:not([href*="jm-comic"]) > img
-jmcomic1.city,jmcomic1.win##a[href^="http"]:not([href*="jmcom"]) > img
-18comic.org,18comic.vip,18comic1.art,18comic2.art##div[data-height="264"][data-width="956"]
-18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win##div[style="cursor: pointer;"] > img[src*="/media/albums/"]
-18comic.org,18comic.vip,18comic1.art,18comic2.art##div[style^="position: fixed; top:"]
-jm-comic2.club#?#:-abp-has(>script+ins)
-||18comic.*/iframe
+18comic.org,18comic.vip###guide-modal
+18comic.org,18comic.vip##.modal-backdrop
+18comic.org,18comic.vip,jm-comic2.club#?#:-abp-has(>script+ins)
+18comic.org,18comic.vip#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18comic.org,18comic.vip##a[href*="//"]:not([href*="18comic."]) > img
+jm-comic2.club##a[href*="//"]:not([href*="jm-comic"]) > img
 ||18comic.*/media/albums/*?$media
-||18comic.*/media/logo/
-||18comic.*/static/resources/files/*0x
-||18comic.*/static/resources/images/168/
-||18comic.*/static/resources/images/300
-||18comic.*/static/resources/images/JGG/
-||jmcomic1.*/media/albums/*?$media
+||jm-comic2.club/media/albums/*?$media
 !#2
 !#3
 !#4
@@ -26571,7 +26559,6 @@ _mongo_stats/
 ||linksynergy.com^$third-party
 ||linkxchanger.com^$third-party
 ||listenlayer.com^$third-party
-||listrakbi.com^$third-party
 ||litix.io^$third-party
 ||livecount.fr^$third-party
 ||livesegmentservice.com^$third-party
@@ -31849,6 +31836,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||linkwithin.com/pixel.png
 ||list-manage.com/track/
 ||list.fightforthefuture.org/mpss/o/*/o.gif
+||listrakbi.com/activity/
+||listrakbi.com/api/ActivityEvents/
 ||lit.connatix.com^
 ||literally-analytics.appspot.com^
 ||live-partner.com/tags?
@@ -31983,6 +31972,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mlweb.dmlab.hu^
 ||mmi.bemobile.ua^
 ||mochiads.com/clk/
+||moco.yukata.dev/get/$image,third-party
 ||modules.ooyala.com^*/analytics-
 ||mon.domdog.io^
 ||monitor-frontend-collector.a.bybit-aws.com^
@@ -35156,6 +35146,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||srtb.msn.com^
 ||srv.plesk.com^
 ||ss.photospecialist.co.uk^
+||sstats.adobe.com^
 ||st.sawlive.tv^
 ||stackoverflow.com/_/client-timings
 ||stackshare.io/analytics.
@@ -53923,7 +53914,6 @@ arketing.indianadunes.com^
 @@||level.travel/tracker/tracker.js$script,~third-party
 @@||lightning.bleacherreport.com/launch/*-source.min.js$~third-party
 @@||lightning.bleacherreport.com^*/launch-$~third-party
-@@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||live.rezync.com^$script,domain=batteriesplus.com
 @@||loader-cdn.azureedge.net/prod/smi/loader.min.js$domain=pressdemocrat.com
 @@||logging.apache.org^$~third-party
