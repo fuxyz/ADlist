@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: YRS5vU1QeEK5SNmB7otG2w
+! Checksum: 8nBX96VzGbK9BJnOy9+GhQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202309040212
-! Last Modified: 2023年09月04日 02:12
+! Version: 202309040853
+! Last Modified: 2023年09月04日 08:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2360,6 +2360,10 @@ newduba.cn###jq_youxi
 ||zwfkxb.xyz^
 ||zxrcfw.com^
 ||zypzzv.xyz^
+||cheda7.icu^
+||tltyygb.cn^
+||wtienle.top^
+||dvenkbn.icu^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -21216,6 +21220,7 @@ m.babytree.com##script + a[class]
 .tv/log?event
 .v4.analytics.
 .web-vitals-reporting.
+/.webscale/rum?
 /.well-known/shopify/monorail
 /0.gif?
 /0c.gif?
@@ -23665,6 +23670,7 @@ m.babytree.com##script + a[class]
 /sensorsdata.$domain=~sensorsdata.cn
 /sentry-browser.
 /sentry-logger.js
+/sentry/bundle.min.js
 /seo.taCo.min.js
 /seostats/*
 /seotracker/*
@@ -53961,7 +53967,7 @@ arketing.indianadunes.com^
 @@||mmstat.com/eg.js$script,domain=aliexpress.com
 @@||mopar.com/moparsvc/mopar-analytics-state$~third-party
 @@||mozu.com^*/monetate.js$script,domain=acehardware.com
-@@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com|motortrendondemand.com
+@@||mparticle.com/js/v2/*/mparticle.js$script,domain=bk.com|cnbc.com|gymshark.com|motortrendondemand.com
 @@||msecnd.net/scripts/jsll-$script,domain=forms.microsoft.com|office.com|sharepoint.com|teams.microsoft.com
 @@||munchkin.marketo.net/munchkin.js$domain=telus.com
 @@||mxpnl.com/libs/mixpanel-*.min.js$domain=change.org|frigidaire.com
