@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iGoGjUeIVylHM53u0/vTsw
+! Checksum: 6LEyGCuCaa0PO19Bp1SxtQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202309050851
-! Last Modified: 2023年09月05日 08:51
+! Version: 202309051414
+! Last Modified: 2023年09月05日 14:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2373,6 +2373,7 @@ newduba.cn###jq_youxi
 ||oyfnkle.cn^
 ||lgoewtd.icu^
 ||zbzbzb.xyz^
+||ptfxh.com^
 ||zzisnvb.cn^
 ##a[href$="/1c626.com"]
 ##a[href$="/77adc.com"]
@@ -6067,6 +6068,7 @@ newduba.cn###jq_youxi
 !long-term
 ##a[href*=".xacg.info/"]
 ##button[onclick*=".xacg.info/"]
+||d37d9zbli5ytch.cloudfront.net^
 ||06789.xyz^
 ||114la.com^$third-party,domain=~ylmf.com
 ||114lm.com^$third-party
@@ -10800,6 +10802,8 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+hcbbs.com###diynavtop
+hcbbs.com##.ke-zeroborder
 szxx.com.cn###A1
 szxx.com.cn###A2
 gpcxw.com###AA2
@@ -30923,6 +30927,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||awe.sm/conversions/
 ||aweber.com/form/displays.htm?$image
 ||awesome.section.io^
+||awswaf.com^*/telemetry
 ||ax.babe.today^
 ||axislogger.appspot.com^
 ||az693360.vo.msecnd.net^
@@ -34637,6 +34642,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gc.newsweek.com/front/js/counter.js
 ||gct.americanexpress.com^
 ||generalblue.com/js/pages/shared/analytics.min.js
+||generic-function-log-data-7il2midpaa-nn.a.run.app^$domain=telus.com
 ||geo.brobible.com^
 ||geo.gfycat.com^
 ||geo.nbcsports.com^
@@ -35644,6 +35650,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||walmart.ca/px/PXnp9B16Cq/init.js
 ||walmart.com/px/PXu6b0qd2S/init.js
 ||walmartpetrx.com/1Ct9c6G3/init.js
+||wfla.com/CvbtpUrj/init.js
 ||whois.com/js/gtmDataLayer.js
 ||wine-searcher.com/K6S8okp3/init.js
 ||worthpoint.com/lIUjcOwl/init.js
