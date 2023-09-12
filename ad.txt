@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: ZhiBnPmTqEA6FjC2ypHYsw
+! Checksum: k0XeTGj+M6faX/DkTkh0EA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202309120851
-! Last Modified: 2023年09月12日 08:51
+! Version: 202309121414
+! Last Modified: 2023年09月12日 14:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -462,6 +462,9 @@ tieba.baidu.com##.tuijian-wrap
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
+/js/yueyupp_3.js
+/js/mmdaohang_2.js
+/js/huath_2.js
 -1316899192.cos.
 -1688-wp-media/ads/
 -90mh-gg.
