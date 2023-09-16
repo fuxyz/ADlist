@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: qLONcOSnPqFQuUKL9GCteA
+! Checksum: nC7VBvBZTGlOwSmbUNUOuA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202309161413
-! Last Modified: 2023年09月16日 14:13
+! Version: 202309162019
+! Last Modified: 2023年09月16日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -75272,6 +75272,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+939394.xyz##DIV[class] > DIV:not([class]):not([id])
 ettoday.net##.ad_970
 ettoday.net##.ad_300
 szxx.com.cn###A1
