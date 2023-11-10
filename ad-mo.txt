@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2UKc3HR/Bs0/2bpWOgWuEA
+! Checksum: +o+muAf86LAJYfuHd4IvSQ
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202311100854
-! Last Modified: 2023年11月10日 08:54
+! Version: 202311101415
+! Last Modified: 2023年11月10日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -62384,6 +62384,7 @@ cmswire.com##[class^="styles_article__top-ad-wrapper"]
 hancinema.net##[class^="wmls_"]
 torlock.com##[class^="wrn"]
 mydramalist.com##[class^="zrsx_"]
+flatpanelshd.com##[data-aa-adunit]
 dribbble.com##[data-ad-data*="ad_link"]
 greatist.com,healthline.com,medicalnewstoday.com,psychcentral.com##[data-ad]
 gamelevate.com##[data-adpath]
@@ -91176,6 +91177,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||delicatecascade.com^
 ||delicateducks.com^
 ||delightfulhour.com^
+||dependenttrip.com^
 ||desertedbreath.com^
 ||desertedrat.com^
 ||desirebucket.com^
