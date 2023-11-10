@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: mnPqH9Q/Qd0v7drbJcawMQ
+! Checksum: 2UKc3HR/Bs0/2bpWOgWuEA
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202311100214
-! Last Modified: 2023年11月10日 02:14
+! Version: 202311100854
+! Last Modified: 2023年11月10日 08:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -67408,6 +67408,12 @@ newduba.cn###jq_youxi
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
+||erutxdk.cn^
+||bgdgpbpm.xyz^
+||jppxnhe.xyz^
+||whqgyo.xyz^
+||icwnix.icu^
+||bxbyll.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
@@ -92220,6 +92226,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||torpidtongue.com^
 ||torpidtoothpaste.com^
 ||toweringrun.com^
+||tradetooth.com^
 ||tranquilside.com^
 ||translateoatmeal.com^
 ||trappush.com^
@@ -98212,7 +98219,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||uber.com/_events
 ||uber.com/_track
 ||uber.com/careers/apply/_log
-||ubereats.com/_events
 ||ubereats.com/_track
 ||ubuyanalytics.ubuy.com^
 ||ucoz.com/stat/
