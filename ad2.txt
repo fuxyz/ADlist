@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: DImd7aPkiCSToZ+HavuDVw
+! Checksum: a+Fh8jDVzwgypwB5fFCThw
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202311301416
-! Last Modified: 2023年11月30日 14:16
+! Version: 202311302023
+! Last Modified: 2023年11月30日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -14,6 +14,7 @@
 !-----------------------General advert blocking filters-----------------------!
 -*-*-*-*.alpha^$script,third-party
 -*-*-*-*.as^$script,third-party
+/os2023001.oss-$script
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
 -1316899192.cos.
@@ -2369,6 +2370,8 @@ newduba.cn###jq_youxi
 ||ameidj.xyz^
 ||fqtljn.xyz^
 ||max211.top^
+||8zkt7.xyz^
+||rt004.top^
 ||zzyy18.top^
 ||zzyy19.top^
 ||zzyy20.top^
@@ -20419,6 +20422,8 @@ _box_ad_
 ||tencent.com/developer/api/common/getAds
 ||tencent.com/developer/api/common/getOneAds
 !------------------------Specific element hiding rules------------------------!
+youdao.com##.banner
+cnki.net##.banner-main
 caiyunapp.com##.active-imgContainer
 baidu.com##.player-pause-code
 123pan.com##.ant-carousel
