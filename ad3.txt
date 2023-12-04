@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 3T1vRrKBAG20370CDHN2Xw
+! Checksum: 35+e/IJ4zdEkZc+MTiEEbQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202312041416
-! Last Modified: 2023年12月04日 14:16
+! Version: 202312042023
+! Last Modified: 2023年12月04日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2436,6 +2436,7 @@ newduba.cn###jq_youxi
 ||xn--gmq238c5fy.com^
 ||xn--9kq29i0tjy6b044actm.com^
 ||v34s6r.com^
+||hangzhouhdb.top^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -21136,6 +21137,7 @@ m.babytree.com##script + a[class]
 /analytics-ingestion/*
 /analytics-ingress-
 /analytics-js/*
+/analytics-library.js
 /analytics-minimal-v4.js
 /analytics-minimal.js
 /analytics-ping.js
@@ -21198,7 +21200,6 @@ m.babytree.com##script + a[class]
 /AnalyticsEvent.js
 /analyticsFooter.js
 /analyticsjs.js
-/analyticsjs/*
 /analyticsscript.ashx
 /analyticstrack.js
 /analyticstracking.js
@@ -21243,8 +21244,8 @@ m.babytree.com##script + a[class]
 /AppMeasurement.js
 /AppMeasurement.min.js
 /AppMeasurement2.js
-/AppMeasurement_Module_
-/AppMeasurementCustom.
+/AppMeasurement_Module_ActivityMap.min.js
+/AppMeasurementCustom.min.js
 /aptrk.js
 /ard.png?
 /aria-web-telemetry-
@@ -21266,7 +21267,6 @@ m.babytree.com##script + a[class]
 /at.gif?
 /atapixel.js
 /atatus.js
-/athena/tracking/*
 /atrk.gif?
 /atrk.js
 /audience-extraction.js
@@ -21534,7 +21534,6 @@ m.babytree.com##script + a[class]
 /common/analytics.js
 /common/ga.js
 /common/tracker.js
-/compile/AppMeasurement.
 /comscore-min.js
 /comscore?
 /comscore_beacon/*
@@ -21577,7 +21576,7 @@ m.babytree.com##script + a[class]
 /counter.pl?
 /counter/acnt.php?
 /counter/collect?
-/counter/stat.
+/counter/stat.php
 /counter/views/*
 /counter1.gif?
 /counter2.gif?
@@ -21599,9 +21598,7 @@ m.babytree.com##script + a[class]
 /CreateAnalytics.js
 /CreateCookieSSO_
 /criteo.$domain=~criteo.blotout.io|~criteo.github.io|~criteo.investorroom.com
-/Criteo/*
-/criteo_
-/criteoRTA.
+/criteoRTA.js
 /crypta.js
 /csi?v=*&action=
 /csi?v=2&s=
@@ -22296,6 +22293,7 @@ m.babytree.com##script + a[class]
 /lunametrics-
 /m.gif?
 /madAnalytics.js
+/magento-storefront-event-collector@
 /magento/page-visit?
 /magento2.js
 /magpie.js
@@ -22868,7 +22866,6 @@ m.babytree.com##script + a[class]
 /setTDUID.do?
 /sfCounter/*
 /sgtracker.js
-/shareCounts.
 /shared/sentry/*
 /sherlock.gif?
 /shinystat.cgi
@@ -22880,19 +22877,14 @@ m.babytree.com##script + a[class]
 /showcounter.$domain=~showcounter.com
 /showhits.php?
 /shreddit/perfMetrics
-/si-tracking.
-/sidtracker.
-/sikcomscore_
-/silveregg_cookie?
-/silveregg_tracking.
+/silveregg/js/cookie_lib.js
 /simple_reach.js
 /simtracker.min.js
-/siq-analytics.
 /site_counter?
-/site_statistics.
-/site_stats.
+/site_statistics.js
+/site_stats.js
 /site_stats/*
-/site_tracking.
+/site_tracking.js
 /siteAnalytics-
 /siteanalytics_
 /sitecatalist.js
@@ -22906,15 +22898,11 @@ m.babytree.com##script + a[class]
 /sitestats.gif?
 /sitetrek.js
 /sizes.gif?*=
-/skstats-
-/skstats_
-/skype-analytics.
-/slimstat/*
+/skype-analytics.js
 /sluurpy_track.js
-/smart-pixel.min.
+/smart-pixel.min.js
 /smartpixel-1.js
 /smartpixel.$domain=~smartpixel.com|~smartpixel.tv
-/smartrack/*
 /smartserve-
 /smarttag-prod.
 /smartTag.bundle.
@@ -22934,12 +22922,11 @@ m.babytree.com##script + a[class]
 /socialtracking.min.js
 /softclick.js
 /solarcode.js
-/sometrics/*
 /somni.js
 /somtag/loader/*
 /somtag/logs/*
 /sophus.js
-/sophus3/*
+/sophus3/logging.js
 /sophus3_logging.js
 /sp-2.0.0.min.js
 /sp_analytics.js
@@ -23088,6 +23075,7 @@ m.babytree.com##script + a[class]
 /stp.gif?
 /stracking.js
 /sTrackStats.
+/sTrackStats.js
 /strak.php?t=
 /stream/log.html?
 /streamsense.min.js
@@ -31188,6 +31176,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lycos.com/hb.js
 ||m.stripe.com^$third-party,domain=~stripe.network
 ||ma.logsss.com^
+||magento-recs-sdk.adobe.net^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
 ||mail.ru/dstat?
@@ -32458,6 +32447,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dr3fr5q4g2ul9.cloudfront.net^
 ||drlimmode9ddd.cloudfront.net^
 ||dsbahmgppc0j4.cloudfront.net^
+||dtxtngytz5im1.cloudfront.net^
 ||dtym7iokkjlif.cloudfront.net/dough/
 ||du4rq1xqh3i1k.cloudfront.net^
 ||du8783wkf05yr.cloudfront.net^
