@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XBaDtR8apqdev3YRMbir2g
+! Checksum: Wdb2ojQDhgd2jOLNAowKLA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202312090215
-! Last Modified: 2023年12月09日 02:15
+! Version: 202312090855
+! Last Modified: 2023年12月09日 08:55
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2126,6 +2126,7 @@ newduba.cn###jq_youxi
 ||7ry30.xyz^
 ||888bb666cc.com^
 ||888cool.cn^
+||88dml.top^
 ||88lajs3.com^
 ||88lajs4.com^
 ||88lajs6.com^
@@ -2231,6 +2232,7 @@ newduba.cn###jq_youxi
 ||clcmdie.com^
 ||cmdcdacq.xyz^
 ||cmiega.top^
+||cnqaaa.xyz^
 ||cnrdlpk.xyz^
 ||cntc8.icu^
 ||cojvur.icu^
@@ -2281,6 +2283,7 @@ newduba.cn###jq_youxi
 ||e3inu.space^
 ||eapect.icu^
 ||ebmlsvw.cn^
+||ebpex.space^
 ||eejwvwoo.xyz^
 ||egadfe.xyz^
 ||eglizqf.cn^
@@ -2316,11 +2319,13 @@ newduba.cn###jq_youxi
 ||fgcxdr.cn^
 ||fgttbz.xyz^
 ||fguhyg.cn^
+||fherunm.cn^
 ||fifqjp.xyz^
 ||fjxstt.xyz^
 ||fkjsjwbs.xyz^
 ||fluhmmr.cn^
 ||fmvbyji.cn^
+||fmzifaqi.xyz^
 ||foizico.cn^
 ||fortxfq.cn^
 ||fotaxf.xyz^
@@ -2406,6 +2411,7 @@ newduba.cn###jq_youxi
 ||hcgbhq.com^
 ||hchuviq.cn^
 ||hcqumrjbx.xyz^
+||hdbppx.xyz^
 ||hfjhr.cn^
 ||hfresgtyytjncvvh.com^
 ||hfwld.cn^
@@ -2518,6 +2524,7 @@ newduba.cn###jq_youxi
 ||ksrgsc.xyz^
 ||ktvtxir.xyz^
 ||kvhee.com^
+||kvhtsvy.xyz^
 ||kvskknklssv.com^
 ||kvsvug.xyz^
 ||kwtgntyu.xyz^
@@ -2548,6 +2555,7 @@ newduba.cn###jq_youxi
 ||lnxpdj.xyz^
 ||lovespenhas.com^
 ||lryqef.xyz^
+||lsce.top^
 ||lutrbr.xyz^
 ||lvnlrmn.xyz^
 ||lvzkfcm.cn^
@@ -2587,6 +2595,7 @@ newduba.cn###jq_youxi
 ||mrs30w.com^
 ||mrthav.xyz^
 ||mryqtym.cn^
+||murdyq.com^
 ||muycpg.xyz^
 ||muyxmmz.cn^
 ||mvng.cn^
@@ -2642,6 +2651,7 @@ newduba.cn###jq_youxi
 ||ovfvkfc.xyz^
 ||owkmmo.xyz^
 ||oxrvfsi.xyz^
+||ozolei.xyz^
 ||p5kzev.com^
 ||pajhvd.xyz^
 ||pdngnx.xyz^
@@ -2769,6 +2779,7 @@ newduba.cn###jq_youxi
 ||tongjiniao.com^
 ||toyhyhv.icu^
 ||tozwrqnq.xyz^
+||tpzatf.xyz^
 ||tqrznqs.cn^
 ||trdmtx.xyz^
 ||trrmkzesvyqrary.com^
@@ -2788,6 +2799,7 @@ newduba.cn###jq_youxi
 ||uhjxitn.xyz^
 ||uidwyx.icu^
 ||uiszwh.icu^
+||uito.top^
 ||ukjwyv.icu^
 ||ulrvkee.xyz^
 ||uncs7.top^
@@ -2801,6 +2813,7 @@ newduba.cn###jq_youxi
 ||uzrxoxd.xyz^
 ||v34s6r.com^
 ||vainews.cn^
+||valerieavisnba.com^
 ||valerieurania.com^
 ||vbzrkme.xyz^
 ||vdggsd001.com^
@@ -2822,6 +2835,7 @@ newduba.cn###jq_youxi
 ||vdggsd017.com^
 ||vgjaxnuw.xyz^
 ||vhhxnb.xyz^
+||vhotcvp.xyz^
 ||virginiasibyl.com^
 ||vivienjumpe.com^
 ||vixajghi.xyz^
@@ -2854,12 +2868,14 @@ newduba.cn###jq_youxi
 ||wutsldsk.xyz^
 ||wuyaw.cn^
 ||wvtem.com^
+||wwhsxwow.xyz^
 ||wwwww.asia^
 ||wwxufo.com^
 ||wyiegt.icu^
 ||wymzwy.cn^
 ||wyoaij.icu^
 ||wyohm.xyz^
+||wzzlnld.xyz^
 ||x2y22.fun^
 ||xcholvbc.xyz^
 ||xcqbbcqpl.xyz^
@@ -2897,6 +2913,7 @@ newduba.cn###jq_youxi
 ||ycgkol.icu^
 ||ycmgeb.icu^
 ||yddbysa.xyz^
+||ydv7k.cyou^
 ||yepgdita.xyz^
 ||ygfgzmzo.xyz^
 ||yhlzadr.xyz^
@@ -2911,6 +2928,7 @@ newduba.cn###jq_youxi
 ||yshlor.icu^
 ||ysxt9.com^
 ||ytezym.xyz^
+||ytlcz.cn^
 ||yuanxiaa.cn^
 ||yuanxiab.cn^
 ||yutiqf.icu^
@@ -2935,26 +2953,16 @@ newduba.cn###jq_youxi
 ||znwzcmd.cn^
 ||zpvfsrb.xyz^
 ||zpvuugw.cn^
+||zpzlbv.xyz^
 ||zuugfj.cn^
 ||zys13.top^
 ||zys15.top^
 ||zys16.top^
 ||zyzo.cn^
+||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||uito.top^
-||ydv7k.cyou^
-||wwhsxwow.xyz^
-||cnqaaa.xyz^
-||hdbppx.xyz^
-||murdyq.com^
-||wzzlnld.xyz^
-||kvhtsvy.xyz^
-||zpzlbv.xyz^
-||ytlcz.cn^
-||lsce.top^
-||88dml.top^
-||valerieavisnba.com^
+||wnllmyw.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -10303,10 +10311,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||smqzj.com/seo.js
 ||smuc.cnnfootballclub.com^
 ||smzy.com/v1/img/
-||so.com^*baike/ads?
 ||so.com/index/advertise
 ||so.com/recomm/simi?
 ||so.com/resource/js/mod/detail/business.
+||so.com^*baike/ads?
 ||so.open.163.com/v/list.htm?pid=
 ||soaspx.com/images/hws.gif
 ||soaspx.com/images/iiszj.gif
