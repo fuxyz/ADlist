@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: lZ7fy58xnSLSqkpbo3yneQ
+! Checksum: OylWelWAFhLYfMfLEmvHsQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202312261415
-! Last Modified: 2023年12月26日 14:15
+! Version: 202312262021
+! Last Modified: 2023年12月26日 20:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -64000,6 +64000,7 @@ ehitavada.com##div[class^="ad_space_"]
 greatandhra.com##div[class^="add"]
 ndtv.com##div[class^="add_"]
 india.com,ntdeals.net,psdeals.net,xbdeals.net##div[class^="ads-"]
+dnaindia.com##div[class^="ads-box"]
 stakingrewards.com##div[class^="assetFilters_desktop-banner_"]
 releasestv.com##div[class^="astra-advanced-hook-"]
 onlineradiobox.com##div[class^="banner-"]
@@ -69233,6 +69234,11 @@ newduba.cn###jq_youxi
 ||maxucc77.top^
 ||zu2.top^
 ||biiepofl.xyz^
+||xiiepofl.xyz^
+||055g.com^
+||lkenflknkd.com^
+||iossdok.com^
+||tiiepofl.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
