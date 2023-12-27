@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: v2eJEWAK6XIIVwPjAqSuHw
+! Checksum: g1hVzRMUSMAtm7m/y0x9uw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202312270214
-! Last Modified: 2023年12月27日 02:14
+! Version: 202312270854
+! Last Modified: 2023年12月27日 08:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2785,6 +2785,13 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||dfg6.top^
+||dbpxivi.xyz^
+||1sk27.fun^
+||koqsxdpx.xyz^
+||jkbdpp.xyz^
+||wqnwdjjc.xyz^
+||uuuzuu.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -24623,6 +24630,7 @@ omni.soundestlink.com$image
 ||tncid.app^
 ||track-selectmedia.com^
 ||trackclicks.info^
+||tracking24.net^
 ||transmapp.com^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -33340,6 +33348,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beaconcdn.qq.com^
 ||bokecc.com/flash/playlog?
 ||bokecc.com/flash/timerecorder?
+||busuanzi.ibruce.info^$third-party
 ||bzclk.baidu.com^
 ||c.holmesmind.com^
 ||cbsi.com.cn/js/dw.js
