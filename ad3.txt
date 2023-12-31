@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KzObcAmYVMWEJUzeP+U8Pw
+! Checksum: b5TLVeYrC2SUB7LBwi25ew
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202312311414
-! Last Modified: 2023年12月31日 14:14
+! Version: 202312312021
+! Last Modified: 2023年12月31日 20:21
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2869,6 +2869,8 @@ newduba.cn###jq_youxi
 ||fyexyd.icu^
 ||uydzfldt.xyz^
 ||bydzfldt.xyz^
+||xydzfldt.xyz^
+||tydzfldt.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -30766,6 +30768,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||beacon2.indieclick.com^
 ||beacons.mediamelon.com^
 ||beam.mjhlifesciences.com^
+||beamanalytics.b-cdn.net^
 ||bee.tc.easebar.com^
 ||behavior.tongdun.net^
 ||bento.agoda.com^
@@ -30819,6 +30822,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cache2.delvenetworks.com^
 ||cahf4eed.mooo.com^
 ||californiatimes.com/privacy/$image
+||calltrack.co^
 ||calltrk.com/companies/
 ||camel.headfarming.com^
 ||canada.com/js/analytics/
@@ -31703,6 +31707,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs-api.shoprunner.com^
 ||logs.animaapp.com^
 ||logs.datadoghq.com^$third-party
+||logs.mezmo.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.viadata.store^
