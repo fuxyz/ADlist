@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 9FX4TWwrCx+ymv/aKtdfmQ
+! Checksum: 6jhJWNyyyaNjJD2BjrYCCg
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202401092023
-! Last Modified: 2024年01月09日 20:23
+! Version: 202401100212
+! Last Modified: 2024年01月10日 02:12
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -2190,6 +2190,7 @@ newduba.cn###jq_youxi
 ||abe1.cn^
 ||acemof.top^
 ||actrqdr.cn^
+||adtx2.cn^
 ||aerbgpn.xyz^
 ||aflsj.com^
 ||agossuoeach.com^
@@ -2261,6 +2262,7 @@ newduba.cn###jq_youxi
 ||bflybplr.xyz^
 ||bgbqfqwi.xyz^
 ||bgdgpbpm.xyz^
+||bhhzlax.xyz^
 ||bhiagi.xyz^
 ||bhktalt.cn^
 ||bhlntz.xyz^
@@ -2308,6 +2310,7 @@ newduba.cn###jq_youxi
 ||bydcxdy.cn^
 ||bydzfldt.xyz^
 ||bzbopfh.cn^
+||bzelzfnj.xyz^
 ||bznizrhd.xyz^
 ||bzvhgbr.xyz^
 ||c1d8i3p6.com^
@@ -2611,6 +2614,7 @@ newduba.cn###jq_youxi
 ||ielgag.top^
 ||iephrenhq.com^
 ||igkgag.xyz^
+||iincon.icu^
 ||iiwoqm.xyz^
 ||ikmhndd.com^
 ||iknhgj.com^
@@ -2665,6 +2669,7 @@ newduba.cn###jq_youxi
 ||jqvajfvs.xyz^
 ||jspqhh.xyz^
 ||jubbkon.top^
+||judthih.cn^
 ||jueyds.top^
 ||juhooqv.cn^
 ||julefhgu.xyz^
@@ -2741,6 +2746,7 @@ newduba.cn###jq_youxi
 ||kydzfldt.xyz^
 ||kyikdee.cn^
 ||kyjwtxei.xyz^
+||kzelzfnj.xyz^
 ||kznizrhd.xyz^
 ||kzprugp.xyz^
 ||l404k.com^$script
@@ -2764,6 +2770,7 @@ newduba.cn###jq_youxi
 ||liujiahao6.cn^
 ||liuyi22.cn^
 ||liuyuhuaa.cn^
+||ljhbhy.cn^
 ||lkdybkwi.xyz^
 ||lkenflknkd.com^
 ||lkoqtvvajktpjsk.xyz^
@@ -2866,6 +2873,7 @@ newduba.cn###jq_youxi
 ||mycxhgrp.xyz^
 ||mydzfldt.xyz^
 ||myyxox.icu^
+||mzelzfnj.xyz^
 ||mznizrhd.xyz^
 ||mzthbna.xyz^
 ||n019q.com^
@@ -3065,6 +3073,7 @@ newduba.cn###jq_youxi
 ||sdkjnbjksbnkjs.com^
 ||sdklcnskvbks.com^
 ||sdxzqec.xyz^
+||segoyg.xyz^
 ||serda10.icu^
 ||seutop.icu^
 ||sfqyck.xyz^
@@ -3097,6 +3106,7 @@ newduba.cn###jq_youxi
 ||syjkscy.cn^
 ||szbpf.cn^
 ||szbxm.cn^
+||szmdp.cn^
 ||szmkr.cn^
 ||szmtd.cn^
 ||szmty.cn^
@@ -3104,6 +3114,7 @@ newduba.cn###jq_youxi
 ||tae0t.site^
 ||tafuzcxr.xyz^
 ||tatyboy.top^
+||tbdwtn.xyz^
 ||tc8ji.website^
 ||tcgaqh.icu^
 ||tcvmtp.xyz^
@@ -3163,6 +3174,7 @@ newduba.cn###jq_youxi
 ||tycxhgrp.xyz^
 ||tydzfldt.xyz^
 ||tyuetxt.com^
+||tzelzfnj.xyz^
 ||tznizrhd.xyz^
 ||uafuzcxr.xyz^
 ||uahozcfq.xyz^
@@ -3181,6 +3193,7 @@ newduba.cn###jq_youxi
 ||ugvbsrbht.xyz^
 ||ugwxwy.xyz^
 ||uhjxitn.xyz^
+||ui8l2.xyz^
 ||uidwyx.icu^
 ||uiiepofl.xyz^
 ||uiszwh.icu^
@@ -3218,6 +3231,7 @@ newduba.cn###jq_youxi
 ||uwfxvvm.cn^
 ||uycxhgrp.xyz^
 ||uydzfldt.xyz^
+||uzelzfnj.xyz^
 ||uznizrhd.xyz^
 ||uzrxoxd.xyz^
 ||v34s6r.com^
@@ -3367,6 +3381,7 @@ newduba.cn###jq_youxi
 ||xydslz.xyz^
 ||xydzfldt.xyz^
 ||xyryjt.xyz^
+||xzelzfnj.xyz^
 ||xznizrhd.xyz^
 ||xzvahr.xyz^
 ||xzxforn.xyz^
@@ -3442,20 +3457,6 @@ newduba.cn###jq_youxi
 ||zzbmxl.xyz^
 ||zzyy17.top^
 ||zzyy18.top^
-||tbdwtn.xyz^
-||judthih.cn^
-||kzelzfnj.xyz^
-||bhhzlax.xyz^
-||iincon.icu^
-||segoyg.xyz^
-||ui8l2.xyz^
-||uzelzfnj.xyz^
-||bzelzfnj.xyz^
-||szmdp.cn^
-||xzelzfnj.xyz^
-||tzelzfnj.xyz^
-||ljhbhy.cn^
-||adtx2.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
