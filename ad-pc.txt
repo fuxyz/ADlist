@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: W2HP+THkDEqeBEVqVe02vQ
+! Checksum: 4io48V0viRe8UAaZ/xGrhQ
 ! Title: My AdFilters（for PC）
 ! Expires: 12 hours
-! Version: 202401150859
-! Last Modified: 2024年01月15日 08:59
+! Version: 202401152023
+! Last Modified: 2024年01月15日 20:23
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -18826,6 +18826,7 @@ job.inshokuten.com#@#.ad-title
 lifeinvader.com,marginalreport.net,spanishdict.com,studentski-servis.com#@#.ad-wrapper
 xda-developers.com#@#.ad-zone
 xda-developers.com#@#.ad-zone-container
+wordparts.ru#@#.ad336
 leffatykki.com#@#.ad728x90
 cw.com.tw#@#.adActive
 thoughtcatalog.com#@#.adChoicesLogo
@@ -43759,6 +43760,7 @@ browsershots.org#@#.advert_area
 ||servinghandy.com^
 ||servingserved.com^
 ||servtraff97.com^
+||servw.bid^
 ||sesabercuacroo.xyz^
 ||sesameebookspeedy.com^
 ||sesamefiddlesticks.com^
@@ -70465,6 +70467,8 @@ newduba.cn###jq_youxi
 ||uyulwc.xyz^
 ||dafdfd.cn^
 ||2024114t.shop^
+||u2tu4.icu^
+||rvbiocn.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -86296,8 +86300,6 @@ colamanga.com#@#.gg_950
 qq.com#@#.adsbox
 qq.com#@#.side_ad
 ##.txp_ad_center
-||*^sdtfrom=^$media,rewrite=abp-resource:blank-mp3,domain=qq.com
-||lts*.qq.com^*.ts?index=$media,rewrite=abp-resource:blank-mp3,domain=qq.com
 !#Rewrite filters
 !#Sejie.com
 173.192.147.21,sejie.com,sejie3.us,thesoccerline.com###wp > br
@@ -92952,6 +92954,7 @@ omni.soundestlink.com$image
 ||bikesboard.com^
 ||billowybead.com^
 ||billowybelief.com^
+||birthdaybelief.com^
 ||bitterbear.com^
 ||blackbrake.com^
 ||bleachbubble.com^
@@ -93854,6 +93857,7 @@ omni.soundestlink.com$image
 ||piquantstove.com^
 ||pizzasnut.com^
 ||placeframe.com^
+||placidactivity.com^
 ||placidperson.com^
 ||plainplayground.com^
 ||plainrequest.com^
@@ -94084,6 +94088,7 @@ omni.soundestlink.com$image
 ||screechingslip.com^
 ||screechingstocking.com^
 ||screechingstove.com^
+||scribbleson.com^
 ||scribblestring.com^
 ||scrollservice.com^
 ||scrubswim.com^
@@ -94182,6 +94187,7 @@ omni.soundestlink.com$image
 ||smoggysnakes.com^
 ||smoggysongs.com^
 ||smoggystation.com^
+||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
 ||snakeslang.com^
