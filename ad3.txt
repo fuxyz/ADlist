@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: GnpjvbU15BBY2Mvzzuz9CA
+! Checksum: 0gj+Dq+KG7v/88mFsrgUsw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202401190858
-! Last Modified: 2024年01月19日 08:58
+! Version: 202401191416
+! Last Modified: 2024年01月19日 14:16
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3144,6 +3144,9 @@ newduba.cn###jq_youxi
 ||bxnxdlb.xyz^
 ||1821z.website^
 ||sukneyu.com^
+||l7ghj.xyz^
+||xwlnhw.com^
+||stbwhln.cn^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -19101,6 +19104,7 @@ wnacg.com##script + div > a > img
 ||hdsrc-a.akamaihd.net^
 !----------------------Fixed Fanboy's Social Blocking List--------------------!
 eastday.com#@##leftShare
+weibo.com#@#.retweet
 189.cn#@##linkShare
 gfan.com,gfan.net.cn#@##shareBox
 189.cn,zdzdm.com#@##share_list
@@ -27899,11 +27903,11 @@ omni.soundestlink.com$image
 ||arithmeticadjustment.com^
 ||arizonapuzzle.com^
 ||aromamirror.com^
+||arrivegrowth.com^
 ||aspiringapples.com^
 ||aspiringattempt.com^
 ||astonishingair.com^
 ||astonishingfood.com^
-||attractionapples.com^
 ||attractionbanana.com^
 ||attractiveafternoon.com^
 ||attractivecap.com^
@@ -28352,7 +28356,6 @@ omni.soundestlink.com$image
 ||erraticreaction.com^
 ||etherealripple.com^
 ||evaluateend.com^
-||evaluatestream.com^
 ||evanescentedge.com^
 ||eventexistence.com^
 ||exampleshake.com^
@@ -28413,7 +28416,6 @@ omni.soundestlink.com$image
 ||flameuncle.com^
 ||flimsycircle.com^
 ||flimsythought.com^
-||flockflame.com^
 ||floodprincipal.com^
 ||flowersornament.com^
 ||flowerstreatment.com^
@@ -28575,6 +28577,7 @@ omni.soundestlink.com$image
 ||hosenews.com^
 ||hospitablehall.com^
 ||hospitablehat.com^
+||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
 ||hurtgrape.com^
@@ -29197,7 +29200,6 @@ omni.soundestlink.com$image
 ||smoggysnakes.com^
 ||smoggysongs.com^
 ||smoggystation.com^
-||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
 ||snakeslang.com^
