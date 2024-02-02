@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: iJjbhlQnmpq4DRj0FAUJOQ
+! Checksum: hR86F1UaH1Df/MmUS/ii9Q
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402020214
-! Last Modified: 2024年02月02日 02:14
+! Version: 202402020854
+! Last Modified: 2024年02月02日 08:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3328,6 +3328,11 @@ newduba.cn###jq_youxi
 ||zzyy17.top^
 ||zzyy18.top^
 ||zzyy19.top^
+||wdakda.cn^
+||h7h35.space^
+||kjjjusb.xyz^
+||ytcxflak.xyz^
+||zvnjvd.xyz^
 ||zzyy20.top^
 ##[style*="sotv.me"]
 ##a[href$="/1c626.com"]
@@ -30414,6 +30419,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics-sg.tiktok.com^
 ||analytics-static.ugc.bazaarvoice.com^
 ||analytics.30m.com^
+||analytics.adobe.io^
 ||analytics.agoda.com^
 ||analytics.aimtell.com^
 ||analytics.algolia.com^
@@ -35533,6 +35539,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||content22.citi.eu^$script
 ||content22.citibank.com.au^
 ||content22.citibank.com.sg^$script
+||content22.citibankonline.com^
 ||content22.online.citi.com^
 ||customer.homedepot.com^$script
 ||drfdisvc.walmart.com^
