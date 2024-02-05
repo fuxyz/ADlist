@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: cth50zFwY602IByr3vTaGQ
+! Checksum: uVrNo61qyizC/YERreAWcQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402050215
-! Last Modified: 2024年02月05日 02:15
+! Version: 202402051415
+! Last Modified: 2024年02月05日 14:15
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -3379,6 +3379,16 @@ newduba.cn###jq_youxi
 ||zzlong14.cn^
 ||zzyy17.top^
 ||zzyy18.top^
+||pztjlr.xyz^
+||ylrjnhxi.xyz^
+||bd9wv.icu^
+||audgiqb.cn^
+||zlvlciv.xyz^
+||m7i1k.fun^
+||amuguu.xyz^
+||yyyaih.icu^
+||auerkbo.cn^
+||clrjnhxi.xyz^
 ||zzyy19.top^
 ||zzyy20.top^
 ##[style*="sotv.me"]
@@ -32705,7 +32715,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d3mapax0c3izpi.cloudfront.net/lib/ajax/events.js
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
-||d3nn82uaxijpm6.cloudfront.net^$script
+||d3nn82uaxijpm6.cloudfront.net/8f96b1247cf4359f8fec.js
 ||d3pi0tys5sdysl.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3qxef4rp70elm.cloudfront.net/m.js
@@ -63748,6 +63758,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||affilate.hh.ru^
 ||agroserver.ru/ct/
 ||analytics.carambatv.ru^
+||api.litres.ru/tracker/
 ||auto.ru/-/ajax/$~xmlhttprequest
 ||auto.ru/cookiesync/
 ||avito.ru/stat/
