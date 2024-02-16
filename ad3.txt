@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: e8gEnttygRFeIYBgvpP/IQ
+! Checksum: Tj4xb/FNl2G10hydR4Q1uw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402160215
-! Last Modified: 2024年02月16日 02:15
+! Version: 202402160853
+! Last Modified: 2024年02月16日 08:53
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1674,6 +1674,14 @@ newduba.cn###jq_youxi
 ||ycqbgm.xyz^
 ||yliffnsc.xyz^
 ||ztxjutz.xyz^
+||js131.cn^
+||ydfhidrk.xyz^
+||kbomku.xyz^
+||lfffzv.xyz^
+||uctutu3789.xyz^
+||gvbta.icu^
+||qlbbowx.xyz^
+||yyddkm526.shop^
 ##[style*="sotv.me"]
 ##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
@@ -24152,6 +24160,7 @@ omni.soundestlink.com$image
 ||altopd.com^
 ||analys.live^
 ||analysis.fi^
+||analyt.ir^
 ||anonstat.pw^
 ||apeagle.io^
 ||apenterprise.io^
@@ -27230,7 +27239,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ppcprotect.com^$third-party
 ||push4site.com^$third-party
 ||ravelin.net^$third-party
-||sabavision.com^$third-party
 ||simility.com^$third-party
 ||spideraf.com^$third-party
 !-----------------International third-party tracking domains-----------------!
@@ -29054,7 +29062,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||flashstats.libsyn.com^
 ||flex.msn.com/mstag/
 ||flipp.com/beacons
-||flippback.com/m/config
 ||flix360.com/beat?
 ||flixcar.com/*/tracking/
 ||flixcar.com/gvid
@@ -68392,6 +68399,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||stats.proff.no^
 ||tdep.hema.nl/main.js
 ||vg.no/stats/
+||abadis.ir/ajaxcmd/setvisit/
+||abadis.ir/ajaxcmd/stat/
+||aparat.com/gogol/
+||namnak.com/act/stats.json
+||namnak.com/ga.js
 |http://x.o2.pl^
 ||analytics.gazeta.pl^
 ||collect.state.centrum24.pl^
