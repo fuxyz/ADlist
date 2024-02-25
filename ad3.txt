@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: SYuRUeb+//9/c/T5//re5g
+! Checksum: k58RmTc/Y/Fe1CgeUaHAHg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402250213
-! Last Modified: 2024年02月25日 02:13
+! Version: 202402250857
+! Last Modified: 2024年02月25日 08:57
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1792,6 +1792,11 @@ newduba.cn###jq_youxi
 ||zopuqv.icu^
 ||ztxjutz.xyz^
 ||zuvbzl.xyz^
+||dzuht.cn^
+||bvxiht.xyz^
+||hexcvb.xyz^
+||efmtsw.xyz^
+||b37r5.cyou^
 ##[style*="sotv.me"]
 ##a[href$="/lm2p2.com"]
 ##a[href$="/lm39h.com"]
@@ -32018,6 +32023,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amethyst.zappos.com^
 ||amiunique.org/analytics.js
 ||amnesty.org/collect/
+||ampltd.medal.tv^
 ||ampltd.top.gg^
 ||ampltd2.medal.tv^
 ||analytics-api.dvdfab.
@@ -32592,6 +32598,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jumbo.zomato.com^
 ||juno.com/start/javascript.do?message=
 ||justanswer.com/jatag/
+||justdial.com/jd-trkr
 ||kaggle.com/api/i/diagnostics.MetricsService
 ||kansascity.com/nyb-zsooli/
 ||kayak.*/vestigo/measure
@@ -32681,6 +32688,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mcs-va.tiktokv.com^
 ||mcs.tiktokv.us^
 ||mcs.us.tiktokv.com^
+||medal.tv^$ping
 ||medium.com/_/batch
 ||meduza.io/stat/
 ||megaplay.cc/cdn-cgi/trace
@@ -69199,11 +69207,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !! cxense.com/document/search?
 @@||cxense.com/document/search?
 !! cxense.com/public/widget/
-@@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|inquirer.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|wsj.com
+@@||cxense.com/public/widget/$domain=bizjournals.com|businessinsider.de|computerbild.de|cxpublic.com|cyclestyle.net|friday.gold|friday.kodansha.co.jp|handelsblatt.com|inquirer.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tn.com.ar|tvnet.lv|wsj.com
 !! cxense.com/cx.cce.js
-@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|inquirer.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|wpb.shueisha.co.jp|wsj.com
+@@||cxense.com/cx.cce.js$domain=bizjournals.com|businessinsider.de|cxpublic.com|handelsblatt.com|inquirer.com|mainichi.jp|marketwatch.com|tarzanweb.jp|tn.com.ar|tvnet.lv|wpb.shueisha.co.jp|wsj.com
 !! cxense.com/cx.js
-@@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|inquirer.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|wsj.com
+@@||cxense.com/cx.js$domain=13.cl|bizjournals.com|businessinsider.de|computerbild.de|cyclestyle.net|handelsblatt.com|inquirer.com|ksml.fi|mainichi.jp|marketwatch.com|nippon.com|savonsanomat.fi|shueisha.co.jp|tarzanweb.jp|tn.com.ar|tv-tokyo.co.jp|tvnet.lv|wsj.com
 !! collector.appconsent.io
 @@||collector.appconsent.io/hello$domain=lachainemeteo.com|lefigaro.fr
 !! imrworldwide.com/*ggc
