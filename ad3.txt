@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: nohNmFY+kZ7Eoie6FmF72w
+! Checksum: V7SrbKjqmKzZOICnj4DMhg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202402251414
-! Last Modified: 2024年02月25日 14:14
+! Version: 202402252019
+! Last Modified: 2024年02月25日 20:19
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -8340,7 +8340,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||fdc.com.cn^*adv
 ||fdc.my0511.com^$script
 ||feesoon.com/js/cnzz_
-||feijisu5.com/js/huimi-
+||feijisu*.com/js/huimi-
 ||feizl.com/images/smdd/
 ||fenxiangdashi.com/img/banner/
 ||fenxiangdashi.com/Res/js/detail_
@@ -10855,6 +10855,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||zzzyk.com/js/
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
+minepay.top##.sponsors-container
 szxx.com.cn###A1
 szxx.com.cn###A2
 yahoo.com###ACT_crazy
@@ -67824,7 +67825,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analytics.allovoisins.com^
 ||analytics.clubic.com^
 ||api.odysee.com/locale/get
-||api.ouedkniss.com/health/
 ||api.ouedkniss.com^*&xTrackId=
 ||api.tacotax.fr/v2/amplitude_trackers
 ||batiactu.com/cap_
