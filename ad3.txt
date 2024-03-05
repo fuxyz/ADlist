@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: g2IchTTbNY4Km4tzfnB1Mg
+! Checksum: qD8mG9NZgl5wkn89oW1UKA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202403052021
-! Last Modified: 2024年03月05日 20:21
+! Version: 202403060214
+! Last Modified: 2024年03月06日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1670,6 +1670,7 @@ newduba.cn###jq_youxi
 ||2jse6.icu^
 ||3bxe2.cyou^
 ||51hir.cyou^
+||5z0d3.cyou^
 ||7vviw.cyou^
 ||88lm05.com^
 ||88lm06.com^
@@ -1689,7 +1690,9 @@ newduba.cn###jq_youxi
 ||bdtdat652.shop^
 ||bdxpdz.xyz^
 ||benpsbp.com^
+||bijiangqing.com^
 ||bjswhpy.cn^
+||blrupz.xyz^
 ||bmnbyn.icu^
 ||bmret.cn^
 ||bugzmn.icu^
@@ -1731,6 +1734,7 @@ newduba.cn###jq_youxi
 ||egywbps748.shop^
 ||egywbpu286.shop^
 ||ejdhmed.xyz^
+||eqqwgw.xyz^
 ||execuri.com^
 ||fefgvh.xyz^
 ||ferriesendless.com^
@@ -1754,9 +1758,11 @@ newduba.cn###jq_youxi
 ||hjshal.com^
 ||hmrwkcx.cn^
 ||hozatr.xyz^
+||hyusnisu.top^
 ||ijvla.cn^
 ||imevzbn.cn^
 ||ivbgpax.cn^
+||jgblvt.xyz^
 ||jgmywh.icu^
 ||jioed.cyou^
 ||jqpejp.xyz^
@@ -1776,6 +1782,7 @@ newduba.cn###jq_youxi
 ||mdhv3.icu^
 ||misjgy.xyz^
 ||mlhtr.cn^
+||mondigo.cn^
 ||mthhhuq.cn^
 ||mtwmuy.xyz^
 ||nddld.cn^
@@ -1799,6 +1806,7 @@ newduba.cn###jq_youxi
 ||pidzlp.xyz^
 ||pjzxdl.xyz^
 ||przbzr.xyz^
+||pwhtip.icu^
 ||qbhzghb.xyz^
 ||qhocciks.com^
 ||qlbbowx.xyz^
@@ -1811,6 +1819,7 @@ newduba.cn###jq_youxi
 ||riscil.com^
 ||rjhbjv.xyz^
 ||rktddv.xyz^
+||rlw86.cyou^
 ||rnkzhsi.cn^
 ||ruqwgb.icu^
 ||rydyvv.xyz^
@@ -1832,6 +1841,7 @@ newduba.cn###jq_youxi
 ||szmnk.cn^
 ||szmnl.cn^
 ||szmnm.cn^
+||szmpy.cn^
 ||szpnz.cn^
 ||szptp.cn^
 ||szpwh.cn^
@@ -1841,6 +1851,7 @@ newduba.cn###jq_youxi
 ||tdljuuw.xyz^
 ||tduenkq839.shop^
 ||tgccct.icu^
+||tjfbh.icu^
 ||tlfvj.cyou^
 ||tmjetb.xyz^
 ||tsrvrr.xyz^
@@ -1878,6 +1889,7 @@ newduba.cn###jq_youxi
 ||xvbjctqs.xyz^
 ||xvgrszkg.xyz^
 ||xvudqzoa.xyz^
+||ybrrvck.xyz^
 ||ycqbgm.xyz^
 ||yddjmpjo.xyz^
 ||ydfhidrk.xyz^
@@ -1892,18 +1904,6 @@ newduba.cn###jq_youxi
 ||yyddkm526.shop^
 ||zagyjnn.cn^
 ||zhaweifeng.com^
-||mondigo.cn^
-||eqqwgw.xyz^
-||pwhtip.icu^
-||blrupz.xyz^
-||ybrrvck.xyz^
-||rlw86.cyou^
-||jgblvt.xyz^
-||tjfbh.icu^
-||5z0d3.cyou^
-||bijiangqing.com^
-||szmpy.cn^
-||hyusnisu.top^
 ||zojyob.icu^
 ||zopuqv.icu^
 ||zsjpi.cn^
@@ -17280,17 +17280,17 @@ guailie.com#@#.google-ad
 17ce.com##a[href^="http"]:not([href*="17ce.com"]) img
 ||17ce.com^*_$image
 !#18comic.org
-/exads-adblock-$image
 18-comic.work,18comic.org,18comic.vip,jmcomic.me###guide-modal
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.div_sticky2
 18-comic.work,18comic.org,18comic.vip,jmcomic.me##.modal-backdrop
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
-18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
+/exads-adblock-$image
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+script)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>ins+style)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:-abp-has(>script+ins)
 18-comic.work,18comic.org,18comic.vip,jmcomic.me#?#:not(body):-abp-has(>script[src*=".realsrv.com"])
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > [style*="back"]
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img
+18-comic.work,18comic.org,18comic.vip,jmcomic.me##a[href*="//"]:not([href*="comic."]) > img + [style]
 ||18-comic.work/media/albums/*?$media
 ||18comic.*/media/albums/*?$media
 !#2
@@ -23269,6 +23269,7 @@ m.babytree.com##script + a[class]
 /scripts/clickjs.php
 /scripts/hbx.js
 /scripts/statistics/*
+/scripts/track_visit.php?
 /scripts/xiti/*
 /scroll-analytics-
 /scroll-track.js
@@ -23447,6 +23448,7 @@ m.babytree.com##script + a[class]
 /stats/add/*
 /stats/adonis_
 /stats/api/collect
+/stats/api/event
 /stats/article?
 /stats/bezoek_count.php
 /stats/collect/*
@@ -24452,6 +24454,7 @@ omni.soundestlink.com$image
 ||cntxtfl.com^
 ||confiant-integrations.net^
 ||convead.io^
+||conversationalsdevelopment.nl^
 ||convertlink.com^
 ||cpx.to^
 ||crwdcntrl.net^
@@ -24572,6 +24575,7 @@ omni.soundestlink.com$image
 ||ldgnrtn.com^
 ||ldnlyap.com^
 ||leadhit.io^
+||lemonpi.io^
 ||liveyield.com^
 ||lltrck.com^
 ||lmepbq.com^
@@ -28381,6 +28385,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||intrastats.com^$third-party
 ||mabaya.com^$third-party
 ||micodigo.com^$third-party
+||propelbon.com^$third-party
 ||protecmedia.com^$third-party
 ||socy.es^$third-party
 ||adsettings.com^$third-party
@@ -29887,6 +29892,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||o.aolcdn.com/js/mg1.js
 ||observer.ip-label.net^
 ||ocmail1.in/rtw/$image
+||oct8ne.com/Visitor/
 ||octaneai.com^*/utrk
 ||octopart-analytics.com^$third-party
 ||oda.markitondemand.com^
@@ -30958,6 +30964,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d3mskfhorhi2fb.cloudfront.net^
 ||d3n6i6eorggdxk.cloudfront.net^
 ||d3nn82uaxijpm6.cloudfront.net/8f96b1247cf4359f8fec.js
+||d3or5d0jdz94or.cloudfront.net^
 ||d3pi0tys5sdysl.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
 ||d3qxef4rp70elm.cloudfront.net/m.js
@@ -31533,6 +31540,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statistics.jfmedier.dk^
 ||trckr.nordiskemedier.dk^
 ||wee.dk/modules/$third-party
+||adcalls.nl^$third-party
 ||adult-trade.nl/lo/track.php
 ||analytics.belgacom.be^
 ||apm.tnet.nl^
@@ -32028,7 +32036,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||madrid.report.botm.transparentedge.io^
 ||mat.socy.es^
 ||mdstrm.com/js/lib/streammetrics.js
-||mtm.qdqmedia.com^
+||mtm.qdqmedia.com
 ||pub.servidoresge.com^
 ||recogerconsentimiento.com/consent/
 ||rt.cdnmedia.tv^
@@ -32745,6 +32753,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||juno.com/start/javascript.do?message=
 ||justanswer.com/jatag/
 ||justdial.com/jd-trkr
+||k.p-n.io/event-stream
 ||kaggle.com/api/i/diagnostics.MetricsService
 ||kansascity.com/nyb-zsooli/
 ||kayak.*/vestigo/measure
