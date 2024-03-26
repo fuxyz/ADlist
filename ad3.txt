@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 2Itcc2sSwC9ta/ZtJ6SVKQ
+! Checksum: gG5Z6paPMy/B482+X3GCXg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202403260215
-! Last Modified: 2024年03月26日 02:15
+! Version: 202403260854
+! Last Modified: 2024年03月26日 08:54
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2117,6 +2117,13 @@ newduba.cn###jq_youxi
 ||yvnxetmq.xyz^
 ||yvudqzoa.xyz^
 ||yyddkm526.shop^
+||ryrmvd.xyz^
+||uigxgg.xyz^
+||prhfziq.xyz^
+||taxoxz.xyz^
+||ivnrrkx.cn^
+||styusib.top^
+||elisium.cn^
 ||yyttmyy.cn^
 ||zagyjnn.cn^
 ||zailgrae.com^
@@ -28923,6 +28930,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.rewardstyle.com^
 ||collect.usefathom.com^
 ||collect.verify.lnearn.com^
+||collection.e-satisfaction.com^
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector-api.frspecifics.com^
@@ -29187,7 +29195,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eventlog.chatlead.com^
 ||eventlog.inspsearchapi.com^
 ||events.air.tv^
-||events.apester.com^
 ||events.attentivemobile.com^
 ||events.audiate.me^
 ||events.brightline.tv^
