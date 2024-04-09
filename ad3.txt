@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: o0i8b71Ggzm0OFBdrX00Rg
+! Checksum: ePBEGcGYUSlQi6BGcyp/kQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202404091415
-! Last Modified: 2024年04月09日 14:15
+! Version: 202404092022
+! Last Modified: 2024年04月09日 20:22
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -2290,6 +2290,8 @@ newduba.cn###jq_youxi
 ||kpmose.xyz^
 ||ievvo.xyz^
 ||rlxhbff.cn^
+||aoakss.com^
+||yddrqwq.xyz^
 ||zsjpi.cn^
 ||zttuvj.xyz^
 ||ztxjutz.xyz^
@@ -68756,6 +68758,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analyzer2.fc2.com^
 ||anyelse.com/stat^
 ||astat.nikkei.com^
+||astral.nicovideo.jp^
 ||barks.jp/v1/stats
 ||bc.nhk.jp^
 ||beacon.watch.impress.co.jp^
@@ -68811,6 +68814,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||nhk.or.jp^*/bc.js
 ||nicoad.nicovideo.jp/*/instream/tracking/
 ||nicolive.cdn.nimg.jp/relive/sp/browser-logs.
+||nicolive.cdn.nimg.jp/relive/sp/trackingService.
 ||nicovideo.jp/api/counter/
 ||nikkei.com/.resources/tracking/
 ||nvapi.nicovideo.jp/v1/bandit-machine/
