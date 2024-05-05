@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: F6LOErdZr1cTTVicYFP9UQ
+! Checksum: cYyENO9/DZcHI9h50cF1Xw
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202405052021
-! Last Modified: 2024年05月05日 20:21
+! Version: 202405060214
+! Last Modified: 2024年05月06日 02:14
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -30227,7 +30227,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.uptime.com^
 ||rumstat.cdnvideo.ru^
 ||run.app/data.log
-||run.app/events
 ||run.app/metrics/
 ||rw.marchex.io^
 ||s-microsoft.com/mscc/$~stylesheet
@@ -33018,6 +33017,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mktcs.cloudapps.cisco.com^
 ||mo8it.com/count.js
 ||modanisa.com/al/j/analytics.js
+||mollusk.apis.ign.com/metrics/
 ||mon.us.tiktokv.com^
 ||moneycontrol.com/news/services/get_comscore_pageview/
 ||monitor.channel4.com^
@@ -33253,7 +33253,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.condenastdigital.com^
 ||rum.kobo.com^
 ||rumble.com/l/
-||run.app/events$domain=imgur.com
+||run.app/events$domain=imgur.com|worldstar.com
 ||rv.modanisa.com^$script
 ||rvo-cohesion.healthline.com^
 ||s.gofile.io^
@@ -69196,6 +69196,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||g.delfi.lt/g.js
 ||lrytas.lt/counter/
 ||event-tracking.hellohealthgroup.com^
+||propertyguru.com.my/api/consumer/vast-media/impression?
 ||click.vgnett.no^
 ||data.nrk.no^
 ||nrk.no^*/stats/
