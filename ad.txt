@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: KXp5dqsxglPsJ0D8E5jHJQ
+! Checksum: v6HdiKUKYc2+C+9fLsXoJA
 ! Title: My AdFilters
 ! Expires: 12 hours
-! Version: 202405120215
-! Last Modified: 2024年05月12日 02:15
+! Version: 202405120901
+! Last Modified: 2024年05月12日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 并补充了贴吧过滤规则，感谢各位前辈的分享！
@@ -3031,6 +3031,13 @@ newduba.cn###jq_youxi
 ||adlhxwb.xyz^
 ||6b856ee58e.com^
 ||zrdga.cn^
+||lmvotk.cn^
+||cwgucvm.icu^
+||forrzp.xyz^
+||arkkcu.xyz^
+||jgidskia.top^
+||fhvzrr.xyz^
+||mnpzrgz.xyz^
 ||zuvbzl.xyz^
 ||zwdtvx.xyz^
 ||zwxxcb.icu^
@@ -11444,7 +11451,10 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||bcebos.com/24x360x528.gif
 !------------------------Specific element hiding rules------------------------!
 szxx.com.cn###A0
-1point3acrescom###portal_block_567
+123pan.com##.ant-carousel
+123pan.com##.banner-container-pc
+123pan.com##.banner-container-h5
+1point3acres.com#?#div[id^="portal_block"]:-abp-has(a[href*="fiverr.com"])
 element-plus.org##.toc-content > div[style="margin-top:16px;"]
 element-plus.org##aside > .page-content-main
 szxx.com.cn###A1
