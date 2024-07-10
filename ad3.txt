@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: riV4+BoN2SDNUeBtLmrBtQ
+! Checksum: UoosjA8/E/gQc+D9NOLvtg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202407100902
-! Last Modified: 2024年07月10日 09:02
+! Version: 202407102026
+! Last Modified: 2024年07月10日 20:26
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1725,6 +1725,8 @@ newduba.cn###jq_youxi
 ||sgru.cn^
 ||irtliso.top^
 ||hrrjff.xyz^
+||atbif.cn^
+||jrtlisa.top^
 ##a[href*=".68hantang.com"]
 ##a[href*=".asd245796.com:"]
 ##a[href*=".asd252466.com:"]
@@ -22410,7 +22412,7 @@ m.babytree.com##script + a[class]
 /analytics/comscore.js
 /analytics/dist/analytics.min.js
 /analytics/embed/*
-/analytics/event
+/analytics/event$domain=~app.diagrams.net
 /analytics/ga.js
 /analytics/google.js
 /analytics/layer
@@ -31283,6 +31285,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.clic2buy.com^
 ||t.dgm-au.com^$third-party
 ||t.enuygun.com^
+||t.fullres.net^
 ||t.ghostboard.io^
 ||t.id.net/log
 ||t.irtyc.com^
@@ -34149,6 +34152,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.gofile.io^
 ||s.infogram.com^
 ||s.wayfair.com^
+||sa.uswitch.com^
 ||saa.insideedition.com^
 ||samsung.com/us/web/internal/logger
 ||sapphire-api.target.com^
