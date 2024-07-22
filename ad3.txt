@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 5c+VRj1wxnxV1MP7jXjeFA
+! Checksum: /3iP0xtHS0wdG54HRve7WA
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202407221419
-! Last Modified: 2024年07月22日 14:19
+! Version: 202407222027
+! Last Modified: 2024年07月22日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -23845,6 +23845,7 @@ omni.soundestlink.com$image
 ||australiarevival.com^
 ||avads.net^
 ||awmonitor.com^
+||b3mxnuvcer.com^
 ||bfmio.com^
 ||bidgx.com^
 ||bidswitch.net^
@@ -28190,6 +28191,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||applets.ebxcdn.com^
 ||applicationinsights.azure.com^$third-party,domain=~azure.net
 ||appliedsemantics.com/images/x.gif
+||applovin.com/shopify/*/pixel
 ||appmifile.com/webfile/globalweb/stat/
 ||appsolutions.com/hitme?$third-party
 ||appspot.com/analytics/
@@ -28678,7 +28680,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||doppiocdn.org/healthcheck
 ||doppler-beacon.cbsivideo.com^
 ||doppler-client-events.cbsivideo.com^
-||doppler-config.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
 ||dreamhost.com/*.cgi?$image,third-party
@@ -29776,6 +29777,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shareit.com/affiliate.html$third-party
 ||sharethis.com/increment_clicks?
 ||sharethis.com/pageviews?
+||shopify-gtm-suite.getelevar.com/getelevar/*/dl-web-pixel-lax-custom.js
 ||shopify.com/shopifycloud/consent-tracking-api/
 ||shopify.com/shopifycloud/web-pixels-manager/
 ||shoplocal.com/it.ashx?
@@ -30132,6 +30134,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.myyschool.xyz^
 ||tracker.netklix.com^$script
 ||tracker.nitropay.com^
+||tracker.nocodelytics.com^
 ||tracker.novage.com.ua^
 ||tracker.openwebtorrent.com^
 ||tracker.services.vaix.ai^
@@ -31922,6 +31925,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||behance.net/v2/logs
 ||bestbuy.com/~assets/bby/_js/ext/optmzly/
 ||bfp.capitalone.com^
+||bgro41vnmb.execute-api.us-east-2.amazonaws.com/production$domain=masterworks.com
 ||bhphotovideo.com/aperture/shared/js/dataLayer.js
 ||bi.banggood.com^
 ||bigw.com.au/api/event/
@@ -31950,6 +31954,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||browsealoud.com/plus/scripts/$script
 ||builder.io/api/v1/track
 ||buondua.com/hit/
+||butterfly-api.masterworks.com/v1/
 ||butterly.com/node_modules/detect.js/detect.min.js
 ||buzzfeed.com/destination-sync.html
 ||bwbx.io/s3/javelin/public/hub/js/abba/$script,domain=bloomberg.co.jp|bloomberg.com
@@ -32384,6 +32389,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hulu.com/metricsconfig
 ||hypebeast.com/firebase-messaging-sw.js
 ||i.pokernews.com^
+||i.rayconglobal.com/nb-collector
 ||iam-rum-intake.datadoghq.com^
 ||ibm.com/analytics/build/bluemix-analytics.min.js
 ||ibtimes.com/front/js/counter.js
@@ -32729,6 +32735,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||plausible.dragonfru.it^
 ||plausible.omgapi.org^
 ||plausible.safing.io^
+||plausible.tubemagic.com^
 ||play.google.com/log
 ||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
