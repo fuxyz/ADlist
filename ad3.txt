@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: zw+iscdfjFPJkwQdP0ZunA
+! Checksum: LPNN41Zz5fjWi56K9yl7XQ
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202407270217
-! Last Modified: 2024年07月27日 02:17
+! Version: 202407270901
+! Last Modified: 2024年07月27日 09:01
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1708,6 +1708,12 @@ newduba.cn###jq_youxi
 ||cupfox.app^$third-party
 ||molpmh.xyz^
 ||starredvs.com^
+||wnmoobz.icu^
+||doujs02.shop^
+||baijs02.shop^
+||setlwsb.top^
+||xtrkhv.xyz^
+||oxoucm.xyz^
 ||dpweupc.icu^
 ||clqjyw.xyz^
 ||xjpmlf.xyz^
@@ -23769,6 +23775,7 @@ _WebVitalsReporter_
 /exmo.email/open.html
 /gate.amnesty-international.*/open.php?
 /global-cdm.net:443/sap/public/cuan/*/pixel.gif
+/go.news.fly.io/e/o/*$image
 /gp/r.html?$image
 /gridinbound.blob.core.
 /i?aid=*&se_ac=open&$image
@@ -25872,6 +25879,7 @@ omni.soundestlink.com$image
 ||pjtra.com^$third-party
 ||placemypixel.com^$third-party
 ||platformpanda.com^$third-party
+||plausible-analytics.xyz^$third-party
 ||plausible.avris.it^$third-party
 ||plausible.io^$third-party
 ||plavxml.com^$third-party
@@ -26223,6 +26231,7 @@ omni.soundestlink.com$image
 ||smartctr.com^$third-party
 ||smarterhq.io^$third-party
 ||smarterremarketer.net^$third-party
+||smartico.ai^$third-party
 ||smartlook.com^$third-party
 ||smartocto.com^$third-party
 ||smartology.co^$third-party
@@ -31341,6 +31350,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||b.karte.io^
 ||b.sli-spark.com^
 ||b0.yahoo.co.jp^
+||bance.jp/bnctag.js
 ||bidder.mediams.mb.softbank.jp^
 ||blogroll.livedoor.net/img/blank.gif?
 ||blozoo.info/js/ranktool/
