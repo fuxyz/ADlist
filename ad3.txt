@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: XuGwOqkNEMteKjvjE5Z93Q
+! Checksum: JrffPqmggAkWu/5dAqnuMg
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202408140218
-! Last Modified: 2024年08月14日 02:18
+! Version: 202408140904
+! Last Modified: 2024年08月14日 09:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1716,6 +1716,12 @@ newduba.cn###jq_youxi
 ||uuiaoq.top^
 ||krutvncd.top^
 ||thnuvgme.icu^
+||pefufv.xyz^
+||koufqy.xyz^
+||fspddt.xyz^
+||vzdkngmf.icu^
+||iqgessh.icu^
+||5891344.xn--j1amh^
 ||weagehn.icu^
 ||eqygki.xyz^
 ||shbzjgs.cn^
@@ -26002,7 +26008,7 @@ omni.soundestlink.com$image
 ||perljs.com^$third-party
 ||permutive.com^$third-party
 ||personyze.com^$third-party
-||petametrics.com^$image,third-party
+||petametrics.com^$third-party
 ||pghub.io^$third-party
 ||pgs.io^$third-party,domain=~publicgood.com
 ||phonalytics.com^$third-party
@@ -29882,7 +29888,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quantcast.com/?log
 ||quantcast.mgr.consensu.org/?log
 ||qubitanalytics.appspot.com^
-||query.petametrics.com^
 ||quisma.com/tracking/
 ||quora.com/_/ad/
 ||quora.com/qevents.js
@@ -32829,6 +32834,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mcs.tiktokw.us^
 ||mcs.us.tiktokv.com^
 ||medal.tv^$ping
+||media.io/trk
 ||medium.com/_/batch
 ||meduza.io/stat/
 ||megaplay.cc/cdn-cgi/trace
@@ -32975,7 +32981,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||perf.mouser.com^
 ||performance-logger.minted.com^
 ||perr.hola.org^
-||petametrics.com^$domain=meidastouch.com
 ||pf.newegg.com^
 ||pftk.temu.com^
 ||ph.thenextweb.com^
@@ -33241,6 +33246,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||statsegg.cdngeek.com^
 ||stayz.com.au/cl/data/omgpixel.json
 ||storage.googleapis.com/t3n-de/assets/t3n/2018/scripts/msodrq.js
+||stratascratch.com/monitoring?
 ||strcdn.org/cdn-cgi/trace
 ||strcloud.in/stat/
 ||stream.corporatefinanceinstitute.com^
