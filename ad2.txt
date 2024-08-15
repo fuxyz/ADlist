@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: rvAdLbhTHlEjxyUuQOBPEQ
+! Checksum: NcLTP+6KX86zRc54UgjcNg
 ! Title: CJX's AdFilters
 ! Expires: 12 hours
-! Version: 202408150901
-! Last Modified: 2024年08月15日 09:01
+! Version: 202408152027
+! Last Modified: 2024年08月15日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance
 ! 仅合并规则，未做其余任何处理
@@ -1713,6 +1713,8 @@ newduba.cn###jq_youxi
 ||shbzhkj.cn^
 ||jrjtibez.icu^
 ||bowoprf.icu^
+||oumnxiek.top^
+||erutvncw.top^
 ||pxqqytk.icu^
 ||dshjbn.xyz^
 ||shbzjkj.cn^
@@ -17392,7 +17394,7 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com##style[id^="s-"] + 
 ||cfff.net^$third-party
 ||chnci.com^$third-party
 ||chong-wu.net^
-||chunyuqiufeng.com^
+||chunyuqiufeng.com^$third-party
 ||ckg.vipyl.com^
 ||classic.39health.com^
 ||cm.baidu.com^
