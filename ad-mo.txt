@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: tFMUQj9nK33QQ9LncoL6xQ
+! Checksum: p4xtBNgiTrOTz53b4KgHcw
 ! Title: My AdFilters（for Mobile）
 ! Expires: 12 hours
-! Version: 202408161419
-! Last Modified: 2024年08月16日 14:19
+! Version: 202408162027
+! Last Modified: 2024年08月16日 20:27
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自Easylist、EasylistChina、EasyPrivacy、CJX'sAnnoyance
 ! 感谢各位前辈的分享！
@@ -11044,6 +11044,7 @@ _800x80_
 ##.banner-advertisement
 ##.banner-advertising
 ##.banner-adverts
+##.banner-asd__title
 ##.banner-buysellads
 ##.banner-sponsorship
 ##.banner-top-ads
@@ -70249,7 +70250,7 @@ xxxymovies.com##.kt_imgrc
 4tube.com##.la-jessy-frame
 hqpornstream.com##.lds-hourglass
 thehun.net##.leaderboard
-aniporn.com##.left > section
+abjav.com,aniporn.com##.left > section
 xxxpicss.com,xxxpicz.com##.left-banners
 babepedia.com##.left_side > .sidebar_block > a
 xxxporntalk.com##.leftsidenav
@@ -70283,6 +70284,7 @@ gaymovievids.com,verygayboys.com##.mobile-random
 tube-bunny.com##.mobile-vision
 yourdarkdesires.com##.moment
 txxx.com##.mpululuoopp
+tikpornk.com##.mr-1
 xnxxvideos.rest##.mult
 javfor.tv,javhub.net##.my-2.container
 4kporn.xxx,crazyporn.xxx##.myadswarning
@@ -70393,7 +70395,7 @@ pervclips.com,vikiporn.com##.remove-spots
 cam4.com##.removeAds
 cumlouder.com##.resumecard
 porndroids.com,pornjam.com##.resumecard__banner
-bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,porntop.com##.right
+abjav.com,bdsmx.tube,hotmovs.com,javdoe.fun,javdoe.sh,javtape.site,onlyporn.tube,porntop.com##.right
 infospiral.com##.right-content
 pornoreino.com##.right-side
 definebabe.com##.right-sidebar
@@ -70612,7 +70614,7 @@ xhamster.com##.wixx-ecam-thumb
 xhamster.com##.wixx-ecams-widget
 teenager365.com##.wps-player__happy-inside-btn-close
 pornrabbit.com##.wrap-spots
-bdsmx.tube##.wrapper > section
+abjav.com,bdsmx.tube##.wrapper > section
 porn300.com##.wrapper__related-sites
 upornia.com,upornia.tube##.wssvkvkyyee
 xhamster.com##.xplayer-b
@@ -97663,7 +97665,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bc0a.com/be_ixf_js_sdk.js
 ||bc0a.com/marvel.js
 ||bdg.com/event?
-||beacon-v2.helpscout.net^
 ||beacon.adelphic.com^
 ||beacon.affil.walmart.com^
 ||beacon.aimtell.com^
@@ -101893,6 +101894,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mail.yahoo.com/f/track/
 ||mangadex.org/api/event
 ||mangadex.org/p.js
+||mangakoma.net/ajax/manga/view
 ||manomano.*/api/v1/sp-tracking/
 ||manua.ls/g/collect?
 ||manua.ls/gtag
