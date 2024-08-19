@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: Nx604IYiwPLzg3RUBja6EA
+! Checksum: TtG73dIs6fwORj8XeWG90w
 ! Title: AdFilters
 ! Expires: 12 hours
-! Version: 202408190216
-! Last Modified: 2024年08月19日 02:16
+! Version: 202408190904
+! Last Modified: 2024年08月19日 09:04
 ! Homepage: https://adf.minggo.eu.org
 ! 本规则合并自乘风视频广告过滤规则、EasylistChina、EasylistLite、CJX'sAnnoyance、EasyPrivacy，感谢各位大大的分享！
 ! 仅合并规则，未做其余任何处理
@@ -1710,6 +1710,8 @@ newduba.cn###jq_youxi
 ||38.33.15.*.gif
 ||67.21.92.*.gif
 ||cupfox.app^$third-party
+||xmlgzr.xyz^
+||swarku.xyz^
 ||cb61190372.com^
 ||uloscw.xyz^
 ||gahejiao.com^
@@ -29851,6 +29853,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rakanto.com/cx_collector/
 ||ramp.purch.com^
 ||rampjs-cdn.system1.com^
+||rapidspike.com/performance/
+||rapidspike.com/static/js/timingpcg.min.js
 ||raygun.io/events?
 ||rbl.ms/res/users/tracking/
 ||reach-id.orbit.tm-awx.com^
@@ -31875,6 +31879,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.smartmedia.tj^
 ||sal.isanook.com^
 ||stat.matichon.co.th^
+||0.myikas.com^
 ||analitik.bik.gov.tr^
 ||analytics.kkb.com.tr^
 ||c.keltis.com^
@@ -70770,6 +70775,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||metrika.kontur.ru^
 ||mirtesen.ru/js/ms.js
 ||ms.dzen.ru^
+||ms.vk.com^
 ||mts.ru/fe-api/logger
 ||mytoys.ru/ka_z.jpg?
 ||ngs.ru/s/
@@ -71270,6 +71276,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||trackonomics.net/client/$script,domain=popsugar.com
 @@||travel-assets.com/platform-analytics-prime/$domain=chase.com
 @@||tunein.com/api/v1/comscore$~third-party
+@@||unpkg.com/@adobe/magento-storefront-event-collector@$domain=osprey.com
 @@||userapi.com^*.gif?extra=$image,domain=vk.com
 @@||usplastic.com/js/hawk.js
 @@||uwufufu.com/_nuxt/mixpanel.$~third-party
